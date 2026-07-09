@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}Tales of Bharat — Leaderboard{% endblock %}
+{% block content %}
+<h1 style="font-size:24px;">Leaderboard</h1>
+<p class="subtitle" style="margin-bottom:20px;">The finest minds to walk the path of Bharat.</p>
+
+{% if rows %}
+  {% for r in rows %}
+  <div class="lb-row">
+    <div class="lb-rank">{{ loop.index }}</div>
+    <div class="lb-name">{{ r['username'] }}</div>
+    <div class="lb-score">{{ r['score'] }}/{{ r['total'] }}</div>
+  </div>
+  {% endfor %}
+{% else %}
+  <div class="lb-empty">No scores yet — be the first to play.</div>
+{% endif %}
+
+<a href="{{ url_for('home') }}"><button class="btn btn-secondary" style="margin-top:20px;">← Back</button></a>
+{% endblock %}

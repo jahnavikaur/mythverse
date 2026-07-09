@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% block title %}Tales of Bharat — Round{% endblock %}
+{% block content %}
+
+<div class="quiz-header">
+  <div class="ring-wrap">
+    <div class="ring" style="--pct:{{ (index / total * 100) | round(0, 'floor') | int }}">
+      <div class="ring-inner">{{ index + 1 }}/{{ total }}</div>
+    </div>
+  </div>
+  <div class="score-pill">Score <b>{{ score }}</b></div>
+</div>
+
+<div class="category-tag">{{ question['category'] }}</div>
+<div class="question">{{ question['question'] }}</div>
+
+<form method="POST" action="{{ url_for('answer') }}">
+  <div class="options">
+    {% for letter in ['a', 'b', 'c', 'd'] %}
+      {% set opt_text = question['option_' + letter] %}
+      {% set cls = "" %}
+      {% if answered %}
+        {% if letter == answered['correct_option'] %}
+          {% set cls = "correct" %}
+        {% elif letter == answered['selected'] %}
+          {% set cls = "wrong" %}
+        {% else %}
+          {% set cls = "dim" %}
+        {% endif %}
+      {% endif %}
+      <button type="submit" name="option" value="{{ letter }}"
+              class="opt {{ cls }}" {% if answered %}disabled{% endif %}>
+        <span class="letter">{{ letter | upper }}</span><span>{{ opt_text }}</span>
+      </button>
+    {% endfor %}
+  </div>
+</form>
+
+{% if answered %}
+  <div class="feedback {{ 'correct' if answered['correct'] else 'wrong' }}">
+    {% if answered['correct'] %}
+      ✓ Correct.
+    {% else %}
+      ✗ Not quite — the answer was {{ question['option_' + answered['correct_option']] }}.
+    {% endif %}
+  </div>
+  <a href="{{ url_for('next_question') }}">
+    <button class="btn btn-primary">
+      {% if index + 1 >= total %}See Results →{% else %}Next Question →{% endif %}
+    </button>
+  </a>
+{% endif %}
+
+{% endblock %}

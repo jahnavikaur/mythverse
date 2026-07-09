@@ -1,0 +1,201 @@
+:root{
+  --night: #150F35;
+  --night-deep: #0D0924;
+  --gold: #D4A947;
+  --gold-bright: #F0CC6E;
+  --vermillion: #E1543D;
+  --leaf: #7FA65C;
+  --ivory: #F3EAD8;
+  --ivory-dim: #C8BFAE;
+  --card-line: rgba(212,169,71,0.28);
+}
+
+*{ box-sizing:border-box; margin:0; padding:0; }
+
+html,body{ height:100%; }
+
+body{
+  min-height:100vh;
+  font-family:'Inter', sans-serif;
+  color:var(--ivory);
+  background:
+    radial-gradient(1px 1px at 10% 20%, rgba(255,255,255,0.5) 0, transparent 100%),
+    radial-gradient(1px 1px at 80% 15%, rgba(255,255,255,0.4) 0, transparent 100%),
+    radial-gradient(1px 1px at 60% 70%, rgba(255,255,255,0.35) 0, transparent 100%),
+    radial-gradient(1px 1px at 25% 85%, rgba(255,255,255,0.4) 0, transparent 100%),
+    radial-gradient(1px 1px at 90% 60%, rgba(255,255,255,0.3) 0, transparent 100%),
+    radial-gradient(1px 1px at 45% 40%, rgba(255,255,255,0.4) 0, transparent 100%),
+    radial-gradient(1px 1px at 70% 90%, rgba(255,255,255,0.3) 0, transparent 100%),
+    radial-gradient(ellipse at 50% -10%, #2A1F5C 0%, transparent 55%),
+    linear-gradient(180deg, var(--night) 0%, var(--night-deep) 100%);
+  display:flex;
+  align-items:flex-start;
+  justify-content:center;
+  padding:40px 16px;
+}
+
+.page{ width:100%; max-width:560px; }
+
+.eyebrow{
+  font-family:'Inter'; font-size:11px; font-weight:600; letter-spacing:0.28em;
+  text-transform:uppercase; color:var(--gold); text-align:center; margin-bottom:10px;
+}
+
+.nav{
+  display:flex; align-items:center; justify-content:center; gap:18px;
+  margin-bottom:18px; font-size:13px;
+}
+.nav-user{ font-weight:700; color:var(--gold-bright); }
+.nav a{ color:var(--ivory-dim); text-decoration:none; }
+.nav a:hover{ color:var(--gold-bright); }
+
+.flash{
+  background:rgba(225,84,61,0.12); border:1px solid rgba(225,84,61,0.4);
+  color:var(--ivory); border-radius:10px; padding:10px 14px; margin-bottom:14px;
+  font-size:13.5px; text-align:center;
+}
+
+.card{
+  background:linear-gradient(180deg, rgba(255,255,255,0.04), rgba(255,255,255,0.015));
+  border:1px solid var(--card-line);
+  border-radius:18px;
+  padding:44px 36px;
+  backdrop-filter:blur(6px);
+  box-shadow:0 0 0 1px rgba(0,0,0,0.2), 0 30px 70px -20px rgba(0,0,0,0.6), 0 0 60px -25px rgba(212,169,71,0.35);
+  position:relative;
+  overflow:hidden;
+}
+
+.card::before{
+  content:"";
+  position:absolute; inset:0;
+  background:repeating-conic-gradient(from 0deg, rgba(212,169,71,0.05) 0deg 2deg, transparent 2deg 15deg);
+  -webkit-mask:radial-gradient(circle at 100% 0%, black, transparent 60%);
+  mask:radial-gradient(circle at 100% 0%, black, transparent 60%);
+  pointer-events:none;
+}
+
+h1{
+  font-family:'Cinzel Decorative', serif;
+  font-size:30px; text-align:center; color:var(--gold-bright);
+  letter-spacing:0.02em; line-height:1.3; margin-bottom:8px;
+  text-shadow:0 0 30px rgba(240,204,110,0.25);
+}
+
+.subtitle{
+  text-align:center; color:var(--ivory-dim); font-size:14.5px; line-height:1.6;
+  margin-bottom:32px; font-weight:400;
+}
+
+label.field-label{
+  display:block; font-size:12px; font-weight:600; letter-spacing:0.08em;
+  text-transform:uppercase; color:var(--gold); margin-bottom:8px;
+}
+
+input[type="text"], input[type="password"]{
+  width:100%; padding:14px 16px; font-size:16px; font-family:'Inter';
+  background:rgba(0,0,0,0.25); border:1px solid var(--card-line); border-radius:10px;
+  color:var(--ivory); outline:none; transition:border-color 0.2s, box-shadow 0.2s;
+}
+input::placeholder{ color:rgba(243,234,216,0.35); }
+input:focus{ border-color:var(--gold); box-shadow:0 0 0 3px rgba(212,169,71,0.18); }
+
+.btn{
+  width:100%; padding:15px 20px; margin-top:22px;
+  font-family:'Inter'; font-size:15px; font-weight:600; letter-spacing:0.03em;
+  border-radius:10px; border:none; cursor:pointer;
+  transition:transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
+}
+.btn:focus-visible{ outline:2px solid var(--gold-bright); outline-offset:3px; }
+.btn-primary{
+  background:linear-gradient(180deg, var(--gold-bright), var(--gold));
+  color:#241804; box-shadow:0 8px 20px -8px rgba(212,169,71,0.6);
+}
+.btn-primary:hover{ transform:translateY(-1px); filter:brightness(1.05); }
+.btn-primary:active{ transform:translateY(0); }
+.btn-secondary{ background:transparent; color:var(--ivory); border:1px solid var(--card-line); }
+.btn-secondary:hover{ border-color:var(--gold); color:var(--gold-bright); }
+.btn-row{ display:flex; gap:12px; margin-top:22px; }
+.btn-row .btn{ margin-top:0; }
+
+.lore{
+  margin-top:26px; padding-top:22px; border-top:1px solid var(--card-line);
+  font-size:12.5px; color:var(--ivory-dim); text-align:center; line-height:1.7;
+}
+
+/* ---- Quiz ---- */
+.quiz-header{ display:flex; align-items:center; justify-content:space-between; margin-bottom:28px; }
+
+.ring-wrap{ position:relative; width:64px; height:64px; flex-shrink:0; }
+.ring{
+  width:64px; height:64px; border-radius:50%;
+  background:conic-gradient(var(--gold) calc(var(--pct,0) * 1%), rgba(255,255,255,0.08) 0);
+  display:flex; align-items:center; justify-content:center;
+}
+.ring-inner{
+  width:50px; height:50px; border-radius:50%; background:var(--night-deep);
+  display:flex; align-items:center; justify-content:center;
+  font-family:'Cinzel'; font-size:13px; font-weight:600; color:var(--gold-bright);
+}
+
+.score-pill{
+  font-family:'Inter'; font-size:13px; font-weight:600; color:var(--ivory-dim);
+  background:rgba(0,0,0,0.25); border:1px solid var(--card-line);
+  padding:8px 14px; border-radius:20px;
+}
+.score-pill b{ color:var(--gold-bright); font-size:15px; }
+
+.category-tag{
+  display:inline-block; font-size:11px; font-weight:600; letter-spacing:0.1em;
+  text-transform:uppercase; color:var(--vermillion); margin-bottom:12px;
+}
+
+.question{
+  font-family:'Cinzel'; font-size:21px; font-weight:600; line-height:1.5;
+  color:var(--ivory); margin-bottom:26px;
+}
+
+.options{ display:flex; flex-direction:column; gap:10px; }
+
+.opt{
+  text-align:left; width:100%; padding:14px 16px; font-family:'Inter'; font-size:14.5px;
+  font-weight:500; color:var(--ivory);
+  background:rgba(255,255,255,0.03); border:1px solid var(--card-line); border-radius:10px;
+  cursor:pointer; transition:all 0.15s ease; display:flex; align-items:center; gap:12px;
+}
+.opt .letter{
+  width:24px; height:24px; border-radius:50%; border:1px solid var(--card-line);
+  display:flex; align-items:center; justify-content:center; font-size:11px; font-weight:700;
+  color:var(--gold); flex-shrink:0;
+}
+.opt:hover:not(:disabled){ border-color:var(--gold); background:rgba(212,169,71,0.08); }
+.opt:disabled{ cursor:default; }
+.opt.correct{ border-color:var(--leaf); background:rgba(127,166,92,0.16); }
+.opt.correct .letter{ background:var(--leaf); color:#0D0924; border-color:var(--leaf); }
+.opt.wrong{ border-color:var(--vermillion); background:rgba(225,84,61,0.14); }
+.opt.wrong .letter{ background:var(--vermillion); color:#0D0924; border-color:var(--vermillion); }
+.opt.dim{ opacity:0.45; }
+
+.feedback{ min-height:20px; margin-top:16px; font-size:13.5px; font-weight:600; text-align:center; }
+.feedback.correct{ color:var(--leaf); }
+.feedback.wrong{ color:var(--vermillion); }
+
+/* ---- Result ---- */
+.result-score{
+  text-align:center; font-family:'Cinzel Decorative'; font-size:56px; color:var(--gold-bright);
+  line-height:1; margin-bottom:6px; text-shadow:0 0 30px rgba(240,204,110,0.3);
+}
+.result-total{ text-align:center; color:var(--ivory-dim); font-size:14px; margin-bottom:22px; }
+.tier{ text-align:center; font-family:'Cinzel'; font-size:19px; font-weight:600; color:var(--gold); margin-bottom:6px; }
+.tier-desc{ text-align:center; color:var(--ivory-dim); font-size:13.5px; line-height:1.7; margin-bottom:8px; padding:0 8px; }
+
+/* ---- Leaderboard ---- */
+.lb-row{
+  display:flex; align-items:center; gap:14px; padding:12px 14px;
+  border:1px solid var(--card-line); border-radius:10px; margin-bottom:8px;
+  background:rgba(255,255,255,0.02);
+}
+.lb-rank{ font-family:'Cinzel'; font-weight:700; font-size:14px; color:var(--gold); width:22px; text-align:center; flex-shrink:0; }
+.lb-name{ flex:1; font-size:14px; font-weight:600; }
+.lb-score{ font-family:'Cinzel'; font-weight:600; color:var(--gold-bright); font-size:14px; }
+.lb-empty{ text-align:center; color:var(--ivory-dim); font-size:13.5px; padding:20px 0; }

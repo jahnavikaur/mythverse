@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block title %}Tales of Bharat — Result{% endblock %}
+{% block content %}
+<div class="eyebrow" style="margin-bottom:20px;">Quest Complete</div>
+<div class="result-score">{{ score }}</div>
+<div class="result-total">out of {{ total }} correct</div>
+<div class="tier">{{ title }}</div>
+<div class="tier-desc">{{ desc }}</div>
+<div class="btn-row">
+  <a href="{{ url_for('leaderboard') }}" style="flex:1;"><button class="btn btn-secondary">Leaderboard</button></a>
+  <a href="{{ url_for('reset_quiz') }}" style="flex:1;"><button class="btn btn-primary">Play Again</button></a>
+</div>
+{% endblock %}

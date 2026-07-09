@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %}Tales of Bharat — Log In{% endblock %}
+{% block content %}
+<h1>Tales of Bharat</h1>
+<p class="subtitle">Questions from the Ramayana, the Mahabharata, and the world of the Devas. Answer well, and earn your title.</p>
+
+<form method="POST" action="{{ url_for('login') }}">
+  <label class="field-label" for="login-username">Username</label>
+  <input type="text" id="login-username" name="username" placeholder="Your username" required autocomplete="username">
+
+  <label class="field-label" for="login-password" style="margin-top:14px;">Password</label>
+  <input type="password" id="login-password" name="password" placeholder="Your password" required autocomplete="current-password">
+
+  <button type="submit" class="btn btn-primary">Log In →</button>
+</form>
+
+<div class="lore">New here?</div>
+
+<form method="POST" action="{{ url_for('register') }}">
+  <label class="field-label" for="reg-username">Choose a username</label>
+  <input type="text" id="reg-username" name="username" placeholder="Pick a username" required autocomplete="username">
+
+  <label class="field-label" for="reg-password" style="margin-top:14px;">Choose a password</label>
+  <input type="password" id="reg-password" name="password" placeholder="Pick a password" required autocomplete="new-password">
+
+  <button type="submit" class="btn btn-secondary">Create Account</button>
+</form>
+{% endblock %}
