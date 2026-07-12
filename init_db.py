@@ -1,13 +1,14 @@
-"""Run once to set up database.db: creates tables and seeds the question bank.
+"""Run once to set up database.db: creates tables and indexes.
    Also runs automatically every time app.py starts, so this is mainly
-   useful if you want a fresh DB or to reseed manually."""
+   useful if you want to (re)create a fresh DB.
 
-from database import init_db, get_db
-from data.questions import seed_questions
+   To load questions, run import_questions.py separately (and again
+   any time you add more question files under data/content/).
+"""
+
+from database import init_db
 
 if __name__ == "__main__":
     init_db()
-    conn = get_db()
-    seed_questions(conn)
-    conn.close()
-    print("Database ready: tables created and questions seeded.")
+    print("Database ready: tables and indexes created.")
+    print("Now run `python import_questions.py` to load questions.")

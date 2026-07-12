@@ -11,8 +11,9 @@ def get_db():
 
 
 def init_db():
-    """Create tables if they don't already exist. Safe to call every startup."""
+    """Create tables and indexes if they don't already exist. Safe to call every startup."""
     conn = get_db()
+    conn.execute("PRAGMA journal_mode=WAL")  # better read/write concurrency at scale
     conn.executescript(
         """
         CREATE TABLE IF NOT EXISTS users (
@@ -33,6 +34,14 @@ def init_db():
             correct_option TEXT NOT NULL,
             difficulty TEXT DEFAULT 'medium'
         );
+
+        -- Speeds up "give me N random questions from category X at difficulty Y"
+        CREATE INDEX IF NOT EXISTS idx_category_difficulty
+            ON questions(category, difficulty);
+
+        -- Prevents duplicate rows when import_questions.py is re-run
+        CREATE UNIQUE INDEX IF NOT EXISTS idx_question_unique
+            ON questions(category, difficulty, question);
 
         CREATE TABLE IF NOT EXISTS attempts (
             id INTEGER PRIMARY KEY AUTOINCREMENT,

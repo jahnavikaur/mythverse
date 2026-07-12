@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Where was Krishna born?",
+    "options": {
+      "a": "Mathura",
+      "b": "Dwarka",
+      "c": "Vrindavan",
+      "d": "Hastinapur"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who were Krishna's foster parents?",
+    "options": {
+      "a": "Yashoda and Nanda",
+      "b": "Devaki and Vasudeva",
+      "c": "Rohini and Vasudeva",
+      "d": "Radha and Nanda"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who is Krishna's elder brother?",
+    "options": {
+      "a": "Balarama",
+      "b": "Pradyumna",
+      "c": "Samba",
+      "d": "Yuyudhana"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who are Krishna's biological parents?",
+    "options": {
+      "a": "Vasudeva and Devaki",
+      "b": "Nanda and Yashoda",
+      "c": "Ugrasena and Padmavati",
+      "d": "Vasudeva and Rohini"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was Krishna's tyrant maternal uncle in Mathura?",
+    "options": {
+      "a": "Kansa",
+      "b": "Jarasandha",
+      "c": "Shishupala",
+      "d": "Kalayavana"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was Krishna's close friend from a poor Brahmin family?",
+    "options": {
+      "a": "Sudama",
+      "b": "Uddhava",
+      "c": "Akrura",
+      "d": "Daruka"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What food is Krishna famously fond of stealing as a child?",
+    "options": {
+      "a": "Butter",
+      "b": "Honey",
+      "c": "Sweets",
+      "d": "Milk"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "What musical instrument is Krishna traditionally shown playing?",
+    "options": {
+      "a": "Flute",
+      "b": "Veena",
+      "c": "Drum",
+      "d": "Conch"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who is Krishna's beloved companion associated with divine love in Vrindavan?",
+    "options": {
+      "a": "Radha",
+      "b": "Rukmini",
+      "c": "Satyabhama",
+      "d": "Jambavati"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which demoness tried to kill baby Krishna with poisoned breast milk?",
+    "options": {
+      "a": "Putana",
+      "b": "Trinavarta",
+      "c": "Bakasura",
+      "d": "Aghasura"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which serpent did Krishna subdue in the Yamuna river?",
+    "options": {
+      "a": "Kaliya",
+      "b": "Vasuki",
+      "c": "Takshaka",
+      "d": "Shesha"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which mountain did Krishna lift to protect villagers?",
+    "options": {
+      "a": "Govardhan",
+      "b": "Mandara",
+      "c": "Kailash",
+      "d": "Meru"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which god did Krishna challenge by lifting Govardhan Hill?",
+    "options": {
+      "a": "Indra",
+      "b": "Varuna",
+      "c": "Agni",
+      "d": "Vayu"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Where did Krishna kill his tyrant uncle Kansa?",
+    "options": {
+      "a": "Mathura",
+      "b": "Vrindavan",
+      "c": "Dwarka",
+      "d": "Gokul"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What is the name of Krishna's conch shell?",
+    "options": {
+      "a": "Panchajanya",
+      "b": "Devadatta",
+      "c": "Anantavijaya",
+      "d": "Sughosha"
+    },
+    "correct": "a"
+  }
+]

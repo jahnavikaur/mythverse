@@ -100,6 +100,15 @@ input[type="text"], input[type="password"]{
 input::placeholder{ color:rgba(243,234,216,0.35); }
 input:focus{ border-color:var(--gold); box-shadow:0 0 0 3px rgba(212,169,71,0.18); }
 
+select{
+  width:100%; padding:14px 16px; font-size:16px; font-family:'Inter';
+  background:rgba(0,0,0,0.25); border:1px solid var(--card-line); border-radius:10px;
+  color:var(--ivory); outline:none; transition:border-color 0.2s, box-shadow 0.2s;
+  appearance:none; cursor:pointer;
+}
+select:focus{ border-color:var(--gold); box-shadow:0 0 0 3px rgba(212,169,71,0.18); }
+select option{ background:var(--night-deep); color:var(--ivory); }
+
 .btn{
   width:100%; padding:15px 20px; margin-top:22px;
   font-family:'Inter'; font-size:15px; font-weight:600; letter-spacing:0.03em;

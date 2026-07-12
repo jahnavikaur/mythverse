@@ -1,0 +1,152 @@
+ [
+  {
+    "question": "Who is the king of the Devas?",
+    "options": {
+      "a": "Indra",
+      "b": "Agni",
+      "c": "Varuna",
+      "d": "Surya"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who is the god of fire?",
+    "options": {
+      "a": "Vayu",
+      "b": "Agni",
+      "c": "Surya",
+      "d": "Indra"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Who is the god of wind?",
+    "options": {
+      "a": "Vayu",
+      "b": "Agni",
+      "c": "Varuna",
+      "d": "Yama"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who is the sun god?",
+    "options": {
+      "a": "Chandra",
+      "b": "Surya",
+      "c": "Indra",
+      "d": "Agni"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Who is the moon god?",
+    "options": {
+      "a": "Surya",
+      "b": "Chandra",
+      "c": "Rahu",
+      "d": "Shani"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Who is the god of death?",
+    "options": {
+      "a": "Yama",
+      "b": "Varuna",
+      "c": "Agni",
+      "d": "Indra"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who is the god of water?",
+    "options": {
+      "a": "Vayu",
+      "b": "Agni",
+      "c": "Varuna",
+      "d": "Surya"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Who is the god of wealth among the Devas?",
+    "options": {
+      "a": "Kubera",
+      "b": "Indra",
+      "c": "Agni",
+      "d": "Varuna"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What is the name of the divine nectar churned from the ocean?",
+    "options": {
+      "a": "Amrita",
+      "b": "Soma",
+      "c": "Ghee",
+      "d": "Payasam"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What is the name of Indra's elephant?",
+    "options": {
+      "a": "Airavata",
+      "b": "Uchhaishravas",
+      "c": "Gajendra",
+      "d": "Kamadhenu"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What is Indra's weapon called?",
+    "options": {
+      "a": "Trishula",
+      "b": "Vajra",
+      "c": "Sudarshana Chakra",
+      "d": "Pashupatastra"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Who is the creator god in the Hindu trinity?",
+    "options": {
+      "a": "Vishnu",
+      "b": "Shiva",
+      "c": "Brahma",
+      "d": "Indra"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Who is the preserver god in the Hindu trinity?",
+    "options": {
+      "a": "Brahma",
+      "b": "Vishnu",
+      "c": "Shiva",
+      "d": "Surya"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Who is the destroyer god in the Hindu trinity?",
+    "options": {
+      "a": "Shiva",
+      "b": "Vishnu",
+      "c": "Brahma",
+      "d": "Indra"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who is the goddess of wealth?",
+    "options": {
+      "a": "Saraswati",
+      "b": "Lakshmi",
+      "c": "Parvati",
+      "d": "Ganga"
+    },
+    "correct": "b"
+  }
+]

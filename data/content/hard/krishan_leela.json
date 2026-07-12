@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who shot the arrow that ultimately killed Krishna?",
+    "options": {
+      "a": "A hunter named Jara",
+      "b": "Ashwatthama",
+      "c": "Duryodhana",
+      "d": "Jarasandha"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Where on his body was Krishna fatally struck?",
+    "options": {
+      "a": "His foot",
+      "b": "His chest",
+      "c": "His head",
+      "d": "His hand"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "At which location did Krishna leave his mortal body?",
+    "options": {
+      "a": "Prabhasa",
+      "b": "Kurukshetra",
+      "c": "Mathura",
+      "d": "Vrindavan"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Krishna is traditionally regarded as which numbered avatar of Vishnu?",
+    "options": {
+      "a": "Eighth",
+      "b": "Tenth",
+      "c": "Seventh",
+      "d": "Ninth"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What ultimately caused the self-destruction of Krishna's Yadava clan?",
+    "options": {
+      "a": "A mutual civil war fueled by a curse and drinking",
+      "b": "A war with the Kauravas",
+      "c": "An invasion by Jarasandha",
+      "d": "A famine"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "The Yadava clan's destructive weapons grew from powder made from what object, born of a prophecy?",
+    "options": {
+      "a": "An iron pestle/mace",
+      "b": "A cursed sword",
+      "c": "A poisoned arrow",
+      "d": "A stone idol"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What title, meaning 'charioteer of Arjuna,' is Krishna known by?",
+    "options": {
+      "a": "Parthasarathi",
+      "b": "Govinda",
+      "c": "Madhava",
+      "d": "Keshava"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What was Krishna's foster father Nanda's occupation?",
+    "options": {
+      "a": "Chief of a cowherd community",
+      "b": "A king",
+      "c": "A priest",
+      "d": "A warrior"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "In most classical texts, what is Radha's relationship status with Krishna?",
+    "options": {
+      "a": "His beloved consort, not formally his wife",
+      "b": "His first wife",
+      "c": "His sister",
+      "d": "His guru"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who imprisoned Krishna's mother Devaki before his birth?",
+    "options": {
+      "a": "Kansa, her own nephew",
+      "b": "Jarasandha",
+      "c": "Shishupala",
+      "d": "Kalayavana"
+    },
+    "correct": "a"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Who is Bharata's mother?",
+    "options": {
+      "a": "Kaikeyi",
+      "b": "Kausalya",
+      "c": "Sumitra",
+      "d": "Mandodari"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who is Rama's mother?",
+    "options": {
+      "a": "Kausalya",
+      "b": "Kaikeyi",
+      "c": "Sumitra",
+      "d": "Urmila"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Lakshmana and Shatrughna are twin sons of which of Dasharatha's wives?",
+    "options": {
+      "a": "Sumitra",
+      "b": "Kausalya",
+      "c": "Kaikeyi",
+      "d": "Mandodari"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who carried Rama's ring to Sita in Lanka?",
+    "options": {
+      "a": "Hanuman",
+      "b": "Angada",
+      "c": "Jambavan",
+      "d": "Sugriva"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What is the name of Ravana's son who battled Lakshmana with a powerful weapon?",
+    "options": {
+      "a": "Indrajit",
+      "b": "Akshaya Kumara",
+      "c": "Atikaya",
+      "d": "Prahasta"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who ultimately killed Indrajit?",
+    "options": {
+      "a": "Lakshmana",
+      "b": "Rama",
+      "c": "Hanuman",
+      "d": "Sugriva"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which demon disguised himself as a golden deer to lure Rama away?",
+    "options": {
+      "a": "Maricha",
+      "b": "Subahu",
+      "c": "Tataka",
+      "d": "Khara"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which vulture tried to save Sita from Ravana and was mortally wounded?",
+    "options": {
+      "a": "Jatayu",
+      "b": "Sampati",
+      "c": "Garuda",
+      "d": "Vainateya"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Kumbhakarna is known for sleeping for how long at a stretch?",
+    "options": {
+      "a": "Six months",
+      "b": "One month",
+      "c": "One year",
+      "d": "Twelve years"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who became king of Lanka after Ravana's death?",
+    "options": {
+      "a": "Vibhishana",
+      "b": "Indrajit",
+      "c": "Kumbhakarna",
+      "d": "Prahasta"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which herb did Hanuman fetch to save Lakshmana's life?",
+    "options": {
+      "a": "Sanjeevani",
+      "b": "Tulsi",
+      "c": "Ashwagandha",
+      "d": "Brahmi"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What test did Sita undergo after the war to prove her purity?",
+    "options": {
+      "a": "Agni Pariksha",
+      "b": "Jal Pariksha",
+      "c": "Vayu Pariksha",
+      "d": "Yama Pariksha"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who ruled Ayodhya in Rama's stead during his exile, using his sandals as a symbol?",
+    "options": {
+      "a": "Bharata",
+      "b": "Shatrughna",
+      "c": "Lakshmana",
+      "d": "Vashishtha"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Whose curse turned Ahalya to stone until Rama's touch freed her?",
+    "options": {
+      "a": "Gautama",
+      "b": "Durvasa",
+      "c": "Vishwamitra",
+      "d": "Agastya"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What did Shabari offer Rama that she had tasted first to ensure they were sweet?",
+    "options": {
+      "a": "Berries",
+      "b": "Mangoes",
+      "c": "Rice",
+      "d": "Honey"
+    },
+    "correct": "a"
+  }
+]

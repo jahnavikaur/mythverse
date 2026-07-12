@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which asura did Indra defeat in a famous battle described in the Vedas?",
+    "options": {
+      "a": "Vritra",
+      "b": "Mahishasura",
+      "c": "Bhasmasura",
+      "d": "Hiranyaksha"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Whose curse caused Indra's body to be covered in a thousand marks (later eyes)?",
+    "options": {
+      "a": "Gautama",
+      "b": "Durvasa",
+      "c": "Bhrigu",
+      "d": "Vashishtha"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Chandra (the moon god) had an affair with the wife of which of his gurus?",
+    "options": {
+      "a": "Brihaspati",
+      "b": "Vashishtha",
+      "c": "Shukra",
+      "d": "Vishwamitra"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What is the name of Brihaspati's wife, abducted by Chandra?",
+    "options": {
+      "a": "Tara",
+      "b": "Rohini",
+      "c": "Anasuya",
+      "d": "Arundhati"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which planet-god was born from the union of Chandra and Tara?",
+    "options": {
+      "a": "Budha (Mercury)",
+      "b": "Shani (Saturn)",
+      "c": "Mangal (Mars)",
+      "d": "Rahu"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "The divine physicians of the gods are known by what name?",
+    "options": {
+      "a": "Ashwini Kumaras",
+      "b": "Maruts",
+      "c": "Vasus",
+      "d": "Rudras"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Rahu and Ketu originated from which figure who was beheaded during the churning of the ocean?",
+    "options": {
+      "a": "Svarbhanu",
+      "b": "Vritra",
+      "c": "Bali",
+      "d": "Tarakasura"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Shani (Saturn) is the son of Surya and which of his wives?",
+    "options": {
+      "a": "Chhaya",
+      "b": "Sanjna",
+      "c": "Usha",
+      "d": "Aruna"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What is the name of Yama's mount (vahana)?",
+    "options": {
+      "a": "Buffalo (Mahisha)",
+      "b": "Elephant",
+      "c": "Bull",
+      "d": "Vulture"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who is the celestial record-keeper of good and bad deeds in Yama's court?",
+    "options": {
+      "a": "Chitragupta",
+      "b": "Narada",
+      "c": "Vishwakarma",
+      "d": "Brihaspati"
+    },
+    "correct": "a"
+  }
+]

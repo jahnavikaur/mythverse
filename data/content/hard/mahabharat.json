@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who killed Karna in the war?",
+    "options": {
+      "a": "Arjuna",
+      "b": "Bhima",
+      "c": "Yudhishthira",
+      "d": "Nakula"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What immobilized Karna's chariot during his fatal battle?",
+    "options": {
+      "a": "Its wheel got stuck in the ground",
+      "b": "It was struck by lightning",
+      "c": "The horses fled",
+      "d": "It caught fire"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was responsible for the death of Jayadratha, avenging Abhimanyu?",
+    "options": {
+      "a": "Arjuna",
+      "b": "Bhima",
+      "c": "Yudhishthira",
+      "d": "Krishna"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Bhishma chose to die only at an auspicious time due to a boon granting him control over what?",
+    "options": {
+      "a": "The timing of his own death",
+      "b": "Invincibility in battle",
+      "c": "Immortality",
+      "d": "Control over weather"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Amba, who sought revenge against Bhishma, was reborn as which warrior?",
+    "options": {
+      "a": "Shikhandi",
+      "b": "Ashwatthama",
+      "c": "Dhrishtadyumna",
+      "d": "Yuyutsu"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Why did Bhishma refuse to fight Shikhandi directly?",
+    "options": {
+      "a": "Shikhandi was born female",
+      "b": "Shikhandi was unarmed",
+      "c": "Shikhandi was his student",
+      "d": "Shikhandi was too young"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What special gem did Ashwatthama have on his forehead?",
+    "options": {
+      "a": "A mani granting protection",
+      "b": "A ruby of invisibility",
+      "c": "A diamond of strength",
+      "d": "A sapphire of foresight"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who narrated the Mahabharata aloud while Ganesha wrote it down?",
+    "options": {
+      "a": "Vyasa",
+      "b": "Vaishampayana",
+      "c": "Sanjaya",
+      "d": "Suta"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Why did Gandhari keep herself blindfolded throughout her life?",
+    "options": {
+      "a": "In solidarity with her blind husband Dhritarashtra",
+      "b": "As penance for a past sin",
+      "c": "To avoid seeing the war",
+      "d": "On her father's orders"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What did Gandhari curse Krishna with, blaming him for the war's devastation?",
+    "options": {
+      "a": "The destruction of his own Yadava clan",
+      "b": "Eternal exile",
+      "c": "Loss of his memory",
+      "d": "Blindness"
+    },
+    "correct": "a"
+  }
+]

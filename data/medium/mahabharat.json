@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Who was the common guru of the Pandavas and Kauravas in warfare?",
+    "options": {
+      "a": "Drona",
+      "b": "Kripa",
+      "c": "Vyasa",
+      "d": "Vidura"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who were Abhimanyu's parents?",
+    "options": {
+      "a": "Arjuna and Subhadra",
+      "b": "Bhima and Hidimbi",
+      "c": "Yudhishthira and Draupadi",
+      "d": "Nakula and Draupadi"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What was the name of the Pandavas' capital city?",
+    "options": {
+      "a": "Indraprastha",
+      "b": "Hastinapur",
+      "c": "Mathura",
+      "d": "Dwarka"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What game led to the Pandavas' exile?",
+    "options": {
+      "a": "A game of dice",
+      "b": "A wrestling match",
+      "c": "An archery contest",
+      "d": "A chariot race"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was Shakuni in relation to the Kauravas?",
+    "options": {
+      "a": "Maternal uncle",
+      "b": "Paternal uncle",
+      "c": "Brother-in-law",
+      "d": "Guru"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "For how many years total were the Pandavas exiled (forest exile plus incognito year)?",
+    "options": {
+      "a": "13",
+      "b": "10",
+      "c": "18",
+      "d": "5"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "In which kingdom did the Pandavas spend their year in hiding?",
+    "options": {
+      "a": "Virata",
+      "b": "Panchala",
+      "c": "Matsya kingdom under a different name",
+      "d": "Both a and c refer to the same kingdom"
+    },
+    "correct": "d"
+  },
+  {
+    "question": "Who was Bhima's son with the demoness Hidimbi?",
+    "options": {
+      "a": "Ghatotkacha",
+      "b": "Iravan",
+      "c": "Barbarika",
+      "d": "Sarvaga"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who killed Ghatotkacha in the war?",
+    "options": {
+      "a": "Karna",
+      "b": "Drona",
+      "c": "Bhishma",
+      "d": "Ashwatthama"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which kingdom did Karna rule as its king?",
+    "options": {
+      "a": "Anga",
+      "b": "Panchala",
+      "c": "Matsya",
+      "d": "Kosala"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who made Karna the king of Anga?",
+    "options": {
+      "a": "Duryodhana",
+      "b": "Bhishma",
+      "c": "Dhritarashtra",
+      "d": "Drona"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which student cut off his own thumb as guru dakshina for Drona?",
+    "options": {
+      "a": "Ekalavya",
+      "b": "Arjuna",
+      "c": "Ashwatthama",
+      "d": "Karna"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Ekalavya practiced archery before a clay idol of whom?",
+    "options": {
+      "a": "Drona",
+      "b": "Kripa",
+      "c": "Bhishma",
+      "d": "Parashurama"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was Krishna's sister, married to Arjuna?",
+    "options": {
+      "a": "Subhadra",
+      "b": "Draupadi",
+      "c": "Uttaraa",
+      "d": "Kunti"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which Pandava married Ulupi, a Naga princess?",
+    "options": {
+      "a": "Arjuna",
+      "b": "Bhima",
+      "c": "Yudhishthira",
+      "d": "Nakula"
+    },
+    "correct": "a"
+  }
+]

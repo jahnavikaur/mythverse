@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Vayu is considered the divine father of which two figures in different epics?",
+    "options": {
+      "a": "Hanuman and Bhima",
+      "b": "Karna and Arjuna",
+      "c": "Rama and Krishna",
+      "d": "Indra and Agni"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who is Indra's guru?",
+    "options": {
+      "a": "Brihaspati",
+      "b": "Vashishtha",
+      "c": "Vishwamitra",
+      "d": "Narada"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What is the name of the mountain used to churn the ocean of milk?",
+    "options": {
+      "a": "Meru",
+      "b": "Mandara",
+      "c": "Kailash",
+      "d": "Govardhan"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "What was used as the rope to churn the ocean of milk?",
+    "options": {
+      "a": "Shesha Naga",
+      "b": "Vasuki",
+      "c": "Kaliya",
+      "d": "Takshaka"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Which avatar of Vishnu supported the churning mountain on its back?",
+    "options": {
+      "a": "Varaha",
+      "b": "Kurma",
+      "c": "Matsya",
+      "d": "Narasimha"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Kamadhenu, the wish-fulfilling cow, belonged to which sage?",
+    "options": {
+      "a": "Vashishtha",
+      "b": "Vishwamitra",
+      "c": "Durvasa",
+      "d": "Agastya"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who is the celestial architect of the gods?",
+    "options": {
+      "a": "Vishwakarma",
+      "b": "Vishwamitra",
+      "c": "Brihaspati",
+      "d": "Kubera"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Aditi is the mother of which group of gods?",
+    "options": {
+      "a": "Adityas",
+      "b": "Daityas",
+      "c": "Rakshasas",
+      "d": "Nagas"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who is the common father of both the Devas and the Asuras?",
+    "options": {
+      "a": "Kashyapa",
+      "b": "Daksha",
+      "c": "Brahma",
+      "d": "Vishwakarma"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What is the name of Indra's charioteer?",
+    "options": {
+      "a": "Matali",
+      "b": "Daruka",
+      "c": "Aruna",
+      "d": "Sumantra"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who is Surya's charioteer?",
+    "options": {
+      "a": "Matali",
+      "b": "Aruna",
+      "c": "Daruka",
+      "d": "Garuda"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "How many horses pull Surya's chariot?",
+    "options": {
+      "a": "Five",
+      "b": "Seven",
+      "c": "Nine",
+      "d": "Two"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Kubera is the half-brother of which demon king?",
+    "options": {
+      "a": "Ravana",
+      "b": "Hiranyakashipu",
+      "c": "Vritra",
+      "d": "Mahishasura"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What is Varuna's weapon called?",
+    "options": {
+      "a": "Varunastra",
+      "b": "Varunapasha",
+      "c": "Jalachakra",
+      "d": "Naga Pasha"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Who is regarded as the messenger sage who travels between the three worlds?",
+    "options": {
+      "a": "Narada",
+      "b": "Agastya",
+      "c": "Durvasa",
+      "d": "Vishwamitra"
+    },
+    "correct": "a"
+  }
+]

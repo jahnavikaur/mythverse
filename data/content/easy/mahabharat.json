@@ -1,0 +1,163 @@
+[
+  {
+    "question": "Who wrote the Mahabharata?",
+    "options": {"a": "Valmiki", "b": "Vyasa", "c": "Tulsidas", "d": "Kalidasa"},
+    "correct": "b"
+  },
+  {
+    "question": "Who lifted Govardhan Hill?",
+    "options": {"a": "Krishna", "b": "Balarama", "c": "Indra", "d": "Shiva"},
+    "correct": "a"
+  },
+
+  {
+    "question": "Who is the father of Rama?",
+    "options": {
+      "a": "Dasharatha",
+      "b": "Janaka",
+      "c": "Vashishtha",
+      "d": "Dashagriva"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who is Rama's wife?",
+    "options": {
+      "a": "Sita",
+      "b": "Urmila",
+      "c": "Mandavi",
+      "d": "Shrutakirti"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who is Rama's most devoted follower?",
+    "options": {
+      "a": "Hanuman",
+      "b": "Sugriva",
+      "c": "Jambavan",
+      "d": "Angada"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who is the demon king of Lanka?",
+    "options": {
+      "a": "Ravana",
+      "b": "Kumbhakarna",
+      "c": "Vibhishana",
+      "d": "Maricha"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who is Sita's father?",
+    "options": {
+      "a": "Janaka",
+      "b": "Dasharatha",
+      "c": "Kaikeya",
+      "d": "Vibhishana"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "For how many years was Rama exiled?",
+    "options": {
+      "a": "10",
+      "b": "12",
+      "c": "14",
+      "d": "16"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Which brother of Ravana joined Rama's side?",
+    "options": {
+      "a": "Vibhishana",
+      "b": "Kumbhakarna",
+      "c": "Maricha",
+      "d": "Indrajit"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who killed Ravana?",
+    "options": {
+      "a": "Rama",
+      "b": "Lakshmana",
+      "c": "Hanuman",
+      "d": "Sugriva"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who is Hanuman's father?",
+    "options": {
+      "a": "Vayu",
+      "b": "Surya",
+      "c": "Indra",
+      "d": "Kesari"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Where was Sita kept captive in Lanka?",
+    "options": {
+      "a": "Ashoka Vatika",
+      "b": "Pushpaka Vimana",
+      "c": "Ravana's palace hall",
+      "d": "Lanka fort"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who is Rama's guru?",
+    "options": {
+      "a": "Vashishtha",
+      "b": "Vishwamitra",
+      "c": "Agastya",
+      "d": "Vyasa"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who wrote the original Ramayana?",
+    "options": {
+      "a": "Valmiki",
+      "b": "Vyasa",
+      "c": "Tulsidas",
+      "d": "Kalidasa"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who is the monkey king who allies with Rama?",
+    "options": {
+      "a": "Sugriva",
+      "b": "Vali",
+      "c": "Angada",
+      "d": "Jambavan"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Whose bow did Rama break at Sita's swayamvar?",
+    "options": {
+      "a": "Shiva's",
+      "b": "Vishnu's",
+      "c": "Indra's",
+      "d": "Brahma's"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who is Lakshmana's wife?",
+    "options": {
+      "a": "Urmila",
+      "b": "Mandavi",
+      "c": "Shrutakirti",
+      "d": "Sita"
+    },
+    "correct": "a"
+  }
+]

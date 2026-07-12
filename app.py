@@ -5,7 +5,6 @@ from flask import Flask, render_template, request, redirect, url_for, session, j
 
 from config import SECRET_KEY, QUESTIONS_PER_ROUND
 from database import get_db, init_db
-from data.questions import seed_questions
 from auth import hash_password, verify_password
 
 app = Flask(__name__)
@@ -42,8 +41,47 @@ def login_required(view):
 @app.route("/")
 def home():
     if "user_id" in session:
-        return redirect(url_for("play"))
+        return redirect(url_for("setup"))
     return render_template("login.html")
+
+
+@app.route("/setup", methods=["GET", "POST"])
+@login_required
+def setup():
+    conn = get_db()
+    counts = conn.execute(
+        "SELECT category, difficulty, COUNT(*) AS cnt "
+        "FROM questions GROUP BY category, difficulty"
+    ).fetchall()
+    conn.close()
+
+    if not counts:
+        flash("No questions available yet. Import some questions first.")
+        return render_template("setup.html", categories=[], difficulty_order=[], counts={})
+
+    categories = sorted({r["category"] for r in counts})
+    order = {"easy": 0, "medium": 1, "hard": 2}
+    difficulties = sorted({r["difficulty"] for r in counts}, key=lambda d: order.get(d, 99))
+    count_map = {(r["category"], r["difficulty"]): r["cnt"] for r in counts}
+
+    if request.method == "POST":
+        category = request.form.get("category")
+        difficulty = request.form.get("difficulty")
+
+        if (category, difficulty) not in count_map:
+            flash("Please pick a valid domain and difficulty combination.")
+            return redirect(url_for("setup"))
+
+        # Starting a new round — clear any in-progress quiz state.
+        for key in ("quiz_ids", "quiz_index", "quiz_score", "quiz_saved", "quiz_answered"):
+            session.pop(key, None)
+        session["quiz_category"] = category
+        session["quiz_difficulty"] = difficulty
+        return redirect(url_for("play"))
+
+    return render_template(
+        "setup.html", categories=categories, difficulty_order=difficulties, counts=count_map
+    )
 
 
 @app.route("/register", methods=["POST"])
@@ -99,12 +137,20 @@ def logout():
 @app.route("/play")
 @login_required
 def play():
+    if "quiz_category" not in session or "quiz_difficulty" not in session:
+        return redirect(url_for("setup"))
+
     if "quiz_ids" not in session:
         conn = get_db()
-        rows = conn.execute("SELECT id FROM questions").fetchall()
+        rows = conn.execute(
+            "SELECT id FROM questions WHERE category = ? AND difficulty = ?",
+            (session["quiz_category"], session["quiz_difficulty"]),
+        ).fetchall()
         conn.close()
         ids = [r["id"] for r in rows]
         random.shuffle(ids)
+        # ids are unique primary keys pulled from a single filtered query,
+        # so slicing a shuffled list can never repeat a question in one round.
         session["quiz_ids"] = ids[:QUESTIONS_PER_ROUND]
         session["quiz_index"] = 0
         session["quiz_score"] = 0
@@ -195,9 +241,10 @@ def result():
 @app.route("/play/reset")
 @login_required
 def reset_quiz():
-    for key in ("quiz_ids", "quiz_index", "quiz_score", "quiz_saved", "quiz_answered"):
+    for key in ("quiz_ids", "quiz_index", "quiz_score", "quiz_saved", "quiz_answered",
+                "quiz_category", "quiz_difficulty"):
         session.pop(key, None)
-    return redirect(url_for("play"))
+    return redirect(url_for("setup"))
 
 
 @app.route("/leaderboard")
@@ -240,7 +287,4 @@ def api_leaderboard():
 
 if __name__ == "__main__":
     init_db()
-    conn = get_db()
-    seed_questions(conn)
-    conn.close()
     app.run(debug=True)
