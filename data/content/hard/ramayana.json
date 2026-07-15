@@ -1,101 +1,101 @@
 [
   {
-    "question": "Which asura did Indra defeat in a famous battle described in the Vedas?",
+    "question": "Ravana obtained his boons and powers primarily from which god?",
     "options": {
-      "a": "Vritra",
-      "b": "Mahishasura",
-      "c": "Bhasmasura",
-      "d": "Hiranyaksha"
+      "a": "Brahma",
+      "b": "Vishnu",
+      "c": "Indra",
+      "d": "Surya"
     },
     "correct": "a"
   },
   {
-    "question": "Whose curse caused Indra's body to be covered in a thousand marks (later eyes)?",
+    "question": "What is the name of Ravana's flying chariot, taken from Kubera?",
     "options": {
-      "a": "Gautama",
-      "b": "Durvasa",
-      "c": "Bhrigu",
-      "d": "Vashishtha"
+      "a": "Pushpaka Vimana",
+      "b": "Garuda Ratha",
+      "c": "Indra Vimana",
+      "d": "Agni Ratha"
     },
     "correct": "a"
   },
   {
-    "question": "Chandra (the moon god) had an affair with the wife of which of his gurus?",
+    "question": "Who is Ravana's wife?",
     "options": {
-      "a": "Brihaspati",
-      "b": "Vashishtha",
-      "c": "Shukra",
-      "d": "Vishwamitra"
+      "a": "Mandodari",
+      "b": "Surpanakha",
+      "c": "Tataka",
+      "d": "Trijata"
     },
     "correct": "a"
   },
   {
-    "question": "What is the name of Brihaspati's wife, abducted by Chandra?",
+    "question": "Which of Ravana's sons was killed by Hanuman in Lanka?",
     "options": {
-      "a": "Tara",
-      "b": "Rohini",
-      "c": "Anasuya",
-      "d": "Arundhati"
+      "a": "Akshaya Kumara",
+      "b": "Indrajit",
+      "c": "Atikaya",
+      "d": "Prahasta"
     },
     "correct": "a"
   },
   {
-    "question": "Which planet-god was born from the union of Chandra and Tara?",
+    "question": "In whose ashram were Sita's sons Luv and Kush born and raised?",
     "options": {
-      "a": "Budha (Mercury)",
-      "b": "Shani (Saturn)",
-      "c": "Mangal (Mars)",
-      "d": "Rahu"
+      "a": "Valmiki's",
+      "b": "Vashishtha's",
+      "c": "Vishwamitra's",
+      "d": "Agastya's"
     },
     "correct": "a"
   },
   {
-    "question": "The divine physicians of the gods are known by what name?",
+    "question": "How did Sita's story conclude according to the Ramayana?",
     "options": {
-      "a": "Ashwini Kumaras",
-      "b": "Maruts",
-      "c": "Vasus",
-      "d": "Rudras"
+      "a": "She was taken back into the earth",
+      "b": "She ascended to heaven with Rama",
+      "c": "She returned to her father's kingdom",
+      "d": "She became a hermit"
     },
     "correct": "a"
   },
   {
-    "question": "Rahu and Ketu originated from which figure who was beheaded during the churning of the ocean?",
+    "question": "Which demoness's mutilation by Lakshmana set off the chain of events leading to Sita's abduction?",
     "options": {
-      "a": "Svarbhanu",
-      "b": "Vritra",
-      "c": "Bali",
-      "d": "Tarakasura"
+      "a": "Surpanakha",
+      "b": "Tataka",
+      "c": "Trijata",
+      "d": "Ayomukhi"
     },
     "correct": "a"
   },
   {
-    "question": "Shani (Saturn) is the son of Surya and which of his wives?",
+    "question": "What was the cause of King Dasharatha's death?",
     "options": {
-      "a": "Chhaya",
-      "b": "Sanjna",
-      "c": "Usha",
-      "d": "Aruna"
+      "a": "Grief over separation from Rama, tied to a curse",
+      "b": "Battle wounds",
+      "c": "Poisoning",
+      "d": "Old age alone"
     },
     "correct": "a"
   },
   {
-    "question": "What is the name of Yama's mount (vahana)?",
+    "question": "Whose accidental killing by Dasharatha led to the curse that caused his death?",
     "options": {
-      "a": "Buffalo (Mahisha)",
-      "b": "Elephant",
-      "c": "Bull",
-      "d": "Vulture"
+      "a": "Shravan Kumar",
+      "b": "Sage Gautama",
+      "c": "Sage Durvasa",
+      "d": "Sage Agastya"
     },
     "correct": "a"
   },
   {
-    "question": "Who is the celestial record-keeper of good and bad deeds in Yama's court?",
+    "question": "Which sage gave Rama the divine bow and arrows used to kill Ravana?",
     "options": {
-      "a": "Chitragupta",
-      "b": "Narada",
-      "c": "Vishwakarma",
-      "d": "Brihaspati"
+      "a": "Agastya",
+      "b": "Vishwamitra",
+      "c": "Vashishtha",
+      "d": "Narada"
     },
     "correct": "a"
   }

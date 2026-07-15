@@ -148,5 +148,11 @@
       "d": "Sughosha"
     },
     "correct": "a"
+  },
+  {
+    "question": "Who lifted Govardhan Hill?",
+    "options": {"a": "Krishna", "b": "Balarama", "c": "Indra", "d": "Shiva"},
+    "correct": "a"
   }
+
 ]

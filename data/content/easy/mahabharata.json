@@ -1,162 +1,151 @@
 [
   {
     "question": "Who wrote the Mahabharata?",
-    "options": {"a": "Valmiki", "b": "Vyasa", "c": "Tulsidas", "d": "Kalidasa"},
-    "correct": "b"
-  },
-  {
-    "question": "Who lifted Govardhan Hill?",
-    "options": {"a": "Krishna", "b": "Balarama", "c": "Indra", "d": "Shiva"},
-    "correct": "a"
-  },
-
-  {
-    "question": "Who is the father of Rama?",
     "options": {
-      "a": "Dasharatha",
-      "b": "Janaka",
-      "c": "Vashishtha",
-      "d": "Dashagriva"
+      "a": "Vyasa",
+      "b": "Valmiki",
+      "c": "Vidura",
+      "d": "Sanjaya"
     },
     "correct": "a"
   },
   {
-    "question": "Who is Rama's wife?",
+    "question": "How many Pandava brothers were there?",
     "options": {
-      "a": "Sita",
-      "b": "Urmila",
-      "c": "Mandavi",
-      "d": "Shrutakirti"
+      "a": "Five",
+      "b": "Four",
+      "c": "Six",
+      "d": "Seven"
     },
     "correct": "a"
   },
   {
-    "question": "Who is Rama's most devoted follower?",
+    "question": "How many Kaurava brothers were there?",
     "options": {
-      "a": "Hanuman",
-      "b": "Sugriva",
-      "c": "Jambavan",
-      "d": "Angada"
+      "a": "One hundred",
+      "b": "Ninety",
+      "c": "Fifty",
+      "d": "Twelve"
     },
     "correct": "a"
   },
   {
-    "question": "Who is the demon king of Lanka?",
+    "question": "Who was the common wife of the five Pandavas?",
     "options": {
-      "a": "Ravana",
-      "b": "Kumbhakarna",
-      "c": "Vibhishana",
-      "d": "Maricha"
+      "a": "Draupadi",
+      "b": "Subhadra",
+      "c": "Kunti",
+      "d": "Gandhari"
     },
     "correct": "a"
   },
   {
-    "question": "Who is Sita's father?",
+    "question": "What role did Krishna play in the Kurukshetra war?",
     "options": {
-      "a": "Janaka",
-      "b": "Dasharatha",
-      "c": "Kaikeya",
-      "d": "Vibhishana"
+      "a": "Arjuna's charioteer",
+      "b": "A Kaurava general",
+      "c": "A neutral observer",
+      "d": "Bhishma's advisor"
     },
     "correct": "a"
   },
   {
-    "question": "For how many years was Rama exiled?",
+    "question": "Who was the eldest of the Pandava brothers?",
     "options": {
-      "a": "10",
+      "a": "Yudhishthira",
+      "b": "Bhima",
+      "c": "Arjuna",
+      "d": "Nakula"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which Pandava was known for his immense physical strength?",
+    "options": {
+      "a": "Bhima",
+      "b": "Arjuna",
+      "c": "Nakula",
+      "d": "Sahadeva"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which Pandava was considered the greatest archer?",
+    "options": {
+      "a": "Arjuna",
+      "b": "Bhima",
+      "c": "Yudhishthira",
+      "d": "Sahadeva"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was the eldest of the Kaurava brothers?",
+    "options": {
+      "a": "Duryodhana",
+      "b": "Dushasana",
+      "c": "Vikarna",
+      "d": "Yuyutsu"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was the blind father of the Kauravas?",
+    "options": {
+      "a": "Dhritarashtra",
+      "b": "Pandu",
+      "c": "Bhishma",
+      "d": "Vidura"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was the father of the Pandavas?",
+    "options": {
+      "a": "Pandu",
+      "b": "Dhritarashtra",
+      "c": "Bhishma",
+      "d": "Vidura"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What is Krishna's discourse to Arjuna on the battlefield called?",
+    "options": {
+      "a": "Bhagavad Gita",
+      "b": "Vishnu Purana",
+      "c": "Yoga Sutra",
+      "d": "Gita Govinda"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "On which battlefield was the Mahabharata war fought?",
+    "options": {
+      "a": "Kurukshetra",
+      "b": "Panipat",
+      "c": "Hastinapur",
+      "d": "Indraprastha"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "For how many days did the Kurukshetra war last?",
+    "options": {
+      "a": "18",
       "b": "12",
-      "c": "14",
-      "d": "16"
-    },
-    "correct": "c"
-  },
-  {
-    "question": "Which brother of Ravana joined Rama's side?",
-    "options": {
-      "a": "Vibhishana",
-      "b": "Kumbhakarna",
-      "c": "Maricha",
-      "d": "Indrajit"
+      "c": "7",
+      "d": "100"
     },
     "correct": "a"
   },
   {
-    "question": "Who killed Ravana?",
+    "question": "Who disrobed Draupadi in the Kaurava court?",
     "options": {
-      "a": "Rama",
-      "b": "Lakshmana",
-      "c": "Hanuman",
-      "d": "Sugriva"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who is Hanuman's father?",
-    "options": {
-      "a": "Vayu",
-      "b": "Surya",
-      "c": "Indra",
-      "d": "Kesari"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Where was Sita kept captive in Lanka?",
-    "options": {
-      "a": "Ashoka Vatika",
-      "b": "Pushpaka Vimana",
-      "c": "Ravana's palace hall",
-      "d": "Lanka fort"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who is Rama's guru?",
-    "options": {
-      "a": "Vashishtha",
-      "b": "Vishwamitra",
-      "c": "Agastya",
-      "d": "Vyasa"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who wrote the original Ramayana?",
-    "options": {
-      "a": "Valmiki",
-      "b": "Vyasa",
-      "c": "Tulsidas",
-      "d": "Kalidasa"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who is the monkey king who allies with Rama?",
-    "options": {
-      "a": "Sugriva",
-      "b": "Vali",
-      "c": "Angada",
-      "d": "Jambavan"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Whose bow did Rama break at Sita's swayamvar?",
-    "options": {
-      "a": "Shiva's",
-      "b": "Vishnu's",
-      "c": "Indra's",
-      "d": "Brahma's"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who is Lakshmana's wife?",
-    "options": {
-      "a": "Urmila",
-      "b": "Mandavi",
-      "c": "Shrutakirti",
-      "d": "Sita"
+      "a": "Dushasana",
+      "b": "Duryodhana",
+      "c": "Shakuni",
+      "d": "Karna"
     },
     "correct": "a"
   }
