@@ -148,6 +148,208 @@
       "d": "Sita"
     },
     "correct": "a"
+  },
+  [
+  {
+    "question": "In which city was Lord Rama born?",
+    "options": {
+      "a": "Ayodhya",
+      "b": "Mithila",
+      "c": "Lanka",
+      "d": "Kishkindha"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was Rama's youngest brother?",
+    "options": {
+      "a": "Lakshmana",
+      "b": "Bharata",
+      "c": "Shatrughna",
+      "d": "Vibhishana"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Who accompanied Rama and Sita into exile?",
+    "options": {
+      "a": "Lakshmana",
+      "b": "Bharata",
+      "c": "Shatrughna",
+      "d": "Hanuman"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which queen asked for Rama's exile?",
+    "options": {
+      "a": "Kaikeyi",
+      "b": "Kaushalya",
+      "c": "Sumitra",
+      "d": "Mandodari"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was Bharata's mother?",
+    "options": {
+      "a": "Kaikeyi",
+      "b": "Kaushalya",
+      "c": "Sumitra",
+      "d": "Sita"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was Lakshmana's mother?",
+    "options": {
+      "a": "Kaushalya",
+      "b": "Kaikeyi",
+      "c": "Sumitra",
+      "d": "Sita"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Who ruled Ayodhya while Rama was in exile?",
+    "options": {
+      "a": "Bharata",
+      "b": "Lakshmana",
+      "c": "Shatrughna",
+      "d": "Dasharatha"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What did Bharata place on the throne to represent Rama?",
+    "options": {
+      "a": "Rama's sandals",
+      "b": "Rama's bow",
+      "c": "Rama's crown",
+      "d": "Rama's ring"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who kidnapped Sita?",
+    "options": {
+      "a": "Ravana",
+      "b": "Kumbhakarna",
+      "c": "Maricha",
+      "d": "Indrajit"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which bird tried to stop Ravana from abducting Sita?",
+    "options": {
+      "a": "Jatayu",
+      "b": "Garuda",
+      "c": "Sampati",
+      "d": "Hamsa"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who crossed the ocean to search for Sita?",
+    "options": {
+      "a": "Hanuman",
+      "b": "Sugriva",
+      "c": "Angada",
+      "d": "Jambavan"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What did Hanuman give Sita as proof that he came from Rama?",
+    "options": {
+      "a": "Rama's ring",
+      "b": "A bow",
+      "c": "A crown",
+      "d": "A necklace"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who built the bridge to Lanka?",
+    "options": {
+      "a": "The Vanara army",
+      "b": "The Devas",
+      "c": "The Pandavas",
+      "d": "The Nagas"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What was the bridge to Lanka popularly called?",
+    "options": {
+      "a": "Rama Setu",
+      "b": "Indra Setu",
+      "c": "Surya Setu",
+      "d": "Shiva Setu"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was the son of Vali?",
+    "options": {
+      "a": "Angada",
+      "b": "Sugriva",
+      "c": "Hanuman",
+      "d": "Nala"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who killed Vali?",
+    "options": {
+      "a": "Rama",
+      "b": "Lakshmana",
+      "c": "Hanuman",
+      "d": "Sugriva"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which festival celebrates Rama's return to Ayodhya?",
+    "options": {
+      "a": "Diwali",
+      "b": "Holi",
+      "c": "Dussehra",
+      "d": "Janmashtami"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was Ravana's giant brother?",
+    "options": {
+      "a": "Kumbhakarna",
+      "b": "Vibhishana",
+      "c": "Indrajit",
+      "d": "Akampana"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was Ravana's son who fought Rama's army?",
+    "options": {
+      "a": "Indrajit",
+      "b": "Vibhishana",
+      "c": "Kumbhakarna",
+      "d": "Akshayakumara"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who became the king of Lanka after Ravana's defeat?",
+    "options": {
+      "a": "Vibhishana",
+      "b": "Indrajit",
+      "c": "Kumbhakarna",
+      "d": "Sugriva"
+    },
+    "correct": "a"
   }
+]
     
 ]
