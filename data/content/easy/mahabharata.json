@@ -148,5 +148,207 @@
       "d": "Karna"
     },
     "correct": "a"
+  },
+  [
+  {
+    "question": "Who was the mother of the Pandavas?",
+    "options": {
+      "a": "Kunti",
+      "b": "Gandhari",
+      "c": "Draupadi",
+      "d": "Subhadra"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was the mother of the Kauravas?",
+    "options": {
+      "a": "Kunti",
+      "b": "Gandhari",
+      "c": "Madri",
+      "d": "Draupadi"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Who was the grandsire of both the Pandavas and Kauravas?",
+    "options": {
+      "a": "Bhishma",
+      "b": "Drona",
+      "c": "Kripa",
+      "d": "Vidura"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was the royal teacher of both the Pandavas and Kauravas?",
+    "options": {
+      "a": "Drona",
+      "b": "Bhishma",
+      "c": "Vidura",
+      "d": "Shakuni"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was the maternal uncle of the Kauravas?",
+    "options": {
+      "a": "Shakuni",
+      "b": "Kripa",
+      "c": "Vidura",
+      "d": "Ashwatthama"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was the son of Drona?",
+    "options": {
+      "a": "Ashwatthama",
+      "b": "Abhimanyu",
+      "c": "Ghatotkacha",
+      "d": "Karna"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was Arjuna's son with Subhadra?",
+    "options": {
+      "a": "Abhimanyu",
+      "b": "Parikshit",
+      "c": "Iravan",
+      "d": "Babruvahana"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was Krishna's sister?",
+    "options": {
+      "a": "Subhadra",
+      "b": "Draupadi",
+      "c": "Kunti",
+      "d": "Gandhari"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which Pandava married Subhadra?",
+    "options": {
+      "a": "Arjuna",
+      "b": "Bhima",
+      "c": "Yudhishthira",
+      "d": "Nakula"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was famous for never speaking a lie?",
+    "options": {
+      "a": "Yudhishthira",
+      "b": "Bhima",
+      "c": "Arjuna",
+      "d": "Duryodhana"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who defeated Duryodhana in the final mace battle?",
+    "options": {
+      "a": "Bhima",
+      "b": "Arjuna",
+      "c": "Nakula",
+      "d": "Sahadeva"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was born with natural armor and earrings?",
+    "options": {
+      "a": "Karna",
+      "b": "Arjuna",
+      "c": "Bhishma",
+      "d": "Abhimanyu"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was Karna's mother?",
+    "options": {
+      "a": "Kunti",
+      "b": "Gandhari",
+      "c": "Madri",
+      "d": "Draupadi"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was the king of Hastinapura before the Kurukshetra war?",
+    "options": {
+      "a": "Dhritarashtra",
+      "b": "Pandu",
+      "c": "Yudhishthira",
+      "d": "Bhishma"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who narrated the events of the Kurukshetra war to Dhritarashtra?",
+    "options": {
+      "a": "Sanjaya",
+      "b": "Vidura",
+      "c": "Kripa",
+      "d": "Vyasa"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What game led to the exile of the Pandavas?",
+    "options": {
+      "a": "Dice",
+      "b": "Chess",
+      "c": "Archery",
+      "d": "Wrestling"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "For how many years were the Pandavas exiled to the forest?",
+    "options": {
+      "a": "13 years",
+      "b": "10 years",
+      "c": "12 years",
+      "d": "14 years"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which kingdom became the capital of the Pandavas?",
+    "options": {
+      "a": "Indraprastha",
+      "b": "Mathura",
+      "c": "Dwarka",
+      "d": "Kashi"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was the wife of Dhritarashtra?",
+    "options": {
+      "a": "Gandhari",
+      "b": "Kunti",
+      "c": "Madri",
+      "d": "Draupadi"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which warrior entered the Chakravyuha but could not come out?",
+    "options": {
+      "a": "Abhimanyu",
+      "b": "Arjuna",
+      "c": "Bhima",
+      "d": "Karna"
+    },
+    "correct": "a"
   }
+]
 ]

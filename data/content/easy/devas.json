@@ -148,5 +148,207 @@
       "d": "Ganga"
     },
     "correct": "b"
+  },
+  [
+  {
+    "question": "Who is the goddess of knowledge and learning?",
+    "options": {
+      "a": "Lakshmi",
+      "b": "Parvati",
+      "c": "Saraswati",
+      "d": "Durga"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Who is known as the remover of obstacles?",
+    "options": {
+      "a": "Kartikeya",
+      "b": "Ganesha",
+      "c": "Hanuman",
+      "d": "Indra"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Who is the mother of Lord Ganesha?",
+    "options": {
+      "a": "Lakshmi",
+      "b": "Parvati",
+      "c": "Saraswati",
+      "d": "Sita"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Which bird is the vehicle of Lord Vishnu?",
+    "options": {
+      "a": "Peacock",
+      "b": "Garuda",
+      "c": "Swan",
+      "d": "Eagle"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Which animal is the vehicle of Lord Shiva?",
+    "options": {
+      "a": "Lion",
+      "b": "Elephant",
+      "c": "Bull",
+      "d": "Horse"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "What is the name of Lord Shiva's bull?",
+    "options": {
+      "a": "Airavata",
+      "b": "Garuda",
+      "c": "Nandi",
+      "d": "Kamadhenu"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Which goddess is known as the consort of Lord Vishnu?",
+    "options": {
+      "a": "Lakshmi",
+      "b": "Parvati",
+      "c": "Saraswati",
+      "d": "Durga"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which goddess is the consort of Lord Shiva?",
+    "options": {
+      "a": "Lakshmi",
+      "b": "Saraswati",
+      "c": "Parvati",
+      "d": "Radha"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Which weapon does Lord Shiva carry?",
+    "options": {
+      "a": "Bow",
+      "b": "Trishula",
+      "c": "Sword",
+      "d": "Vajra"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "What is the name of Lord Vishnu's discus?",
+    "options": {
+      "a": "Vajra",
+      "b": "Trishula",
+      "c": "Sudarshana Chakra",
+      "d": "Brahmastra"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Who is the commander of the Devas?",
+    "options": {
+      "a": "Ganesha",
+      "b": "Kartikeya",
+      "c": "Hanuman",
+      "d": "Kubera"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Which bird is the vehicle of Goddess Saraswati?",
+    "options": {
+      "a": "Peacock",
+      "b": "Parrot",
+      "c": "Swan",
+      "d": "Eagle"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Which flower is commonly associated with Goddess Lakshmi?",
+    "options": {
+      "a": "Rose",
+      "b": "Lotus",
+      "c": "Jasmine",
+      "d": "Sunflower"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Who is known as the divine architect of the Devas?",
+    "options": {
+      "a": "Vishvakarma",
+      "b": "Narada",
+      "c": "Brihaspati",
+      "d": "Kubera"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who is the guru of the Devas?",
+    "options": {
+      "a": "Shukracharya",
+      "b": "Brihaspati",
+      "c": "Narada",
+      "d": "Vashistha"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Which sage is famous for carrying a veena and spreading devotion?",
+    "options": {
+      "a": "Narada",
+      "b": "Valmiki",
+      "c": "Vyasa",
+      "d": "Vishvamitra"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which river is worshipped as a goddess in Hinduism?",
+    "options": {
+      "a": "Yamuna",
+      "b": "Godavari",
+      "c": "Ganga",
+      "d": "Narmada"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Who is the goddess of power and protection?",
+    "options": {
+      "a": "Durga",
+      "b": "Lakshmi",
+      "c": "Saraswati",
+      "d": "Sita"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which deity is worshipped first before beginning any auspicious work?",
+    "options": {
+      "a": "Shiva",
+      "b": "Vishnu",
+      "c": "Ganesha",
+      "d": "Indra"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "What is the heavenly abode of Indra called?",
+    "options": {
+      "a": "Vaikuntha",
+      "b": "Kailasa",
+      "c": "Amaravati",
+      "d": "Goloka"
+    },
+    "correct": "c"
   }
+]
 ]

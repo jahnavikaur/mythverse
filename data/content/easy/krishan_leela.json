@@ -67,7 +67,7 @@
       "c": "Sweets",
       "d": "Milk"
     },
-    "correct": "b"
+    "correct": "a"
   },
   {
     "question": "What musical instrument is Krishna traditionally shown playing?",
@@ -153,6 +153,207 @@
     "question": "Who lifted Govardhan Hill?",
     "options": {"a": "Krishna", "b": "Balarama", "c": "Indra", "d": "Shiva"},
     "correct": "a"
+  },
+[
+  {
+    "question": "In which village was Krishna raised?",
+    "options": {
+      "a": "Gokul",
+      "b": "Ayodhya",
+      "c": "Mathura",
+      "d": "Dwarka"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What is another popular name for Lord Krishna?",
+    "options": {
+      "a": "Madhava",
+      "b": "Rudra",
+      "c": "Skanda",
+      "d": "Agni"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who carried baby Krishna across the Yamuna River?",
+    "options": {
+      "a": "Nanda",
+      "b": "Vasudeva",
+      "c": "Balarama",
+      "d": "Akrura"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Which bird is associated with Krishna's crown?",
+    "options": {
+      "a": "Peacock",
+      "b": "Parrot",
+      "c": "Swan",
+      "d": "Eagle"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What feather does Krishna wear on his crown?",
+    "options": {
+      "a": "Swan feather",
+      "b": "Peacock feather",
+      "c": "Eagle feather",
+      "d": "Parrot feather"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Which festival celebrates Krishna's birth?",
+    "options": {
+      "a": "Holi",
+      "b": "Janmashtami",
+      "c": "Diwali",
+      "d": "Navratri"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "What were the cowherd boys who played with Krishna called?",
+    "options": {
+      "a": "Gopas",
+      "b": "Rishis",
+      "c": "Yakshas",
+      "d": "Gandharvas"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What were the cowherd girls devoted to Krishna called?",
+    "options": {
+      "a": "Apsaras",
+      "b": "Gopis",
+      "c": "Devis",
+      "d": "Naginis"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Which city did Krishna later establish as his kingdom?",
+    "options": {
+      "a": "Dwarka",
+      "b": "Ayodhya",
+      "c": "Indraprastha",
+      "d": "Kashi"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was Krishna's principal queen?",
+    "options": {
+      "a": "Radha",
+      "b": "Rukmini",
+      "c": "Draupadi",
+      "d": "Subhadra"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Who was Krishna's sister?",
+    "options": {
+      "a": "Subhadra",
+      "b": "Draupadi",
+      "c": "Rukmini",
+      "d": "Radha"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which animal did young Krishna lovingly tend?",
+    "options": {
+      "a": "Horses",
+      "b": "Cows",
+      "c": "Elephants",
+      "d": "Camels"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Krishna is considered an avatar of which deity?",
+    "options": {
+      "a": "Shiva",
+      "b": "Vishnu",
+      "c": "Brahma",
+      "d": "Indra"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "What color is Krishna traditionally depicted as?",
+    "options": {
+      "a": "Blue",
+      "b": "Golden",
+      "c": "White",
+      "d": "Green"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who invited Krishna to Mathura on Kansa's behalf?",
+    "options": {
+      "a": "Akrura",
+      "b": "Sudama",
+      "c": "Uddhava",
+      "d": "Daruka"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which demon attacked Krishna in the form of a whirlwind?",
+    "options": {
+      "a": "Trinavarta",
+      "b": "Putana",
+      "c": "Kaliya",
+      "d": "Bakasura"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which demon came in the form of a crane and was defeated by Krishna?",
+    "options": {
+      "a": "Aghasura",
+      "b": "Bakasura",
+      "c": "Dhenukasura",
+      "d": "Keshi"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Which demon appeared as a horse to attack Krishna?",
+    "options": {
+      "a": "Keshi",
+      "b": "Bakasura",
+      "c": "Trinavarta",
+      "d": "Putana"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which river is closely associated with Krishna's childhood?",
+    "options": {
+      "a": "Ganga",
+      "b": "Yamuna",
+      "c": "Godavari",
+      "d": "Saraswati"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Which dance celebrating Krishna's divine love is famous in Vrindavan?",
+    "options": {
+      "a": "Rasa Lila",
+      "b": "Tandava",
+      "c": "Lasya",
+      "d": "Kathak"
+    },
+    "correct": "a"
   }
-
+]
 ]
