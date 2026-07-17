@@ -60,14 +60,16 @@
     "correct": "a"
   },
   {
-    "question": "In which kingdom did the Pandavas spend their year in hiding?",
-    "options": {
-      "a": "Virata",
-      "b": "Panchala",
-      "c": "Matsya kingdom under a different name",
-      "d": "Both a and c refer to the same kingdom"
-    },
-    "correct": "d"
+   
+  "question": "In which kingdom did the Pandavas spend their year of incognito exile?",
+  "options": {
+    "a": "Matsya",
+    "b": "Panchala",
+    "c": "Kosala",
+    "d": "Anga"
+  },
+  "correct": "a"
+
   },
   {
     "question": "Who was Bhima's son with the demoness Hidimbi?",
@@ -148,5 +150,207 @@
       "d": "Nakula"
     },
     "correct": "a"
+  },
+  [
+  {
+    "question": "Who was the commander-in-chief of the Kaurava army at the beginning of the Kurukshetra war?",
+    "options": {
+      "a": "Bhishma",
+      "b": "Drona",
+      "c": "Karna",
+      "d": "Shalya"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who became the commander of the Kaurava army after Bhishma fell?",
+    "options": {
+      "a": "Drona",
+      "b": "Karna",
+      "c": "Shalya",
+      "d": "Ashwatthama"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was the commander-in-chief of the Pandava army?",
+    "options": {
+      "a": "Dhrishtadyumna",
+      "b": "Bhima",
+      "c": "Arjuna",
+      "d": "Satyaki"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was born from the sacrificial fire to kill Drona?",
+    "options": {
+      "a": "Dhrishtadyumna",
+      "b": "Shikhandi",
+      "c": "Abhimanyu",
+      "d": "Satyaki"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was Draupadi's brother?",
+    "options": {
+      "a": "Dhrishtadyumna",
+      "b": "Shikhandi",
+      "c": "Drupada",
+      "d": "Virata"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was the king of Panchala and father of Draupadi?",
+    "options": {
+      "a": "Drupada",
+      "b": "Virata",
+      "c": "Shalya",
+      "d": "Dhritarashtra"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who defeated Bhishma with the help of Shikhandi?",
+    "options": {
+      "a": "Arjuna",
+      "b": "Bhima",
+      "c": "Yudhishthira",
+      "d": "Satyaki"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was the father of Bhishma?",
+    "options": {
+      "a": "Shantanu",
+      "b": "Pandu",
+      "c": "Vyasa",
+      "d": "Dhritarashtra"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was Bhishma's mother?",
+    "options": {
+      "a": "Ganga",
+      "b": "Satyavati",
+      "c": "Kunti",
+      "d": "Ambika"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What terrible vow earned Devavrata the name 'Bhishma'?",
+    "options": {
+      "a": "Lifelong celibacy",
+      "b": "Silence for life",
+      "c": "Never using weapons",
+      "d": "Living in exile"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was the mother of Karna?",
+    "options": {
+      "a": "Kunti",
+      "b": "Gandhari",
+      "c": "Madri",
+      "d": "Satyavati"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "From whom did Karna learn the use of divine weapons?",
+    "options": {
+      "a": "Parashurama",
+      "b": "Drona",
+      "c": "Kripa",
+      "d": "Bhishma"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who cursed Karna that he would forget the use of the Brahmastra when he needed it most?",
+    "options": {
+      "a": "Parashurama",
+      "b": "Krishna",
+      "c": "Indra",
+      "d": "Vyasa"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which Pandava was famous for his skill with horses?",
+    "options": {
+      "a": "Nakula",
+      "b": "Sahadeva",
+      "c": "Bhima",
+      "d": "Arjuna"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which Pandava was renowned for his wisdom and knowledge of astrology?",
+    "options": {
+      "a": "Sahadeva",
+      "b": "Nakula",
+      "c": "Bhima",
+      "d": "Arjuna"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who killed Drona during the Kurukshetra war?",
+    "options": {
+      "a": "Dhrishtadyumna",
+      "b": "Arjuna",
+      "c": "Bhima",
+      "d": "Satyaki"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who killed Karna in the Kurukshetra war?",
+    "options": {
+      "a": "Arjuna",
+      "b": "Bhima",
+      "c": "Yudhishthira",
+      "d": "Satyaki"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who became the final commander of the Kaurava army after Karna's death?",
+    "options": {
+      "a": "Shalya",
+      "b": "Ashwatthama",
+      "c": "Kripa",
+      "d": "Shakuni"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was the sole surviving grandson of the Pandavas after the war?",
+    "options": {
+      "a": "Parikshit",
+      "b": "Janamejaya",
+      "c": "Abhimanyu",
+      "d": "Iravan"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who saved the unborn Parikshit from Ashwatthama's Brahmastra?",
+    "options": {
+      "a": "Krishna",
+      "b": "Vyasa",
+      "c": "Arjuna",
+      "d": "Bhima"
+    },
+    "correct": "a"
   }
+]
 ]
