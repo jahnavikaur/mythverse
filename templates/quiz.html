@@ -4,7 +4,7 @@
 
 <div class="quiz-header">
   <div class="ring-wrap">
-    <div class="ring" style="--pct:{{ (index / total * 100) | round(0, 'floor') | int }}">
+    <div class="ring" data-pct="{{ (index / total * 100) | round(0, 'floor') | int }}">
       <div class="ring-inner">{{ index + 1 }}/{{ total }}</div>
     </div>
   </div>
@@ -45,10 +45,36 @@
     {% endif %}
   </div>
   <a href="{{ url_for('next_question') }}">
-    <button class="btn btn-primary">
+    <button class="btn btn-primary" id="next-btn">
       {% if index + 1 >= total %}See Results →{% else %}Next Question →{% endif %}
     </button>
   </a>
+
+  <div id="answer-meta"
+       data-correct="{{ 'true' if answered['correct'] else 'false' }}"
+       data-next-url="{{ url_for('next_question') }}"
+       hidden></div>
 {% endif %}
+
+<script>
+  (function () {
+    // Set the progress ring fill from its data-pct attribute
+    document.querySelectorAll('.ring').forEach(function (el) {
+      el.style.setProperty('--pct', el.dataset.pct);
+    });
+
+    // Auto-advance after showing answer feedback
+    var meta = document.getElementById('answer-meta');
+    if (meta) {
+      var isCorrect = meta.dataset.correct === 'true';
+      var nextUrl = meta.dataset.nextUrl;
+      var delayMs = isCorrect ? 500 : 1000; // 0.5s correct, 1s wrong
+
+      setTimeout(function () {
+        window.location.href = nextUrl;
+      }, delayMs);
+    }
+  })();
+</script>
 
 {% endblock %}
