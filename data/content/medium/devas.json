@@ -148,5 +148,207 @@
       "d": "Vishwamitra"
     },
     "correct": "a"
+  },
+  [
+  {
+    "question": "Who is the guru of the Asuras?",
+    "options": {
+      "a": "Brihaspati",
+      "b": "Shukracharya",
+      "c": "Narada",
+      "d": "Vashishtha"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Which celestial horse emerged during the Samudra Manthan?",
+    "options": {
+      "a": "Airavata",
+      "b": "Uchhaishravas",
+      "c": "Hayagriva",
+      "d": "Kanthaka"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Which celestial elephant emerged during the Samudra Manthan?",
+    "options": {
+      "a": "Airavata",
+      "b": "Gajendra",
+      "c": "Supratika",
+      "d": "Abhramu"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which goddess emerged from the Samudra Manthan and chose Vishnu as her consort?",
+    "options": {
+      "a": "Parvati",
+      "b": "Lakshmi",
+      "c": "Saraswati",
+      "d": "Ganga"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Who drank the deadly Halahala poison during the Samudra Manthan?",
+    "options": {
+      "a": "Vishnu",
+      "b": "Shiva",
+      "c": "Brahma",
+      "d": "Indra"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "After drinking Halahala poison, Shiva came to be known by which name?",
+    "options": {
+      "a": "Pashupati",
+      "b": "Neelkantha",
+      "c": "Mahadeva",
+      "d": "Rudra"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Who assumed the Mohini avatar to distribute Amrita?",
+    "options": {
+      "a": "Shiva",
+      "b": "Vishnu",
+      "c": "Brahma",
+      "d": "Indra"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Who tried to secretly drink Amrita and was beheaded by Vishnu?",
+    "options": {
+      "a": "Mahabali",
+      "b": "Rahu",
+      "c": "Ketu",
+      "d": "Vritra"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Which deity carries the Veena named Mahati?",
+    "options": {
+      "a": "Narada",
+      "b": "Brihaspati",
+      "c": "Agni",
+      "d": "Kubera"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Kubera is the ruler of which direction?",
+    "options": {
+      "a": "North",
+      "b": "South",
+      "c": "East",
+      "d": "West"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which direction is guarded by Indra as a Dikpala?",
+    "options": {
+      "a": "East",
+      "b": "North",
+      "c": "West",
+      "d": "South"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which deity is traditionally regarded as the lord of the oceans?",
+    "options": {
+      "a": "Varuna",
+      "b": "Agni",
+      "c": "Vayu",
+      "d": "Surya"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which celestial tree emerged during the Samudra Manthan?",
+    "options": {
+      "a": "Kalpavriksha",
+      "b": "Ashvattha",
+      "c": "Bilva",
+      "d": "Kadamba"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who is the divine physician of the Devas?",
+    "options": {
+      "a": "Dhanvantari",
+      "b": "Ashwini Kumaras",
+      "c": "Brihaspati",
+      "d": "Narada"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Who emerged from the Samudra Manthan carrying the pot of Amrita?",
+    "options": {
+      "a": "Dhanvantari",
+      "b": "Indra",
+      "c": "Kubera",
+      "d": "Agni"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which pair of twin gods are known as the Ashwini Kumaras?",
+    "options": {
+      "a": "Divine physicians",
+      "b": "Guardians of wealth",
+      "c": "Gods of rain",
+      "d": "Lords of fire"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "What is the heavenly abode of Lord Vishnu called?",
+    "options": {
+      "a": "Kailasa",
+      "b": "Vaikuntha",
+      "c": "Amaravati",
+      "d": "Brahmaloka"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "What is the heavenly abode of Lord Shiva called?",
+    "options": {
+      "a": "Meru",
+      "b": "Vaikuntha",
+      "c": "Kailasa",
+      "d": "Amaravati"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Which goddess is worshipped as the river that descended from heaven to Earth?",
+    "options": {
+      "a": "Yamuna",
+      "b": "Godavari",
+      "c": "Ganga",
+      "d": "Saraswati"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Who is traditionally regarded as the lord of the planets (Navagrahas)?",
+    "options": {
+      "a": "Surya",
+      "b": "Chandra",
+      "c": "Shani",
+      "d": "Brihaspati"
+    },
+    "correct": "a"
   }
+]
 ]

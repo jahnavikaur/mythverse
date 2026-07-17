@@ -148,5 +148,207 @@
       "d": "Trinavarta"
     },
     "correct": "a"
+  },
+  [
+  {
+    "question": "Who advised Kansa that Devaki's eighth son would be his destroyer?",
+    "options": {
+      "a": "Narada",
+      "b": "Vyasa",
+      "c": "Akrura",
+      "d": "Vashishtha"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which demon attacked Krishna in the form of a calf?",
+    "options": {
+      "a": "Vatsasura",
+      "b": "Bakasura",
+      "c": "Kesi",
+      "d": "Aghasura"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which demon took the form of a donkey and lived in the Talavana forest?",
+    "options": {
+      "a": "Dhenukasura",
+      "b": "Bakasura",
+      "c": "Pralambasura",
+      "d": "Kesi"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who killed the demon Dhenukasura?",
+    "options": {
+      "a": "Balarama",
+      "b": "Krishna",
+      "c": "Hanuman",
+      "d": "Arjuna"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which demon disguised himself as a cowherd boy before attacking Krishna and Balarama?",
+    "options": {
+      "a": "Pralambasura",
+      "b": "Aghasura",
+      "c": "Bakasura",
+      "d": "Kesi"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who killed Pralambasura?",
+    "options": {
+      "a": "Balarama",
+      "b": "Krishna",
+      "c": "Nanda",
+      "d": "Sudama"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which Yadava was sent by Kansa to bring Krishna and Balarama to Mathura?",
+    "options": {
+      "a": "Akrura",
+      "b": "Uddhava",
+      "c": "Daruka",
+      "d": "Satyaki"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was the wrestler that Krishna defeated in Kansa's arena?",
+    "options": {
+      "a": "Chanura",
+      "b": "Mushtika",
+      "c": "Kuta",
+      "d": "Shala"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which wrestler was defeated by Balarama in Kansa's arena?",
+    "options": {
+      "a": "Mushtika",
+      "b": "Chanura",
+      "c": "Kuta",
+      "d": "Toshala"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "After killing Kansa, whom did Krishna restore to the throne of Mathura?",
+    "options": {
+      "a": "Ugrasena",
+      "b": "Vasudeva",
+      "c": "Akrura",
+      "d": "Balarama"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was the father of Kansa?",
+    "options": {
+      "a": "Ugrasena",
+      "b": "Vasudeva",
+      "c": "Shurasena",
+      "d": "Akrura"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who repeatedly attacked Mathura after Kansa's death?",
+    "options": {
+      "a": "Jarasandha",
+      "b": "Shishupala",
+      "c": "Narakasura",
+      "d": "Paundraka"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Why did Krishna establish the city of Dwarka?",
+    "options": {
+      "a": "To protect the Yadavas from repeated attacks",
+      "b": "To perform a yajna",
+      "c": "To meet the Pandavas",
+      "d": "To conquer Lanka"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who built the city of Dwarka according to tradition?",
+    "options": {
+      "a": "Vishwakarma",
+      "b": "Maya",
+      "c": "Kubera",
+      "d": "Narada"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which jewel is traditionally worn by Lord Krishna on his chest?",
+    "options": {
+      "a": "Kaustubha",
+      "b": "Syamantaka",
+      "c": "Chintamani",
+      "d": "Nagamani"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which queen of Krishna was the daughter of King Satrajit?",
+    "options": {
+      "a": "Satyabhama",
+      "b": "Rukmini",
+      "c": "Jambavati",
+      "d": "Kalindi"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who served as Krishna's close friend and wise counselor in Dwarka?",
+    "options": {
+      "a": "Uddhava",
+      "b": "Akrura",
+      "c": "Satyaki",
+      "d": "Daruka"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which king was defeated by Krishna after falsely claiming to be Lord Vasudeva?",
+    "options": {
+      "a": "Paundraka",
+      "b": "Jarasandha",
+      "c": "Shishupala",
+      "d": "Narakasura"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Who was Krishna's grandson who later became king of Dwarka?",
+    "options": {
+      "a": "Aniruddha",
+      "b": "Parikshit",
+      "c": "Abhimanyu",
+      "d": "Samba"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Which festival commemorates Krishna's victory over Narakasura in many parts of India?",
+    "options": {
+      "a": "Naraka Chaturdashi",
+      "b": "Janmashtami",
+      "c": "Holi",
+      "d": "Govardhan Puja"
+    },
+    "correct": "a"
   }
+]
 ]
