@@ -99,12 +99,19 @@ def main():
     before = conn.execute("SELECT COUNT(*) FROM questions").fetchone()[0]
 
     conn.executemany(
-        """INSERT OR IGNORE INTO questions
+        """INSERT INTO questions
            (category, question, question_hi,
             option_a, option_a_hi, option_b, option_b_hi,
             option_c, option_c_hi, option_d, option_d_hi,
             correct_option, difficulty)
-           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+           ON CONFLICT(category, difficulty, question) DO UPDATE SET
+               question_hi = excluded.question_hi,
+               option_a = excluded.option_a, option_a_hi = excluded.option_a_hi,
+               option_b = excluded.option_b, option_b_hi = excluded.option_b_hi,
+               option_c = excluded.option_c, option_c_hi = excluded.option_c_hi,
+               option_d = excluded.option_d, option_d_hi = excluded.option_d_hi,
+               correct_option = excluded.correct_option""",
         rows,
     )
     conn.commit()
@@ -113,7 +120,7 @@ def main():
     conn.close()
 
     print(f"\nRead {len(rows)} question(s) from JSON files.")
-    print(f"Inserted {after - before} new question(s) (duplicates skipped).")
+    print(f"Question count: {before} -> {after} (new questions added; existing ones synced/updated with current JSON content)")
     print(f"Total questions in database.db: {after}")
 
 
