@@ -1,354 +1,434 @@
- [
+[
   {
-    "question": "Who is the king of the Devas?",
+    "question": {
+      "en": "Who is the king of the Devas?",
+      "hi": "देवताओं के राजा कौन हैं?"
+    },
     "options": {
-      "a": "Indra",
-      "b": "Agni",
-      "c": "Varuna",
-      "d": "Surya"
+      "a": { "en": "Indra", "hi": "इंद्र" },
+      "b": { "en": "Agni", "hi": "अग्नि" },
+      "c": { "en": "Varuna", "hi": "वरुण" },
+      "d": { "en": "Surya", "hi": "सूर्य" }
     },
     "correct": "a"
   },
   {
-    "question": "Who is the god of fire?",
+    "question": {
+      "en": "Who is the god of fire?",
+      "hi": "अग्नि के देवता कौन हैं?"
+    },
     "options": {
-      "a": "Vayu",
-      "b": "Agni",
-      "c": "Surya",
-      "d": "Indra"
+      "a": { "en": "Vayu", "hi": "वायु" },
+      "b": { "en": "Agni", "hi": "अग्नि" },
+      "c": { "en": "Surya", "hi": "सूर्य" },
+      "d": { "en": "Indra", "hi": "इंद्र" }
     },
     "correct": "b"
   },
   {
-    "question": "Who is the god of wind?",
+    "question": {
+      "en": "Who is the god of wind?",
+      "hi": "वायु के देवता कौन हैं?"
+    },
     "options": {
-      "a": "Vayu",
-      "b": "Agni",
-      "c": "Varuna",
-      "d": "Yama"
+      "a": { "en": "Vayu", "hi": "वायु" },
+      "b": { "en": "Agni", "hi": "अग्नि" },
+      "c": { "en": "Varuna", "hi": "वरुण" },
+      "d": { "en": "Yama", "hi": "यम" }
     },
     "correct": "a"
   },
   {
-    "question": "Who is the sun god?",
-    "options": {
-      "a": "Chandra",
-      "b": "Surya",
-      "c": "Indra",
-      "d": "Agni"
+    "question": {
+      "en": "Who is the god of death?",
+      "hi": "मृत्यु के देवता कौन हैं?"
     },
-    "correct": "b"
-  },
-  {
-    "question": "Who is the moon god?",
     "options": {
-      "a": "Surya",
-      "b": "Chandra",
-      "c": "Rahu",
-      "d": "Shani"
-    },
-    "correct": "b"
-  },
-  {
-    "question": "Who is the god of death?",
-    "options": {
-      "a": "Yama",
-      "b": "Varuna",
-      "c": "Agni",
-      "d": "Indra"
+      "a": { "en": "Yama", "hi": "यम" },
+      "b": { "en": "Varuna", "hi": "वरुण" },
+      "c": { "en": "Agni", "hi": "अग्नि" },
+      "d": { "en": "Indra", "hi": "इंद्र" }
     },
     "correct": "a"
   },
   {
-    "question": "Who is the god of water?",
+    "question": {
+      "en": "Who is the god of water?",
+      "hi": "जल के देवता कौन हैं?"
+    },
     "options": {
-      "a": "Vayu",
-      "b": "Agni",
-      "c": "Varuna",
-      "d": "Surya"
+      "a": { "en": "Vayu", "hi": "वायु" },
+      "b": { "en": "Agni", "hi": "अग्नि" },
+      "c": { "en": "Varuna", "hi": "वरुण" },
+      "d": { "en": "Surya", "hi": "सूर्य" }
     },
     "correct": "c"
   },
   {
-    "question": "Who is the god of wealth among the Devas?",
+    "question": {
+      "en": "Who is the god of wealth among the Devas?",
+      "hi": "देवताओं में धन के देवता कौन हैं?"
+    },
     "options": {
-      "a": "Kubera",
-      "b": "Indra",
-      "c": "Agni",
-      "d": "Varuna"
+      "a": { "en": "Kubera", "hi": "कुबेर" },
+      "b": { "en": "Indra", "hi": "इंद्र" },
+      "c": { "en": "Agni", "hi": "अग्नि" },
+      "d": { "en": "Varuna", "hi": "वरुण" }
     },
     "correct": "a"
   },
   {
-    "question": "What is the name of the divine nectar churned from the ocean?",
+    "question": {
+      "en": "What is the name of the divine nectar churned from the ocean?",
+      "hi": "समुद्र मंथन से प्राप्त दिव्य अमृत का क्या नाम है?"
+    },
     "options": {
-      "a": "Amrita",
-      "b": "Soma",
-      "c": "Ghee",
-      "d": "Payasam"
+      "a": { "en": "Amrita", "hi": "अमृत" },
+      "b": { "en": "Soma", "hi": "सोम" },
+      "c": { "en": "Ghee", "hi": "घी" },
+      "d": { "en": "Payasam", "hi": "पायसम" }
     },
     "correct": "a"
   },
   {
-    "question": "What is the name of Indra's elephant?",
+    "question": {
+      "en": "What is the name of Indra's elephant?",
+      "hi": "इंद्र के हाथी का क्या नाम है?"
+    },
     "options": {
-      "a": "Airavata",
-      "b": "Uchhaishravas",
-      "c": "Gajendra",
-      "d": "Kamadhenu"
+      "a": { "en": "Airavata", "hi": "ऐरावत" },
+      "b": { "en": "Uchhaishravas", "hi": "उच्चैःश्रवा" },
+      "c": { "en": "Gajendra", "hi": "गजेन्द्र" },
+      "d": { "en": "Kamadhenu", "hi": "कामधेनु" }
     },
     "correct": "a"
   },
   {
-    "question": "What is Indra's weapon called?",
+    "question": {
+      "en": "What is Indra's weapon called?",
+      "hi": "इंद्र के अस्त्र का क्या नाम है?"
+    },
     "options": {
-      "a": "Trishula",
-      "b": "Vajra",
-      "c": "Sudarshana Chakra",
-      "d": "Pashupatastra"
+      "a": { "en": "Trishula", "hi": "त्रिशूल" },
+      "b": { "en": "Vajra", "hi": "वज्र" },
+      "c": { "en": "Sudarshana Chakra", "hi": "सुदर्शन चक्र" },
+      "d": { "en": "Pashupatastra", "hi": "पाशुपतास्त्र" }
     },
     "correct": "b"
   },
   {
-    "question": "Who is the creator god in the Hindu trinity?",
+    "question": {
+      "en": "Who is the creator god in the Hindu trinity?",
+      "hi": "हिंदू त्रिमूर्ति में सृष्टिकर्ता कौन हैं?"
+    },
     "options": {
-      "a": "Vishnu",
-      "b": "Shiva",
-      "c": "Brahma",
-      "d": "Indra"
+      "a": { "en": "Vishnu", "hi": "विष्णु" },
+      "b": { "en": "Shiva", "hi": "शिव" },
+      "c": { "en": "Brahma", "hi": "ब्रह्मा" },
+      "d": { "en": "Indra", "hi": "इंद्र" }
     },
     "correct": "c"
   },
   {
-    "question": "Who is the preserver god in the Hindu trinity?",
+    "question": {
+      "en": "Who is the preserver god in the Hindu trinity?",
+      "hi": "हिंदू त्रिमूर्ति में पालनकर्ता कौन हैं?"
+    },
     "options": {
-      "a": "Brahma",
-      "b": "Vishnu",
-      "c": "Shiva",
-      "d": "Surya"
+      "a": { "en": "Brahma", "hi": "ब्रह्मा" },
+      "b": { "en": "Vishnu", "hi": "विष्णु" },
+      "c": { "en": "Shiva", "hi": "शिव" },
+      "d": { "en": "Surya", "hi": "सूर्य" }
     },
     "correct": "b"
   },
   {
-    "question": "Who is the destroyer god in the Hindu trinity?",
+    "question": {
+      "en": "Who is the destroyer god in the Hindu trinity?",
+      "hi": "हिंदू त्रिमूर्ति में संहारकर्ता कौन हैं?"
+    },
     "options": {
-      "a": "Shiva",
-      "b": "Vishnu",
-      "c": "Brahma",
-      "d": "Indra"
+      "a": { "en": "Shiva", "hi": "शिव" },
+      "b": { "en": "Vishnu", "hi": "विष्णु" },
+      "c": { "en": "Brahma", "hi": "ब्रह्मा" },
+      "d": { "en": "Indra", "hi": "इंद्र" }
     },
     "correct": "a"
   },
   {
-    "question": "Who is the goddess of wealth?",
+    "question": {
+      "en": "Who is the goddess of wealth?",
+      "hi": "धन की देवी कौन हैं?"
+    },
     "options": {
-      "a": "Saraswati",
-      "b": "Lakshmi",
-      "c": "Parvati",
-      "d": "Ganga"
+      "a": { "en": "Saraswati", "hi": "सरस्वती" },
+      "b": { "en": "Lakshmi", "hi": "लक्ष्मी" },
+      "c": { "en": "Parvati", "hi": "पार्वती" },
+      "d": { "en": "Ganga", "hi": "गंगा" }
     },
     "correct": "b"
   },
-  [
   {
-    "question": "Who is the goddess of knowledge and learning?",
+    "question": {
+      "en": "Who is the goddess of knowledge and learning?",
+      "hi": "ज्ञान और विद्या की देवी कौन हैं?"
+    },
     "options": {
-      "a": "Lakshmi",
-      "b": "Parvati",
-      "c": "Saraswati",
-      "d": "Durga"
+      "a": { "en": "Lakshmi", "hi": "लक्ष्मी" },
+      "b": { "en": "Parvati", "hi": "पार्वती" },
+      "c": { "en": "Saraswati", "hi": "सरस्वती" },
+      "d": { "en": "Durga", "hi": "दुर्गा" }
     },
     "correct": "c"
   },
   {
-    "question": "Who is known as the remover of obstacles?",
+    "question": {
+      "en": "Who is known as the remover of obstacles?",
+      "hi": "विघ्नहर्ता के रूप में किसे जाना जाता है?"
+    },
     "options": {
-      "a": "Kartikeya",
-      "b": "Ganesha",
-      "c": "Hanuman",
-      "d": "Indra"
+      "a": { "en": "Kartikeya", "hi": "कार्तिकेय" },
+      "b": { "en": "Ganesha", "hi": "गणेश" },
+      "c": { "en": "Hanuman", "hi": "हनुमान" },
+      "d": { "en": "Indra", "hi": "इंद्र" }
     },
     "correct": "b"
   },
   {
-    "question": "Who is the mother of Lord Ganesha?",
+    "question": {
+      "en": "Who is the mother of Lord Ganesha?",
+      "hi": "भगवान गणेश की माता कौन हैं?"
+    },
     "options": {
-      "a": "Lakshmi",
-      "b": "Parvati",
-      "c": "Saraswati",
-      "d": "Sita"
+      "a": { "en": "Lakshmi", "hi": "लक्ष्मी" },
+      "b": { "en": "Parvati", "hi": "पार्वती" },
+      "c": { "en": "Saraswati", "hi": "सरस्वती" },
+      "d": { "en": "Sita", "hi": "सीता" }
     },
     "correct": "b"
   },
   {
-    "question": "Which bird is the vehicle of Lord Vishnu?",
+    "question": {
+      "en": "Which bird is the vehicle of Lord Vishnu?",
+      "hi": "भगवान विष्णु का वाहन कौन-सा पक्षी है?"
+    },
     "options": {
-      "a": "Peacock",
-      "b": "Garuda",
-      "c": "Swan",
-      "d": "Eagle"
+      "a": { "en": "Peacock", "hi": "मोर" },
+      "b": { "en": "Garuda", "hi": "गरुड़" },
+      "c": { "en": "Swan", "hi": "हंस" },
+      "d": { "en": "Eagle", "hi": "उकाब" }
     },
     "correct": "b"
   },
   {
-    "question": "Which animal is the vehicle of Lord Shiva?",
+    "question": {
+      "en": "Which animal is the vehicle of Lord Shiva?",
+      "hi": "भगवान शिव का वाहन कौन-सा पशु है?"
+    },
     "options": {
-      "a": "Lion",
-      "b": "Elephant",
-      "c": "Bull",
-      "d": "Horse"
+      "a": { "en": "Lion", "hi": "सिंह" },
+      "b": { "en": "Elephant", "hi": "हाथी" },
+      "c": { "en": "Bull", "hi": "बैल" },
+      "d": { "en": "Horse", "hi": "घोड़ा" }
     },
     "correct": "c"
   },
   {
-    "question": "What is the name of Lord Shiva's bull?",
+    "question": {
+      "en": "What is the name of Lord Shiva's bull?",
+      "hi": "भगवान शिव के बैल का क्या नाम है?"
+    },
     "options": {
-      "a": "Airavata",
-      "b": "Garuda",
-      "c": "Nandi",
-      "d": "Kamadhenu"
+      "a": { "en": "Airavata", "hi": "ऐरावत" },
+      "b": { "en": "Garuda", "hi": "गरुड़" },
+      "c": { "en": "Nandi", "hi": "नंदी" },
+      "d": { "en": "Kamadhenu", "hi": "कामधेनु" }
     },
     "correct": "c"
   },
   {
-    "question": "Which goddess is known as the consort of Lord Vishnu?",
+    "question": {
+      "en": "Which goddess is known as the consort of Lord Vishnu?",
+      "hi": "भगवान विष्णु की पत्नी किस देवी को माना जाता है?"
+    },
     "options": {
-      "a": "Lakshmi",
-      "b": "Parvati",
-      "c": "Saraswati",
-      "d": "Durga"
+      "a": { "en": "Lakshmi", "hi": "लक्ष्मी" },
+      "b": { "en": "Parvati", "hi": "पार्वती" },
+      "c": { "en": "Saraswati", "hi": "सरस्वती" },
+      "d": { "en": "Durga", "hi": "दुर्गा" }
     },
     "correct": "a"
   },
   {
-    "question": "Which goddess is the consort of Lord Shiva?",
+    "question": {
+      "en": "Which goddess is the consort of Lord Shiva?",
+      "hi": "भगवान शिव की पत्नी कौन-सी देवी हैं?"
+    },
     "options": {
-      "a": "Lakshmi",
-      "b": "Saraswati",
-      "c": "Parvati",
-      "d": "Radha"
+      "a": { "en": "Lakshmi", "hi": "लक्ष्मी" },
+      "b": { "en": "Saraswati", "hi": "सरस्वती" },
+      "c": { "en": "Parvati", "hi": "पार्वती" },
+      "d": { "en": "Radha", "hi": "राधा" }
     },
     "correct": "c"
   },
   {
-    "question": "Which weapon does Lord Shiva carry?",
+    "question": {
+      "en": "Which weapon does Lord Shiva carry?",
+      "hi": "भगवान शिव कौन-सा अस्त्र धारण करते हैं?"
+    },
     "options": {
-      "a": "Bow",
-      "b": "Trishula",
-      "c": "Sword",
-      "d": "Vajra"
+      "a": { "en": "Bow", "hi": "धनुष" },
+      "b": { "en": "Trishula", "hi": "त्रिशूल" },
+      "c": { "en": "Sword", "hi": "तलवार" },
+      "d": { "en": "Vajra", "hi": "वज्र" }
     },
     "correct": "b"
-  },
+  },  
   {
-    "question": "What is the name of Lord Vishnu's discus?",
+    "question": {
+      "en": "What is the name of Lord Vishnu's discus?",
+      "hi": "भगवान विष्णु के चक्र का क्या नाम है?"
+    },
     "options": {
-      "a": "Vajra",
-      "b": "Trishula",
-      "c": "Sudarshana Chakra",
-      "d": "Brahmastra"
+      "a": { "en": "Vajra", "hi": "वज्र" },
+      "b": { "en": "Trishula", "hi": "त्रिशूल" },
+      "c": { "en": "Sudarshana Chakra", "hi": "सुदर्शन चक्र" },
+      "d": { "en": "Brahmastra", "hi": "ब्रह्मास्त्र" }
     },
     "correct": "c"
   },
   {
-    "question": "Who is the commander of the Devas?",
+    "question": {
+      "en": "Who is the commander of the Devas?",
+      "hi": "देवताओं के सेनापति कौन हैं?"
+    },
     "options": {
-      "a": "Ganesha",
-      "b": "Kartikeya",
-      "c": "Hanuman",
-      "d": "Kubera"
+      "a": { "en": "Ganesha", "hi": "गणेश" },
+      "b": { "en": "Kartikeya", "hi": "कार्तिकेय" },
+      "c": { "en": "Hanuman", "hi": "हनुमान" },
+      "d": { "en": "Kubera", "hi": "कुबेर" }
     },
     "correct": "b"
   },
   {
-    "question": "Which bird is the vehicle of Goddess Saraswati?",
+    "question": {
+      "en": "Which bird is the vehicle of Goddess Saraswati?",
+      "hi": "देवी सरस्वती का वाहन कौन-सा पक्षी है?"
+    },
     "options": {
-      "a": "Peacock",
-      "b": "Parrot",
-      "c": "Swan",
-      "d": "Eagle"
+      "a": { "en": "Peacock", "hi": "मोर" },
+      "b": { "en": "Parrot", "hi": "तोता" },
+      "c": { "en": "Swan", "hi": "हंस" },
+      "d": { "en": "Eagle", "hi": "उकाब" }
     },
     "correct": "c"
   },
   {
-    "question": "Which flower is commonly associated with Goddess Lakshmi?",
+    "question": {
+      "en": "Which flower is commonly associated with Goddess Lakshmi?",
+      "hi": "देवी लक्ष्मी के साथ सामान्यतः कौन-सा पुष्प जुड़ा हुआ है?"
+    },
     "options": {
-      "a": "Rose",
-      "b": "Lotus",
-      "c": "Jasmine",
-      "d": "Sunflower"
+      "a": { "en": "Rose", "hi": "गुलाब" },
+      "b": { "en": "Lotus", "hi": "कमल" },
+      "c": { "en": "Jasmine", "hi": "चमेली" },
+      "d": { "en": "Sunflower", "hi": "सूरजमुखी" }
     },
     "correct": "b"
   },
   {
-    "question": "Who is known as the divine architect of the Devas?",
+    "question": {
+      "en": "Who is known as the divine architect of the Devas?",
+      "hi": "देवताओं के दिव्य वास्तुकार के रूप में किसे जाना जाता है?"
+    },
     "options": {
-      "a": "Vishvakarma",
-      "b": "Narada",
-      "c": "Brihaspati",
-      "d": "Kubera"
+      "a": { "en": "Vishvakarma", "hi": "विश्वकर्मा" },
+      "b": { "en": "Narada", "hi": "नारद" },
+      "c": { "en": "Brihaspati", "hi": "बृहस्पति" },
+      "d": { "en": "Kubera", "hi": "कुबेर" }
     },
     "correct": "a"
   },
   {
-    "question": "Who is the guru of the Devas?",
+    "question": {
+      "en": "Who is the guru of the Devas?",
+      "hi": "देवताओं के गुरु कौन हैं?"
+    },
     "options": {
-      "a": "Shukracharya",
-      "b": "Brihaspati",
-      "c": "Narada",
-      "d": "Vashistha"
+      "a": { "en": "Shukracharya", "hi": "शुक्राचार्य" },
+      "b": { "en": "Brihaspati", "hi": "बृहस्पति" },
+      "c": { "en": "Narada", "hi": "नारद" },
+      "d": { "en": "Vashistha", "hi": "वशिष्ठ" }
     },
     "correct": "b"
   },
   {
-    "question": "Which sage is famous for carrying a veena and spreading devotion?",
+    "question": {
+      "en": "Which sage is famous for carrying a veena and spreading devotion?",
+      "hi": "वीणा धारण कर भक्ति का प्रचार करने वाले प्रसिद्ध ऋषि कौन हैं?"
+    },
     "options": {
-      "a": "Narada",
-      "b": "Valmiki",
-      "c": "Vyasa",
-      "d": "Vishvamitra"
+      "a": { "en": "Narada", "hi": "नारद" },
+      "b": { "en": "Valmiki", "hi": "वाल्मीकि" },
+      "c": { "en": "Vyasa", "hi": "व्यास" },
+      "d": { "en": "Vishvamitra", "hi": "विश्वामित्र" }
     },
     "correct": "a"
   },
   {
-    "question": "Which river is worshipped as a goddess in Hinduism?",
+    "question": {
+      "en": "Which river is worshipped as a goddess in Hinduism?",
+      "hi": "हिंदू धर्म में किस नदी की देवी के रूप में पूजा की जाती है?"
+    },
     "options": {
-      "a": "Yamuna",
-      "b": "Godavari",
-      "c": "Ganga",
-      "d": "Narmada"
+      "a": { "en": "Yamuna", "hi": "यमुना" },
+      "b": { "en": "Godavari", "hi": "गोदावरी" },
+      "c": { "en": "Ganga", "hi": "गंगा" },
+      "d": { "en": "Narmada", "hi": "नर्मदा" }
     },
     "correct": "c"
   },
   {
-    "question": "Who is the goddess of power and protection?",
+    "question": {
+      "en": "Who is the goddess of power and protection?",
+      "hi": "शक्ति और संरक्षण की देवी कौन हैं?"
+    },
     "options": {
-      "a": "Durga",
-      "b": "Lakshmi",
-      "c": "Saraswati",
-      "d": "Sita"
+      "a": { "en": "Durga", "hi": "दुर्गा" },
+      "b": { "en": "Lakshmi", "hi": "लक्ष्मी" },
+      "c": { "en": "Saraswati", "hi": "सरस्वती" },
+      "d": { "en": "Sita", "hi": "सीता" }
     },
     "correct": "a"
   },
   {
-    "question": "Which deity is worshipped first before beginning any auspicious work?",
+    "question": {
+      "en": "Which deity is worshipped first before beginning any auspicious work?",
+      "hi": "किस देवता की पूजा किसी भी शुभ कार्य से पहले की जाती है?"
+    },
     "options": {
-      "a": "Shiva",
-      "b": "Vishnu",
-      "c": "Ganesha",
-      "d": "Indra"
+      "a": { "en": "Shiva", "hi": "शिव" },
+      "b": { "en": "Vishnu", "hi": "विष्णु" },
+      "c": { "en": "Ganesha", "hi": "गणेश" },
+      "d": { "en": "Indra", "hi": "इंद्र" }
     },
     "correct": "c"
   },
   {
-    "question": "What is the heavenly abode of Indra called?",
+    "question": {
+      "en": "What is the heavenly abode of Indra called?",
+      "hi": "इंद्र के स्वर्गलोक का क्या नाम है?"
+    },
     "options": {
-      "a": "Vaikuntha",
-      "b": "Kailasa",
-      "c": "Amaravati",
-      "d": "Goloka"
+      "a": { "en": "Vaikuntha", "hi": "वैकुण्ठ" },
+      "b": { "en": "Kailasa", "hi": "कैलास" },
+      "c": { "en": "Amaravati", "hi": "अमरावती" },
+      "d": { "en": "Goloka", "hi": "गोलोक" }
     },
     "correct": "c"
   }
 ]
-]
+
+
+

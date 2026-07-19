@@ -17,6 +17,11 @@
     <span class="nav-user">{{ session['username'] }}</span>
     <a href="{{ url_for('leaderboard') }}">Leaderboard</a>
     <a href="{{ url_for('logout') }}">Log out</a>
+    <span class="lang-toggle">
+      <a href="{{ url_for('set_language', lang='en') }}" class="{{ 'lang-active' if session.get('lang', 'en') == 'en' else '' }}">EN</a>
+      <span class="lang-sep">/</span>
+      <a href="{{ url_for('set_language', lang='hi') }}" class="{{ 'lang-active' if session.get('lang', 'en') == 'hi' else '' }}">हि</a>
+    </span>
   </div>
   {% endif %}
 

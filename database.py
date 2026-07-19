@@ -55,4 +55,14 @@ def init_db():
         """
     )
     conn.commit()
+
+    # Add Hindi translation columns if they don't exist yet. SQLite has no
+    # "ADD COLUMN IF NOT EXISTS", so check first. English columns remain
+    # the required/canonical fields; these are nullable and optional.
+    existing_cols = {r["name"] for r in conn.execute("PRAGMA table_info(questions)").fetchall()}
+    hindi_columns = ["question_hi", "option_a_hi", "option_b_hi", "option_c_hi", "option_d_hi"]
+    for col in hindi_columns:
+        if col not in existing_cols:
+            conn.execute(f"ALTER TABLE questions ADD COLUMN {col} TEXT")
+    conn.commit()
     conn.close()

@@ -27,6 +27,30 @@ def tier_for(score, total):
     return TIERS[-1][1], TIERS[-1][2]
 
 
+def localize_question(row, lang):
+    """Build a plain dict with the same keys the templates already expect
+    (category, question, option_a..d), populated in the requested language.
+    Falls back to English for any field missing a Hindi translation, so
+    partially-translated content never shows a blank field."""
+    if lang == "hi":
+        return {
+            "category": row["category"],
+            "question": row["question_hi"] or row["question"],
+            "option_a": row["option_a_hi"] or row["option_a"],
+            "option_b": row["option_b_hi"] or row["option_b"],
+            "option_c": row["option_c_hi"] or row["option_c"],
+            "option_d": row["option_d_hi"] or row["option_d"],
+        }
+    return {
+        "category": row["category"],
+        "question": row["question"],
+        "option_a": row["option_a"],
+        "option_b": row["option_b"],
+        "option_c": row["option_c"],
+        "option_d": row["option_d"],
+    }
+
+
 def login_required(view):
     @wraps(view)
     def wrapped(*args, **kwargs):
@@ -134,6 +158,13 @@ def logout():
     return redirect(url_for("home"))
 
 
+@app.route("/language/<lang>")
+def set_language(lang):
+    if lang in ("en", "hi"):
+        session["lang"] = lang
+    return redirect(request.referrer or url_for("home"))
+
+
 @app.route("/play")
 @login_required
 def play():
@@ -168,10 +199,12 @@ def play():
     conn.close()
 
     answered = session.get("quiz_answered")
+    lang = session.get("lang", "en")
+    localized = localize_question(q, lang)
 
     return render_template(
         "quiz.html",
-        question=q,
+        question=localized,
         index=index,
         total=len(ids),
         score=session["quiz_score"],

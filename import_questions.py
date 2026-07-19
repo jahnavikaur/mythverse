@@ -20,6 +20,17 @@ REQUIRED_KEYS = {"question", "options", "correct"}
 REQUIRED_OPTION_KEYS = {"a", "b", "c", "d"}
 
 
+def text_of(field, lang):
+    """A field can be a plain string (English-only, old format) or a
+    {'en': ..., 'hi': ...} dict (bilingual, new format). Returns '' if
+    that language isn't present."""
+    if isinstance(field, str):
+        return field.strip() if lang == "en" else ""
+    if isinstance(field, dict):
+        return (field.get(lang) or "").strip()
+    return ""
+
+
 def load_content_files():
     """Walk data/content/<difficulty>/<domain>.json and yield validated rows."""
     if not CONTENT_DIR.exists():
@@ -35,7 +46,7 @@ def load_content_files():
             category = domain_file.stem.replace("_", " ").title()
 
             try:
-                items = json.loads(domain_file.read_text())
+                items = json.loads(domain_file.read_text(encoding="utf-8"))
             except json.JSONDecodeError as e:
                 print(f"  SKIPPING {domain_file} — invalid JSON: {e}")
                 continue
@@ -46,13 +57,15 @@ def load_content_files():
                     print(f"  SKIPPING {domain_file} item #{i} — {problem}")
                     continue
 
+                opts = q["options"]
                 yield (
                     category,
-                    q["question"].strip(),
-                    q["options"]["a"],
-                    q["options"]["b"],
-                    q["options"]["c"],
-                    q["options"]["d"],
+                    text_of(q["question"], "en"),
+                    text_of(q["question"], "hi"),
+                    text_of(opts["a"], "en"), text_of(opts["a"], "hi"),
+                    text_of(opts["b"], "en"), text_of(opts["b"], "hi"),
+                    text_of(opts["c"], "en"), text_of(opts["c"], "hi"),
+                    text_of(opts["d"], "en"), text_of(opts["d"], "hi"),
                     q["correct"].lower(),
                     difficulty,
                 )
@@ -66,8 +79,11 @@ def validate_question(q):
         return "options must have keys a, b, c, d"
     if q["correct"].lower() not in REQUIRED_OPTION_KEYS:
         return f"correct option '{q['correct']}' is not one of a/b/c/d"
-    if not q["question"].strip():
-        return "empty question text"
+    if not text_of(q["question"], "en"):
+        return "empty English question text (English is required; Hindi is optional)"
+    for letter in REQUIRED_OPTION_KEYS:
+        if not text_of(q["options"][letter], "en"):
+            return f"empty English text for option '{letter}'"
     return None
 
 
@@ -84,8 +100,11 @@ def main():
 
     conn.executemany(
         """INSERT OR IGNORE INTO questions
-           (category, question, option_a, option_b, option_c, option_d, correct_option, difficulty)
-           VALUES (?, ?, ?, ?, ?, ?, ?, ?)""",
+           (category, question, question_hi,
+            option_a, option_a_hi, option_b, option_b_hi,
+            option_c, option_c_hi, option_d, option_d_hi,
+            correct_option, difficulty)
+           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
         rows,
     )
     conn.commit()
