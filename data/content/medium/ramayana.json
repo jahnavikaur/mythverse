@@ -84,7 +84,7 @@
     "options": {
       "a": "Six months",
       "b": "One month",
-      "c": "One year",
+      "c": "six weeks",
       "d": "Twelve years"
     },
     "correct": "a"
