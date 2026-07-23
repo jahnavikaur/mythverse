@@ -33,8 +33,8 @@
     "question": "What is the divine dance Krishna performed with the gopis called?",
     "options": {
       "a": "Raas Leela",
-      "b": "Tandava",
-      "c": "Garba",
+      "b": "Garba",
+      "c": "Tandava",
       "d": "Lavani"
     },
     "correct": "a"
