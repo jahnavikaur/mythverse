@@ -143,8 +143,8 @@
     "question": "Who is regarded as the messenger sage who travels between the three worlds?",
     "options": {
       "a": "Narada",
-      "b": "Agastya",
-      "c": "Durvasa",
+      "b":"Durvasa",
+      "c": "Agastya" ,
       "d": "Vishwamitra"
     },
     "correct": "a"
