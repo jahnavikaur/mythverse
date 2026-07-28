@@ -64,8 +64,8 @@
     "options": {
       "a": "Vishwakarma",
       "b": "Vishwamitra",
-      "c": "Brihaspati",
-      "d": "Kubera"
+      "c": "Kubera",
+      "d": "Brihaspati"
     },
     "correct": "a"
   },
