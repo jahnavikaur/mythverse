@@ -1,355 +1,414 @@
 [
   {
-    "question": "Who is the father of Rama?",
+    "question": {
+      "en": "Who is the father of Rama?",
+      "hi": "भगवान राम के पिता कौन हैं?"
+    },
     "options": {
-      "a": "Dasharatha",
-      "b": "Janaka",
-      "c": "Vashishtha",
-      "d": "Dashagriva"
+      "a": { "en": "Dasharatha", "hi": "दशरथ" },
+      "b": { "en": "Janaka", "hi": "जनक" },
+      "c": { "en": "Vashishtha", "hi": "वशिष्ठ" },
+      "d": { "en": "Dashagriva", "hi": "दशग्रीव" }
     },
     "correct": "a"
   },
   {
-    "question": "Who is Rama's wife?",
+    "question": {
+      "en": "Who is Rama's wife?",
+      "hi": "भगवान राम की पत्नी कौन हैं?"
+    },
     "options": {
-      "a": "Sita",
-      "b": "Urmila",
-      "c": "Mandavi",
-      "d": "Shrutakirti"
+      "a": { "en": "Sita", "hi": "सीता" },
+      "b": { "en": "Urmila", "hi": "उर्मिला" },
+      "c": { "en": "Mandavi", "hi": "मांडवी" },
+      "d": { "en": "Shrutakirti", "hi": "श्रुतकीर्ति" }
     },
     "correct": "a"
   },
   {
-    "question": "Who is Rama's most devoted follower?",
+    "question": {
+      "en": "Who is Rama's most devoted follower?",
+      "hi": "भगवान राम के सबसे महान भक्त कौन हैं?"
+    },
     "options": {
-      "a": "Hanuman",
-      "b": "Sugriva",
-      "c": "Jambavan",
-      "d": "Angada"
+      "a": { "en": "Hanuman", "hi": "हनुमान" },
+      "b": { "en": "Sugriva", "hi": "सुग्रीव" },
+      "c": { "en": "Jambavan", "hi": "जाम्बवान" },
+      "d": { "en": "Angada", "hi": "अंगद" }
     },
     "correct": "a"
   },
   {
-    "question": "Who is the demon king of Lanka?",
+    "question": {
+      "en": "Who is the demon king of Lanka?",
+      "hi": "लंका का राक्षस राजा कौन था?"
+    },
     "options": {
-      "a": "Ravana",
-      "b": "Kumbhakarna",
-      "c": "Vibhishana",
-      "d": "Maricha"
+      "a": { "en": "Ravana", "hi": "रावण" },
+      "b": { "en": "Kumbhakarna", "hi": "कुंभकर्ण" },
+      "c": { "en": "Vibhishana", "hi": "विभीषण" },
+      "d": { "en": "Maricha", "hi": "मारीच" }
     },
     "correct": "a"
   },
   {
-    "question": "Who is Sita's father?",
+    "question": {
+      "en": "Who is Sita's father?",
+      "hi": "माता सीता के पिता कौन थे?"
+    },
     "options": {
-      "a": "Janaka",
-      "b": "Dasharatha",
-      "c": "Kaikeya",
-      "d": "Vibhishana"
+      "a": { "en": "Janaka", "hi": "जनक" },
+      "b": { "en": "Dasharatha", "hi": "दशरथ" },
+      "c": { "en": "Kaikeya", "hi": "कैकेय" },
+      "d": { "en": "Vibhishana", "hi": "विभीषण" }
     },
     "correct": "a"
   },
   {
-    "question": "For how many years was Rama exiled?",
+    "question": {
+      "en": "For how many years was Rama exiled?",
+      "hi": "भगवान राम को कितने वर्षों का वनवास मिला था?"
+    },
     "options": {
-      "a": "10",
-      "b": "12",
-      "c": "14",
-      "d": "16"
+      "a": { "en": "10", "hi": "10" },
+      "b": { "en": "12", "hi": "12" },
+      "c": { "en": "14", "hi": "14" },
+      "d": { "en": "16", "hi": "16" }
     },
     "correct": "c"
   },
   {
-    "question": "Which brother of Ravana joined Rama's side?",
+    "question": {
+      "en": "Which brother of Ravana joined Rama's side?",
+      "hi": "रावण का कौन-सा भाई भगवान राम के पक्ष में आ गया था?"
+    },
     "options": {
-      "a": "Vibhishana",
-      "b": "Kumbhakarna",
-      "c": "Maricha",
-      "d": "Indrajit"
+      "a": { "en": "Vibhishana", "hi": "विभीषण" },
+      "b": { "en": "Kumbhakarna", "hi": "कुंभकर्ण" },
+      "c": { "en": "Maricha", "hi": "मारीच" },
+      "d": { "en": "Indrajit", "hi": "इन्द्रजीत" }
     },
     "correct": "a"
   },
   {
-    "question": "Who killed Ravana?",
+    "question": {
+      "en": "Who killed Ravana?",
+      "hi": "रावण का वध किसने किया?"
+    },
     "options": {
-      "a": "Rama",
-      "b": "Lakshmana",
-      "c": "Hanuman",
-      "d": "Sugriva"
+      "a": { "en": "Rama", "hi": "राम" },
+      "b": { "en": "Lakshmana", "hi": "लक्ष्मण" },
+      "c": { "en": "Hanuman", "hi": "हनुमान" },
+      "d": { "en": "Sugriva", "hi": "सुग्रीव" }
     },
     "correct": "a"
   },
   {
-    "question": "Who is Hanuman's father?",
+    "question": {
+      "en": "Who is Hanuman's father?",
+      "hi": "हनुमान जी के पिता कौन हैं?"
+    },
     "options": {
-      "a": "Vayu",
-      "b": "Surya",
-      "c": "Indra",
-      "d": "Kesari"
+      "a": { "en": "Vayu", "hi": "वायु देव" },
+      "b": { "en": "Surya", "hi": "सूर्य देव" },
+      "c": { "en": "Indra", "hi": "इन्द्र" },
+      "d": { "en": "Kesari", "hi": "केसरी" }
     },
     "correct": "a"
   },
   {
-    "question": "Where was Sita kept captive in Lanka?",
+    "question": {
+      "en": "Where was Sita kept captive in Lanka?",
+      "hi": "लंका में माता सीता को कहाँ बंदी बनाकर रखा गया था?"
+    },
     "options": {
-      "a": "Ashoka Vatika",
-      "b": "Pushpaka Vimana",
-      "c": "Ravana's palace hall",
-      "d": "Lanka fort"
+      "a": { "en": "Ashoka Vatika", "hi": "अशोक वाटिका" },
+      "b": { "en": "Pushpaka Vimana", "hi": "पुष्पक विमान" },
+      "c": { "en": "Ravana's palace hall", "hi": "रावण का राजमहल" },
+      "d": { "en": "Lanka fort", "hi": "लंका का किला" }
     },
     "correct": "a"
   },
   {
-    "question": "Who is Rama's guru?",
+    "question": {
+      "en": "Who is Rama's guru?",
+      "hi": "भगवान राम के गुरु कौन थे?"
+    },
     "options": {
-      "a": "Vashishtha",
-      "b": "Vishwamitra",
-      "c": "Agastya",
-      "d": "Vyasa"
+      "a": { "en": "Vashishtha", "hi": "वशिष्ठ" },
+      "b": { "en": "Vishwamitra", "hi": "विश्वामित्र" },
+      "c": { "en": "Agastya", "hi": "अगस्त्य" },
+      "d": { "en": "Vyasa", "hi": "व्यास" }
     },
     "correct": "a"
   },
   {
-    "question": "Who wrote the original Ramayana?",
+    "question": {
+      "en": "Who wrote the original Ramayana?",
+      "hi": "मूल रामायण की रचना किसने की?"
+    },
     "options": {
-      "a": "Valmiki",
-      "b": "Vyasa",
-      "c": "Tulsidas",
-      "d": "Kalidasa"
+      "a": { "en": "Valmiki", "hi": "वाल्मीकि" },
+      "b": { "en": "Vyasa", "hi": "व्यास" },
+      "c": { "en": "Tulsidas", "hi": "तुलसीदास" },
+      "d": { "en": "Kalidasa", "hi": "कालिदास" }
     },
     "correct": "a"
   },
   {
-    "question": "Who is the monkey king who allies with Rama?",
+    "question": {
+      "en": "Who is the monkey king who allies with Rama?",
+      "hi": "भगवान राम के सहयोगी वानर राजा कौन थे?"
+    },
     "options": {
-      "a": "Sugriva",
-      "b": "Vali",
-      "c": "Angada",
-      "d": "Jambavan"
+      "a": { "en": "Sugriva", "hi": "सुग्रीव" },
+      "b": { "en": "Vali", "hi": "वालि" },
+      "c": { "en": "Angada", "hi": "अंगद" },
+      "d": { "en": "Jambavan", "hi": "जाम्बवान" }
     },
     "correct": "a"
   },
   {
-    "question": "Whose bow did Rama break at Sita's swayamvar?",
+    "question": {
+      "en": "Whose bow did Rama break at Sita's swayamvar?",
+      "hi": "सीता स्वयंवर में भगवान राम ने किसका धनुष तोड़ा था?"
+    },
     "options": {
-      "a": "Shiva's",
-      "b": "Vishnu's",
-      "c": "Indra's",
-      "d": "Brahma's"
+      "a": { "en": "Shiva's", "hi": "भगवान शिव का" },
+      "b": { "en": "Vishnu's", "hi": "भगवान विष्णु का" },
+      "c": { "en": "Indra's", "hi": "इन्द्र का" },
+      "d": { "en": "Brahma's", "hi": "ब्रह्मा का" }
     },
     "correct": "a"
   },
   {
-    "question": "Who is Lakshmana's wife?",
-    "options": {
-      "a": "Urmila",
-      "b": "Mandavi",
-      "c": "Shrutakirti",
-      "d": "Sita"
+    "question": {
+      "en": "Who is Lakshmana's wife?",
+      "hi": "लक्ष्मण की पत्नी कौन थीं?"
     },
-    "correct": "a"
-  },
-  [
-  {
-    "question": "In which city was Lord Rama born?",
     "options": {
-      "a": "Ayodhya",
-      "b": "Mithila",
-      "c": "Lanka",
-      "d": "Kishkindha"
+      "a": { "en": "Urmila", "hi": "उर्मिला" },
+      "b": { "en": "Mandavi", "hi": "मांडवी" },
+      "c": { "en": "Shrutakirti", "hi": "श्रुतकीर्ति" },
+      "d": { "en": "Sita", "hi": "सीता" }
     },
     "correct": "a"
   },
   {
-    "question": "Who was Rama's youngest brother?",
+    "question": {
+      "en": "In which city was Lord Rama born?",
+      "hi": "भगवान राम का जन्म किस नगर में हुआ था?"
+    },
     "options": {
-      "a": "Lakshmana",
-      "b": "Bharata",
-      "c": "Shatrughna",
-      "d": "Vibhishana"
+      "a": { "en": "Ayodhya", "hi": "अयोध्या" },
+      "b": { "en": "Mithila", "hi": "मिथिला" },
+      "c": { "en": "Lanka", "hi": "लंका" },
+      "d": { "en": "Kishkindha", "hi": "किष्किन्धा" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was Rama's youngest brother?",
+      "hi": "भगवान राम के सबसे छोटे भाई कौन थे?"
+    },
+    "options": {
+      "a": { "en": "Lakshmana", "hi": "लक्ष्मण" },
+      "b": { "en": "Bharata", "hi": "भरत" },
+      "c": { "en": "Shatrughna", "hi": "शत्रुघ्न" },
+      "d": { "en": "Vibhishana", "hi": "विभीषण" }
     },
     "correct": "c"
   },
   {
-    "question": "Who accompanied Rama and Sita into exile?",
+    "question": {
+      "en": "Who accompanied Rama and Sita into exile?",
+      "hi": "भगवान राम और माता सीता के साथ वनवास में कौन गए थे?"
+    },
     "options": {
-      "a": "Lakshmana",
-      "b": "Bharata",
-      "c": "Shatrughna",
-      "d": "Hanuman"
+      "a": { "en": "Lakshmana", "hi": "लक्ष्मण" },
+      "b": { "en": "Bharata", "hi": "भरत" },
+      "c": { "en": "Shatrughna", "hi": "शत्रुघ्न" },
+      "d": { "en": "Hanuman", "hi": "हनुमान" }
+    },
+    "correct": "a"
+  },
+  
+  {
+    "question": {
+      "en": "What did Bharata place on the throne to represent Rama?",
+      "hi": "भरत ने राम का प्रतिनिधित्व करने के लिए सिंहासन पर क्या रखा?"
+    },
+    "options": {
+      "a": {
+        "en": "Rama's sandals",
+        "hi": "राम की खड़ाऊँ"
+      },
+      "b": {
+        "en": "Rama's bow",
+        "hi": "राम का धनुष"
+      },
+      "c": {
+        "en": "Rama's crown",
+        "hi": "राम का मुकुट"
+      },
+      "d": {
+        "en": "Rama's ring",
+        "hi": "राम की अंगूठी"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Which queen asked for Rama's exile?",
+    "question": {
+      "en": "Who kidnapped Sita?",
+      "hi": "सीता का अपहरण किसने किया?"
+    },
     "options": {
-      "a": "Kaikeyi",
-      "b": "Kaushalya",
-      "c": "Sumitra",
-      "d": "Mandodari"
+      "a": {
+        "en": "Ravana",
+        "hi": "रावण"
+      },
+      "b": {
+        "en": "Kumbhakarna",
+        "hi": "कुंभकर्ण"
+      },
+      "c": {
+        "en": "Maricha",
+        "hi": "मारीच"
+      },
+      "d": {
+        "en": "Indrajit",
+        "hi": "इंद्रजीत"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who was Bharata's mother?",
+    "question": {
+      "en": "Which bird tried to stop Ravana from abducting Sita?",
+      "hi": "किस पक्षी ने रावण को सीता का अपहरण करने से रोकने का प्रयास किया?"
+    },
     "options": {
-      "a": "Kaikeyi",
-      "b": "Kaushalya",
-      "c": "Sumitra",
-      "d": "Sita"
+      "a": {
+        "en": "Jatayu",
+        "hi": "जटायु"
+      },
+      "b": {
+        "en": "Garuda",
+        "hi": "गरुड़"
+      },
+      "c": {
+        "en": "Sampati",
+        "hi": "संपाती"
+      },
+      "d": {
+        "en": "Hamsa",
+        "hi": "हंस"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who was Lakshmana's mother?",
-    "options": {
-      "a": "Kaushalya",
-      "b": "Kaikeyi",
-      "c": "Sumitra",
-      "d": "Sita"
+    "question": {
+      "en": "Who crossed the ocean to search for Sita?",
+      "hi": "सीता की खोज के लिए समुद्र पार कौन गया?"
     },
-    "correct": "c"
-  },
-  {
-    "question": "Who ruled Ayodhya while Rama was in exile?",
     "options": {
-      "a": "Bharata",
-      "b": "Lakshmana",
-      "c": "Shatrughna",
-      "d": "Dasharatha"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "What did Bharata place on the throne to represent Rama?",
-    "options": {
-      "a": "Rama's sandals",
-      "b": "Rama's bow",
-      "c": "Rama's crown",
-      "d": "Rama's ring"
+      "a": {
+        "en": "Hanuman",
+        "hi": "हनुमान"
+      },
+      "b": {
+        "en": "Sugriva",
+        "hi": "सुग्रीव"
+      },
+      "c": {
+        "en": "Angada",
+        "hi": "अंगद"
+      },
+      "d": {
+        "en": "Jambavan",
+        "hi": "जाम्बवन"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who kidnapped Sita?",
+    "question": {
+      "en": "What did Hanuman give Sita as proof that he came from Rama?",
+      "hi": "हनुमान ने सीता को राम का संदेशवाहक होने के प्रमाण के रूप में क्या दिया?"
+    },
     "options": {
-      "a": "Ravana",
-      "b": "Kumbhakarna",
-      "c": "Maricha",
-      "d": "Indrajit"
+      "a": {
+        "en": "Rama's ring",
+        "hi": "राम की अंगूठी"
+      },
+      "b": {
+        "en": "A bow",
+        "hi": "धनुष"
+      },
+      "c": {
+        "en": "A crown",
+        "hi": "मुकुट"
+      },
+      "d": {
+        "en": "A necklace",
+        "hi": "हार"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Which bird tried to stop Ravana from abducting Sita?",
+    "question": {
+      "en": "Who built the bridge to Lanka?",
+      "hi": "लंका तक पुल किसने बनाया?"
+    },
     "options": {
-      "a": "Jatayu",
-      "b": "Garuda",
-      "c": "Sampati",
-      "d": "Hamsa"
+      "a": {
+        "en": "The Vanara army",
+        "hi": "वानर सेना"
+      },
+      "b": {
+        "en": "The Devas",
+        "hi": "देवता"
+      },
+      "c": {
+        "en": "The Pandavas",
+        "hi": "पांडव"
+      },
+      "d": {
+        "en": "The Nagas",
+        "hi": "नाग"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who crossed the ocean to search for Sita?",
-    "options": {
-      "a": "Hanuman",
-      "b": "Sugriva",
-      "c": "Angada",
-      "d": "Jambavan"
+    "question": {
+      "en": "What was the bridge to Lanka popularly called?",
+      "hi": "लंका तक बने पुल को लोकप्रिय रूप से क्या कहा जाता था?"
     },
-    "correct": "a"
-  },
-  {
-    "question": "What did Hanuman give Sita as proof that he came from Rama?",
     "options": {
-      "a": "Rama's ring",
-      "b": "A bow",
-      "c": "A crown",
-      "d": "A necklace"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who built the bridge to Lanka?",
-    "options": {
-      "a": "The Vanara army",
-      "b": "The Devas",
-      "c": "The Pandavas",
-      "d": "The Nagas"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "What was the bridge to Lanka popularly called?",
-    "options": {
-      "a": "Rama Setu",
-      "b": "Indra Setu",
-      "c": "Surya Setu",
-      "d": "Shiva Setu"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who was the son of Vali?",
-    "options": {
-      "a": "Angada",
-      "b": "Sugriva",
-      "c": "Hanuman",
-      "d": "Nala"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who killed Vali?",
-    "options": {
-      "a": "Rama",
-      "b": "Lakshmana",
-      "c": "Hanuman",
-      "d": "Sugriva"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Which festival celebrates Rama's return to Ayodhya?",
-    "options": {
-      "a": "Diwali",
-      "b": "Holi",
-      "c": "Dussehra",
-      "d": "Janmashtami"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who was Ravana's giant brother?",
-    "options": {
-      "a": "Kumbhakarna",
-      "b": "Vibhishana",
-      "c": "Indrajit",
-      "d": "Akampana"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who was Ravana's son who fought Rama's army?",
-    "options": {
-      "a": "Indrajit",
-      "b": "Vibhishana",
-      "c": "Kumbhakarna",
-      "d": "Akshayakumara"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who became the king of Lanka after Ravana's defeat?",
-    "options": {
-      "a": "Vibhishana",
-      "b": "Lakshmana",
-      "c": "Hanuman",
-      "d": "Sugriva"
+      "a": {
+        "en": "Rama Setu",
+        "hi": "राम सेतु"
+      },
+      "b": {
+        "en": "Indra Setu",
+        "hi": "इंद्र सेतु"
+      },
+      "c": {
+        "en": "Surya Setu",
+        "hi": "सूर्य सेतु"
+      },
+      "d": {
+        "en": "Shiva Setu",
+        "hi": "शिव सेतु"
+      }
     },
     "correct": "a"
   }
 ]
-    
-]
+
+  
