@@ -1,354 +1,223 @@
 [
   {
-    "question": "Who wrote the Mahabharata?",
+    "question": {
+      "en": "Who was the royal teacher of both the Pandavas and Kauravas?",
+      "hi": "पांडवों और कौरवों दोनों के राजगुरु कौन थे?"
+    },
     "options": {
-      "a": "Vyasa",
-      "b": "Valmiki",
-      "c": "Vidura",
-      "d": "Sanjaya"
+      "a": { "en": "Drona", "hi": "द्रोण" },
+      "b": { "en": "Bhishma", "hi": "भीष्म" },
+      "c": { "en": "Vidura", "hi": "विदुर" },
+      "d": { "en": "Shakuni", "hi": "शकुनि" }
     },
     "correct": "a"
   },
   {
-    "question": "How many Pandava brothers were there?",
+    "question": {
+      "en": "Who was the maternal uncle of the Kauravas?",
+      "hi": "कौरवों के मामा कौन थे?"
+    },
     "options": {
-      "a": "Five",
-      "b": "Four",
-      "c": "Six",
-      "d": "Seven"
+      "a": { "en": "Shakuni", "hi": "शकुनि" },
+      "b": { "en": "Kripa", "hi": "कृपाचार्य" },
+      "c": { "en": "Vidura", "hi": "विदुर" },
+      "d": { "en": "Ashwatthama", "hi": "अश्वत्थामा" }
     },
     "correct": "a"
   },
   {
-    "question": "How many Kaurava brothers were there?",
+    "question": {
+      "en": "Who was the son of Drona?",
+      "hi": "द्रोणाचार्य के पुत्र कौन थे?"
+    },
     "options": {
-      "a": "One hundred",
-      "b": "Ninety",
-      "c": "Fifty",
-      "d": "Twelve"
+      "a": { "en": "Ashwatthama", "hi": "अश्वत्थामा" },
+      "b": { "en": "Abhimanyu", "hi": "अभिमन्यु" },
+      "c": { "en": "Ghatotkacha", "hi": "घटोत्कच" },
+      "d": { "en": "Karna", "hi": "कर्ण" }
     },
     "correct": "a"
   },
   {
-    "question": "Who was the common wife of the five Pandavas?",
+    "question": {
+      "en": "Who was Arjuna's son with Subhadra?",
+      "hi": "सुभद्रा से अर्जुन के पुत्र कौन थे?"
+    },
     "options": {
-      "a": "Draupadi",
-      "b": "Subhadra",
-      "c": "Kunti",
-      "d": "Gandhari"
+      "a": { "en": "Abhimanyu", "hi": "अभिमन्यु" },
+      "b": { "en": "Parikshit", "hi": "परीक्षित" },
+      "c": { "en": "Iravan", "hi": "इरावान" },
+      "d": { "en": "Babruvahana", "hi": "बभ्रुवाहन" }
     },
     "correct": "a"
   },
   {
-    "question": "What role did Krishna play in the Kurukshetra war?",
+    "question": {
+      "en": "Who was Krishna's sister?",
+      "hi": "भगवान कृष्ण की बहन कौन थीं?"
+    },
     "options": {
-      "a": "Arjuna's charioteer",
-      "b": "A Kaurava general",
-      "c": "A neutral observer",
-      "d": "Bhishma's advisor"
+      "a": { "en": "Subhadra", "hi": "सुभद्रा" },
+      "b": { "en": "Draupadi", "hi": "द्रौपदी" },
+      "c": { "en": "Kunti", "hi": "कुंती" },
+      "d": { "en": "Gandhari", "hi": "गांधारी" }
     },
     "correct": "a"
   },
   {
-    "question": "Who was the eldest of the Pandava brothers?",
+    "question": {
+      "en": "Which Pandava married Subhadra?",
+      "hi": "सुभद्रा से किस पांडव ने विवाह किया था?"
+    },
     "options": {
-      "a": "Yudhishthira",
-      "b": "Bhima",
-      "c": "Arjuna",
-      "d": "Nakula"
+      "a": { "en": "Arjuna", "hi": "अर्जुन" },
+      "b": { "en": "Bhima", "hi": "भीम" },
+      "c": { "en": "Yudhishthira", "hi": "युधिष्ठिर" },
+      "d": { "en": "Nakula", "hi": "नकुल" }
     },
     "correct": "a"
   },
   {
-    "question": "Which Pandava was known for his immense physical strength?",
+    "question": {
+      "en": "Who was famous for never speaking a lie?",
+      "hi": "सत्य बोलने के लिए प्रसिद्ध कौन थे?"
+    },
     "options": {
-      "a": "Bhima",
-      "b": "Arjuna",
-      "c": "Nakula",
-      "d": "Sahadeva"
+      "a": { "en": "Yudhishthira", "hi": "युधिष्ठिर" },
+      "b": { "en": "Bhima", "hi": "भीम" },
+      "c": { "en": "Arjuna", "hi": "अर्जुन" },
+      "d": { "en": "Duryodhana", "hi": "दुर्योधन" }
     },
     "correct": "a"
   },
   {
-    "question": "Which Pandava was considered the greatest archer?",
+    "question": {
+      "en": "Who defeated Duryodhana in the final mace battle?",
+      "hi": "अंतिम गदा युद्ध में दुर्योधन को किसने पराजित किया?"
+    },
     "options": {
-      "a": "Arjuna",
-      "b": "Bhima",
-      "c": "Yudhishthira",
-      "d": "Sahadeva"
+      "a": { "en": "Bhima", "hi": "भीम" },
+      "b": { "en": "Arjuna", "hi": "अर्जुन" },
+      "c": { "en": "Nakula", "hi": "नकुल" },
+      "d": { "en": "Sahadeva", "hi": "सहदेव" }
     },
     "correct": "a"
   },
   {
-    "question": "Who was the eldest of the Kaurava brothers?",
+    "question": {
+      "en": "Who was born with natural armor and earrings?",
+      "hi": "जन्म से ही कवच और कुंडल किसके पास थे?"
+    },
     "options": {
-      "a": "Duryodhana",
-      "b": "Dushasana",
-      "c": "Vikarna",
-      "d": "Yuyutsu"
+      "a": { "en": "Karna", "hi": "कर्ण" },
+      "b": { "en": "Arjuna", "hi": "अर्जुन" },
+      "c": { "en": "Bhishma", "hi": "भीष्म" },
+      "d": { "en": "Abhimanyu", "hi": "अभिमन्यु" }
     },
     "correct": "a"
   },
   {
-    "question": "Who was the blind father of the Kauravas?",
+    "question": {
+      "en": "Who was Karna's mother?",
+      "hi": "कर्ण की माता कौन थीं?"
+    },
     "options": {
-      "a": "Dhritarashtra",
-      "b": "Pandu",
-      "c": "Bhishma",
-      "d": "Vidura"
+      "a": { "en": "Kunti", "hi": "कुंती" },
+      "b": { "en": "Gandhari", "hi": "गांधारी" },
+      "c": { "en": "Madri", "hi": "माद्री" },
+      "d": { "en": "Draupadi", "hi": "द्रौपदी" }
     },
     "correct": "a"
   },
   {
-    "question": "Who was the father of the Pandavas?",
+    "question": {
+      "en": "Who was the king of Hastinapura before the Kurukshetra war?",
+      "hi": "कुरुक्षेत्र युद्ध से पहले हस्तिनापुर का राजा कौन था?"
+    },
     "options": {
-      "a": "Pandu",
-      "b": "Dhritarashtra",
-      "c": "Bhishma",
-      "d": "Vidura"
+      "a": { "en": "Dhritarashtra", "hi": "धृतराष्ट्र" },
+      "b": { "en": "Pandu", "hi": "पांडु" },
+      "c": { "en": "Yudhishthira", "hi": "युधिष्ठिर" },
+      "d": { "en": "Bhishma", "hi": "भीष्म" }
     },
     "correct": "a"
   },
   {
-    "question": "What is Krishna's discourse to Arjuna on the battlefield called?",
+    "question": {
+      "en": "Who narrated the events of the Kurukshetra war to Dhritarashtra?",
+      "hi": "धृतराष्ट्र को कुरुक्षेत्र युद्ध का वर्णन किसने सुनाया?"
+    },
     "options": {
-      "a": "Bhagavad Gita",
-      "b": "Vishnu Purana",
-      "c": "Yoga Sutra",
-      "d": "Gita Govinda"
+      "a": { "en": "Sanjaya", "hi": "संजय" },
+      "b": { "en": "Vidura", "hi": "विदुर" },
+      "c": { "en": "Kripa", "hi": "कृपाचार्य" },
+      "d": { "en": "Vyasa", "hi": "व्यास" }
     },
     "correct": "a"
   },
   {
-    "question": "On which battlefield was the Mahabharata war fought?",
+    "question": {
+      "en": "What game led to the exile of the Pandavas?",
+      "hi": "किस खेल के कारण पांडवों को वनवास जाना पड़ा?"
+    },
     "options": {
-      "a": "Kurukshetra",
-      "b": "Panipat",
-      "c": "Hastinapur",
-      "d": "Indraprastha"
+      "a": { "en": "Dice", "hi": "पासा" },
+      "b": { "en": "Chess", "hi": "शतरंज" },
+      "c": { "en": "Archery", "hi": "धनुर्विद्या" },
+      "d": { "en": "Wrestling", "hi": "कुश्ती" }
     },
     "correct": "a"
   },
   {
-    "question": "For how many days did the Kurukshetra war last?",
+    "question": {
+      "en": "For how many years were the Pandavas exiled to the forest?",
+      "hi": "पांडवों को कितने वर्षों का वनवास मिला था?"
+    },
     "options": {
-      "a": "18",
-      "b": "12",
-      "c": "7",
-      "d": "100"
+      "a": { "en": "13 years", "hi": "13 वर्ष" },
+      "b": { "en": "10 years", "hi": "10 वर्ष" },
+      "c": { "en": "12 years", "hi": "12 वर्ष" },
+      "d": { "en": "14 years", "hi": "14 वर्ष" }
     },
     "correct": "a"
   },
   {
-    "question": "Who disrobed Draupadi in the Kaurava court?",
-    "options": {
-      "a": "Dushasana",
-      "b": "Duryodhana",
-      "c": "Shakuni",
-      "d": "Karna"
+    "question": {
+      "en": "Which kingdom became the capital of the Pandavas?",
+      "hi": "पांडवों की राजधानी कौन-सा राज्य बना?"
     },
-    "correct": "a"
-  },
-  [
-  {
-    "question": "Who was the mother of the Pandavas?",
     "options": {
-      "a": "Kunti",
-      "b": "Gandhari",
-      "c": "Draupadi",
-      "d": "Subhadra"
+      "a": { "en": "Indraprastha", "hi": "इन्द्रप्रस्थ" },
+      "b": { "en": "Mathura", "hi": "मथुरा" },
+      "c": { "en": "Dwarka", "hi": "द्वारका" },
+      "d": { "en": "Kashi", "hi": "काशी" }
     },
     "correct": "a"
   },
   {
-    "question": "Who was the mother of the Kauravas?",
-    "options": {
-      "a": "Kunti",
-      "b": "Gandhari",
-      "c": "Madri",
-      "d": "Draupadi"
+    "question": {
+      "en": "Who was the wife of Dhritarashtra?",
+      "hi": "धृतराष्ट्र की पत्नी कौन थीं?"
     },
-    "correct": "b"
-  },
-  {
-    "question": "Who was the grandsire of both the Pandavas and Kauravas?",
     "options": {
-      "a": "Bhishma",
-      "b": "Drona",
-      "c": "Kripa",
-      "d": "Vidura"
+      "a": { "en": "Gandhari", "hi": "गांधारी" },
+      "b": { "en": "Kunti", "hi": "कुंती" },
+      "c": { "en": "Madri", "hi": "माद्री" },
+      "d": { "en": "Draupadi", "hi": "द्रौपदी" }
     },
     "correct": "a"
   },
   {
-    "question": "Who was the royal teacher of both the Pandavas and Kauravas?",
-    "options": {
-      "a": "Drona",
-      "b": "Bhishma",
-      "c": "Vidura",
-      "d": "Shakuni"
+    "question": {
+      "en": "Which warrior entered the Chakravyuha but could not come out?",
+      "hi": "कौन-सा योद्धा चक्रव्यूह में प्रवेश तो कर गया, लेकिन बाहर नहीं निकल सका?"
     },
-    "correct": "a"
-  },
-  {
-    "question": "Who was the maternal uncle of the Kauravas?",
     "options": {
-      "a": "Shakuni",
-      "b": "Kripa",
-      "c": "Vidura",
-      "d": "Ashwatthama"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who was the son of Drona?",
-    "options": {
-      "a": "Ashwatthama",
-      "b": "Abhimanyu",
-      "c": "Ghatotkacha",
-      "d": "Karna"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who was Arjuna's son with Subhadra?",
-    "options": {
-      "a": "Abhimanyu",
-      "b": "Parikshit",
-      "c": "Iravan",
-      "d": "Babruvahana"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who was Krishna's sister?",
-    "options": {
-      "a": "Subhadra",
-      "b": "Draupadi",
-      "c": "Kunti",
-      "d": "Gandhari"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Which Pandava married Subhadra?",
-    "options": {
-      "a": "Arjuna",
-      "b": "Bhima",
-      "c": "Yudhishthira",
-      "d": "Nakula"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who was famous for never speaking a lie?",
-    "options": {
-      "a": "Yudhishthira",
-      "b": "Bhima",
-      "c": "Arjuna",
-      "d": "Duryodhana"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who defeated Duryodhana in the final mace battle?",
-    "options": {
-      "a": "Bhima",
-      "b": "Arjuna",
-      "c": "Nakula",
-      "d": "Sahadeva"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who was born with natural armor and earrings?",
-    "options": {
-      "a": "Karna",
-      "b": "Arjuna",
-      "c": "Bhishma",
-      "d": "Abhimanyu"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who was Karna's mother?",
-    "options": {
-      "a": "Kunti",
-      "b": "Gandhari",
-      "c": "Madri",
-      "d": "Draupadi"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who was the king of Hastinapura before the Kurukshetra war?",
-    "options": {
-      "a": "Dhritarashtra",
-      "b": "Pandu",
-      "c": "Yudhishthira",
-      "d": "Bhishma"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who narrated the events of the Kurukshetra war to Dhritarashtra?",
-    "options": {
-      "a": "Sanjaya",
-      "b": "Vidura",
-      "c": "Kripa",
-      "d": "Vyasa"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "What game led to the exile of the Pandavas?",
-    "options": {
-      "a": "Dice",
-      "b": "Chess",
-      "c": "Archery",
-      "d": "Wrestling"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "For how many years were the Pandavas exiled to the forest?",
-    "options": {
-      "a": "13 years",
-      "b": "10 years",
-      "c": "12 years",
-      "d": "14 years"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Which kingdom became the capital of the Pandavas?",
-    "options": {
-      "a": "Indraprastha",
-      "b": "Mathura",
-      "c": "Dwarka",
-      "d": "Kashi"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who was the wife of Dhritarashtra?",
-    "options": {
-      "a": "Gandhari",
-      "b": "Kunti",
-      "c": "Madri",
-      "d": "Draupadi"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Which warrior entered the Chakravyuha but could not come out?",
-    "options": {
-      "a": "Abhimanyu",
-      "b": "Arjuna",
-      "c": "Bhima",
-      "d": "Karna"
+      "a": { "en": "Abhimanyu", "hi": "अभिमन्यु" },
+      "b": { "en": "Arjuna", "hi": "अर्जुन" },
+      "c": { "en": "Bhima", "hi": "भीम" },
+      "d": { "en": "Karna", "hi": "कर्ण" }
     },
     "correct": "a"
   }
-]
 ]
