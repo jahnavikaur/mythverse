@@ -219,5 +219,241 @@
       "d": { "en": "Karna", "hi": "कर्ण" }
     },
     "correct": "a"
+  },
+  
+  {
+    "question": {
+      "en": "Who wrote the Mahabharata?",
+      "hi": "महाभारत की रचना किसने की?"
+    },
+    "options": {
+      "a": { "en": "Vyasa", "hi": "व्यास" },
+      "b": { "en": "Valmiki", "hi": "वाल्मीकि" },
+      "c": { "en": "Vidura", "hi": "विदुर" },
+      "d": { "en": "Sanjaya", "hi": "संजय" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "How many Pandava brothers were there?",
+      "hi": "पांडव भाई कितने थे?"
+    },
+    "options": {
+      "a": { "en": "Five", "hi": "पाँच" },
+      "b": { "en": "Four", "hi": "चार" },
+      "c": { "en": "Six", "hi": "छह" },
+      "d": { "en": "Seven", "hi": "सात" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "How many Kaurava brothers were there?",
+      "hi": "कौरव भाई कितने थे?"
+    },
+    "options": {
+      "a": { "en": "One hundred", "hi": "एक सौ" },
+      "b": { "en": "Ninety", "hi": "नब्बे" },
+      "c": { "en": "Fifty", "hi": "पचास" },
+      "d": { "en": "Twelve", "hi": "बारह" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was the common wife of the five Pandavas?",
+      "hi": "पाँचों पांडवों की समान पत्नी कौन थीं?"
+    },
+    "options": {
+      "a": { "en": "Draupadi", "hi": "द्रौपदी" },
+      "b": { "en": "Subhadra", "hi": "सुभद्रा" },
+      "c": { "en": "Kunti", "hi": "कुंती" },
+      "d": { "en": "Gandhari", "hi": "गांधारी" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "What role did Krishna play in the Kurukshetra war?",
+      "hi": "कुरुक्षेत्र युद्ध में भगवान कृष्ण ने कौन-सी भूमिका निभाई?"
+    },
+    "options": {
+      "a": { "en": "Arjuna's charioteer", "hi": "अर्जुन के सारथी" },
+      "b": { "en": "A Kaurava general", "hi": "कौरवों के सेनापति" },
+      "c": { "en": "A neutral observer", "hi": "तटस्थ दर्शक" },
+      "d": { "en": "Bhishma's advisor", "hi": "भीष्म के सलाहकार" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was the eldest of the Pandava brothers?",
+      "hi": "पांडव भाइयों में सबसे बड़े कौन थे?"
+    },
+    "options": {
+      "a": { "en": "Yudhishthira", "hi": "युधिष्ठिर" },
+      "b": { "en": "Bhima", "hi": "भीम" },
+      "c": { "en": "Arjuna", "hi": "अर्जुन" },
+      "d": { "en": "Nakula", "hi": "नकुल" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which Pandava was known for his immense physical strength?",
+      "hi": "कौन-से पांडव अपनी अपार शारीरिक शक्ति के लिए प्रसिद्ध थे?"
+    },
+    "options": {
+      "a": { "en": "Bhima", "hi": "भीम" },
+      "b": { "en": "Arjuna", "hi": "अर्जुन" },
+      "c": { "en": "Nakula", "hi": "नकुल" },
+      "d": { "en": "Sahadeva", "hi": "सहदेव" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which Pandava was considered the greatest archer?",
+      "hi": "कौन-से पांडव को सबसे महान धनुर्धर माना जाता था?"
+    },
+    "options": {
+      "a": { "en": "Arjuna", "hi": "अर्जुन" },
+      "b": { "en": "Bhima", "hi": "भीम" },
+      "c": { "en": "Yudhishthira", "hi": "युधिष्ठिर" },
+      "d": { "en": "Sahadeva", "hi": "सहदेव" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was the eldest of the Kaurava brothers?",
+      "hi": "कौरव भाइयों में सबसे बड़े कौन थे?"
+    },
+    "options": {
+      "a": { "en": "Duryodhana", "hi": "दुर्योधन" },
+      "b": { "en": "Dushasana", "hi": "दुःशासन" },
+      "c": { "en": "Vikarna", "hi": "विकर्ण" },
+      "d": { "en": "Yuyutsu", "hi": "युयुत्सु" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was the blind father of the Kauravas?",
+      "hi": "कौरवों के अंधे पिता कौन थे?"
+    },
+    "options": {
+      "a": { "en": "Dhritarashtra", "hi": "धृतराष्ट्र" },
+      "b": { "en": "Pandu", "hi": "पांडु" },
+      "c": { "en": "Bhishma", "hi": "भीष्म" },
+      "d": { "en": "Vidura", "hi": "विदुर" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was the father of the Pandavas?",
+      "hi": "पांडवों के पिता कौन थे?"
+    },
+    "options": {
+      "a": { "en": "Pandu", "hi": "पांडु" },
+      "b": { "en": "Dhritarashtra", "hi": "धृतराष्ट्र" },
+      "c": { "en": "Bhishma", "hi": "भीष्म" },
+      "d": { "en": "Vidura", "hi": "विदुर" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "What is Krishna's discourse to Arjuna on the battlefield called?",
+      "hi": "युद्धभूमि में अर्जुन को भगवान कृष्ण द्वारा दिया गया उपदेश क्या कहलाता है?"
+    },
+    "options": {
+      "a": { "en": "Bhagavad Gita", "hi": "भगवद्गीता" },
+      "b": { "en": "Vishnu Purana", "hi": "विष्णु पुराण" },
+      "c": { "en": "Yoga Sutra", "hi": "योग सूत्र" },
+      "d": { "en": "Gita Govinda", "hi": "गीत गोविंद" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "On which battlefield was the Mahabharata war fought?",
+      "hi": "महाभारत का युद्ध किस युद्धभूमि में लड़ा गया था?"
+    },
+    "options": {
+      "a": { "en": "Kurukshetra", "hi": "कुरुक्षेत्र" },
+      "b": { "en": "Panipat", "hi": "पानीपत" },
+      "c": { "en": "Hastinapur", "hi": "हस्तिनापुर" },
+      "d": { "en": "Indraprastha", "hi": "इन्द्रप्रस्थ" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "For how many days did the Kurukshetra war last?",
+      "hi": "कुरुक्षेत्र का युद्ध कितने दिनों तक चला?"
+    },
+    "options": {
+      "a": { "en": "18", "hi": "18" },
+      "b": { "en": "12", "hi": "12" },
+      "c": { "en": "7", "hi": "7" },
+      "d": { "en": "100", "hi": "100" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who disrobed Draupadi in the Kaurava court?",
+      "hi": "कौरव सभा में द्रौपदी का चीरहरण किसने किया था?"
+    },
+    "options": {
+      "a": { "en": "Dushasana", "hi": "दुःशासन" },
+      "b": { "en": "Duryodhana", "hi": "दुर्योधन" },
+      "c": { "en": "Shakuni", "hi": "शकुनि" },
+      "d": { "en": "Karna", "hi": "कर्ण" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was the mother of the Pandavas?",
+      "hi": "पांडवों की माता कौन थीं?"
+    },
+    "options": {
+      "a": { "en": "Kunti", "hi": "कुंती" },
+      "b": { "en": "Gandhari", "hi": "गांधारी" },
+      "c": { "en": "Draupadi", "hi": "द्रौपदी" },
+      "d": { "en": "Subhadra", "hi": "सुभद्रा" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was the mother of the Kauravas?",
+      "hi": "कौरवों की माता कौन थीं?"
+    },
+    "options": {
+      "a": { "en": "Kunti", "hi": "कुंती" },
+      "b": { "en": "Gandhari", "hi": "गांधारी" },
+      "c": { "en": "Madri", "hi": "माद्री" },
+      "d": { "en": "Draupadi", "hi": "द्रौपदी" }
+    },
+    "correct": "b"
+  },
+  {
+    "question": {
+      "en": "Who was the grandsire of both the Pandavas and Kauravas?",
+      "hi": "पांडवों और कौरवों दोनों के पितामह कौन थे?"
+    },
+    "options": {
+      "a": { "en": "Bhishma", "hi": "भीष्म" },
+      "b": { "en": "Drona", "hi": "द्रोण" },
+      "c": { "en": "Kripa", "hi": "कृपाचार्य" },
+      "d": { "en": "Vidura", "hi": "विदुर" }
+    },
+    "correct": "a"
   }
+
 ]
