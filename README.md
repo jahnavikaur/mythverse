@@ -1,25 +1,66 @@
-# Tales of Bharat — Mythology Quiz Site
+<div align="center">
 
-A proper multi-page Flask site built from the original terminal project.
-Same six quiz questions, now wrapped in real accounts, sessions, a score
-history, a leaderboard, and a JSON API you can build a mobile app on top
-of later.
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=3500&pause=1200&color=D4A5A5&center=true&vCenter=true&width=600&lines=Tales+of+Bharat;A+Mythology+Quiz+Journey;Ramayana+%C2%B7+Mahabharata+%C2%B7+Puranas" alt="Typing SVG" />
 
-## Running it locally
+⋆｡‍𖦹 ‍⋆ 𓆩♡𓆪 ⋆｡‍𖦹 ‍⋆
+
+**a cozy little quiz world for the stories that raised us**
+
+<br>
+
+![Python](https://img.shields.io/badge/python-3.10+-F7CACA?style=for-the-badge&logo=python&logoColor=white&labelColor=D4A5A5)
+![Flask](https://img.shields.io/badge/flask-3.0-EAD7D1?style=for-the-badge&logo=flask&logoColor=white&labelColor=C9A9A6)
+![SQLite](https://img.shields.io/badge/sqlite-database-E8C4C4?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=C89191)
+![Status](https://img.shields.io/badge/status-in%20bloom-F4DCD6?style=for-the-badge&labelColor=D9AFAF)
+
+</div>
+
+<br>
+
+<div align="center">
+  <img width="500" src="https://images.unsplash.com/photo-1544084944-15263ef53152?w=700&auto=format&fit=crop" alt="soft mythology aesthetic banner" />
+</div>
+
+<br>
+
+## ˖°𓆩🪷𓆪°˖ · about this project
+
+> *"Every myth is a question the world once asked itself."*
+
+**Tales of Bharat** is a full multi-page Flask site, grown out of a small terminal quiz. It keeps the same six questions from Indian mythology at heart, now wrapped in real accounts, saved scores, a leaderboard, and a JSON API to build on later.
+
+<br>
+
+## ‧₊˚ ⋅ ✧ what it's made of
+
+<div align="center">
+
+| ✦ | feature |
+|:---:|:---|
+| 🔐 | real password hashing, not plaintext |
+| 🏆 | a leaderboard that actually works |
+| 🧵 | session-based quiz state — no desyncing between questions |
+| 🔗 | a JSON API (`/api/questions`, `/api/leaderboard`) for future apps |
+
+</div>
+
+<br>
+
+## ⋆｡°✩ getting it running
 
 ```bash
 pip install -r requirements.txt
-python init_db.py      # creates database.db and seeds the questions
-python app.py           # starts the dev server at http://127.0.0.1:5000
+python init_db.py      # creates the database + seeds the questions
+python app.py           # → http://127.0.0.1:5000
 ```
 
-Open http://127.0.0.1:5000, create an account, and play.
+Then just open the link, make an account, and play ⛅
 
-`init_db.py` only needs to be run once — `app.py` also calls it
-automatically on startup, so a fresh clone works with just
-`pip install` + `python app.py`.
+*(`init_db.py` only needs to run once — `app.py` calls it automatically, so a fresh clone works with just install + run.)*
 
-## Project structure
+<br>
+
+## ‧₊˚ folder map ⊹ ࣪ ˖
 
 ```
 mytho-site/
@@ -28,30 +69,17 @@ mytho-site/
 ├── database.py            # SQLite connection + table setup
 ├── auth.py                 # password hashing (werkzeug)
 ├── data/
-│   └── questions.py        # the question bank — add more here
-├── templates/               # Jinja2 pages (login, quiz, result, leaderboard)
-├── static/css/style.css     # shared visual theme
-└── init_db.py               # one-time DB setup script
+│   └── questions.py        # the question bank — add more here 🌸
+├── templates/               # login, quiz, result, leaderboard pages
+├── static/css/style.css     # the whole visual vibe lives here
+└── init_db.py               # one-time database setup
 ```
 
-## What changed from the terminal version
+<br>
 
-- **Real password security** — the original stored passwords in plain
-  text. This version hashes them with Werkzeug's `generate_password_hash`.
-- **A working leaderboard** — the original had a `leaderboard.html`
-  template but no route ever rendered it. It's now wired up and pulls
-  real scores from a dedicated `attempts` table (so a user's history
-  isn't overwritten every time they play).
-- **Session-based quiz state** — question order is shuffled per round
-  and tracked server-side, so `next`/`prev` can't desync from the
-  actual question index like it could before.
-- **A JSON API** (`/api/questions`, `/api/leaderboard`) — same data, in
-  case you want to build a separate frontend or a mobile app later
-  without touching the quiz logic or database.
+## 𓂃 ࣪˖ ｡ adding your own questions
 
-## Adding more questions
-
-Open `data/questions.py` and append another entry in the same shape:
+Open `data/questions.py` and add another entry in the same shape:
 
 ```python
 {
@@ -63,35 +91,37 @@ Open `data/questions.py` and append another entry in the same shape:
 },
 ```
 
-Delete `database.db` and rerun `python init_db.py` to reseed (existing
-user accounts and leaderboard history live in the same DB, so back it
-up first if you care about them).
+Then delete `database.db` and rerun `python init_db.py` to reseed. *(back up first if you care about existing scores 🩰)*
 
-`QUESTIONS_PER_ROUND` in `config.py` controls how many questions are
-pulled per round — raise it once your question bank is bigger than 6
-and rounds will draw a random subset automatically.
+<br>
 
-## Turning this into "a gaming site" / an app
+## ⋆⁺₊✧ where this could grow
 
-A few natural next steps, roughly in order of effort:
+<div align="center">
 
-1. **More game modes** — timed rounds, difficulty-filtered rounds
-   (the `difficulty` field is already there), daily challenges.
-2. **Deploy it** — Render, Railway, Fly.io, or PythonAnywhere can all
-   run this as-is. Swap SQLite for Postgres if you expect concurrent
-   writers at scale.
-3. **A mobile app** — build a React Native / Flutter client against
-   the existing `/api/questions` and `/api/leaderboard` endpoints, and
-   add a couple more (`/api/login`, `/api/answer`) using token auth
-   instead of cookie sessions.
-4. **Multiplayer** — head-to-head rounds would need WebSockets
-   (Flask-SocketIO is the natural fit here) to sync two players
-   through the same question set in real time.
+| stage | idea |
+|:---:|:---|
+| 🌱 | timed rounds · difficulty-filtered rounds · daily challenges |
+| 🚀 | deploy on Render / Railway / Fly.io, swap SQLite → Postgres |
+| 📱 | a React Native / Flutter app on top of the existing API |
+| 👯 | head-to-head multiplayer via Flask-SocketIO |
 
-## Notes
+</div>
 
-- `SECRET_KEY` defaults to a dev value in `config.py`. Set the
-  `QUIZ_SECRET_KEY` environment variable to something random before
-  deploying anywhere public.
-- The dev server (`python app.py`) is not meant for production traffic
-  — use `gunicorn app:app` (or similar) behind a real deployment.
+<br>
+
+## ˚ · . a small note
+
+Set the `QUIZ_SECRET_KEY` environment variable before deploying anywhere public — the default in `config.py` is a dev-only placeholder. And run it with `gunicorn app:app` (or similar) rather than the dev server once it's out in the world.
+
+<br>
+
+<div align="center">
+
+⋆｡‍𖦹 ‍⋆ 𓆩♡𓆪 ⋆｡‍𖦹 ‍⋆
+
+made with patience, chai, and old stories
+
+<img src="https://img.shields.io/badge/-back%20to%20top-EAD7D1?style=flat-square" href="#" />
+
+</div>
