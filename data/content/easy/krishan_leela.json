@@ -1,360 +1,472 @@
 [
   {
-    "question": "Where was Krishna born?",
+    "question": {
+      "en": "Where was Krishna born?",
+      "hi": "भगवान कृष्ण का जन्म कहाँ हुआ था?"
+    },
     "options": {
-      "a": "Mathura",
-      "b": "Dwarka",
-      "c": "Vrindavan",
-      "d": "Hastinapur"
+      "a": { "en": "Mathura", "hi": "मथुरा" },
+      "b": { "en": "Dwarka", "hi": "द्वारका" },
+      "c": { "en": "Vrindavan", "hi": "वृंदावन" },
+      "d": { "en": "Hastinapur", "hi": "हस्तिनापुर" }
     },
     "correct": "a"
   },
   {
-    "question": "Who were Krishna's foster parents?",
+    "question": {
+      "en": "Who were Krishna's foster parents?",
+      "hi": "भगवान कृष्ण के पालन-पोषण करने वाले माता-पिता कौन थे?"
+    },
     "options": {
-      "a": "Yashoda and Nanda",
-      "b": "Devaki and Vasudeva",
-      "c": "Rohini and Vasudeva",
-      "d": "Radha and Nanda"
+      "a": { "en": "Yashoda and Nanda", "hi": "यशोदा और नंद" },
+      "b": { "en": "Devaki and Vasudeva", "hi": "देवकी और वसुदेव" },
+      "c": { "en": "Rohini and Vasudeva", "hi": "रोहिणी और वसुदेव" },
+      "d": { "en": "Radha and Nanda", "hi": "राधा और नंद" }
     },
     "correct": "a"
   },
   {
-    "question": "Who is Krishna's elder brother?",
+    "question": {
+      "en": "Who is Krishna's elder brother?",
+      "hi": "भगवान कृष्ण के बड़े भाई कौन हैं?"
+    },
     "options": {
-      "a": "Balarama",
-      "b": "Pradyumna",
-      "c": "Samba",
-      "d": "Yuyudhana"
+      "a": { "en": "Balarama", "hi": "बलराम" },
+      "b": { "en": "Pradyumna", "hi": "प्रद्युम्न" },
+      "c": { "en": "Samba", "hi": "साम्ब" },
+      "d": { "en": "Yuyudhana", "hi": "युयुधान" }
     },
     "correct": "a"
   },
   {
-    "question": "Who are Krishna's biological parents?",
+    "question": {
+      "en": "Who are Krishna's biological parents?",
+      "hi": "भगवान कृष्ण के जन्मदाता माता-पिता कौन हैं?"
+    },
     "options": {
-      "a": "Vasudeva and Devaki",
-      "b": "Nanda and Yashoda",
-      "c": "Ugrasena and Padmavati",
-      "d": "Vasudeva and Rohini"
+      "a": { "en": "Vasudeva and Devaki", "hi": "वसुदेव और देवकी" },
+      "b": { "en": "Nanda and Yashoda", "hi": "नंद और यशोदा" },
+      "c": { "en": "Ugrasena and Padmavati", "hi": "उग्रसेन और पद्मावती" },
+      "d": { "en": "Vasudeva and Rohini", "hi": "वसुदेव और रोहिणी" }
     },
     "correct": "a"
   },
   {
-    "question": "Who was Krishna's tyrant maternal uncle in Mathura?",
+    "question": {
+      "en": "Who was Krishna's tyrant maternal uncle in Mathura?",
+      "hi": "मथुरा में कृष्ण के अत्याचारी मामा कौन थे?"
+    },
     "options": {
-      "a": "Kansa",
-      "b": "Jarasandha",
-      "c": "Shishupala",
-      "d": "Kalayavana"
+      "a": { "en": "Kansa", "hi": "कंस" },
+      "b": { "en": "Jarasandha", "hi": "जरासंध" },
+      "c": { "en": "Shishupala", "hi": "शिशुपाल" },
+      "d": { "en": "Kalayavana", "hi": "कालयवन" }
     },
     "correct": "a"
   },
   {
-    "question": "Who was Krishna's close friend from a poor Brahmin family?",
+    "question": {
+      "en": "Who was Krishna's close friend from a poor Brahmin family?",
+      "hi": "गरीब ब्राह्मण परिवार से कृष्ण के घनिष्ठ मित्र कौन थे?"
+    },
     "options": {
-      "a": "Sudama",
-      "b": "Uddhava",
-      "c": "Akrura",
-      "d": "Daruka"
+      "a": { "en": "Sudama", "hi": "सुदामा" },
+      "b": { "en": "Uddhava", "hi": "उद्धव" },
+      "c": { "en": "Akrura", "hi": "अक्रूर" },
+      "d": { "en": "Daruka", "hi": "दारुक" }
     },
     "correct": "a"
   },
   {
-    "question": "What food is Krishna famously fond of stealing as a child?",
+    "question": {
+      "en": "What food is Krishna famously fond of stealing as a child?",
+      "hi": "बाल्यकाल में कृष्ण किस भोजन की चोरी करने के लिए प्रसिद्ध थे?"
+    },
     "options": {
-      "a": "Butter",
-      "b": "Honey",
-      "c": "Sweets",
-      "d": "Milk"
+      "a": { "en": "Butter", "hi": "मक्खन" },
+      "b": { "en": "Honey", "hi": "शहद" },
+      "c": { "en": "Sweets", "hi": "मिठाइयाँ" },
+      "d": { "en": "Milk", "hi": "दूध" }
     },
     "correct": "a"
   },
   {
-    "question": "What musical instrument is Krishna traditionally shown playing?",
+    "question": {
+      "en": "What musical instrument is Krishna traditionally shown playing?",
+      "hi": "भगवान कृष्ण को परंपरागत रूप से कौन-सा वाद्य यंत्र बजाते हुए दिखाया जाता है?"
+    },
     "options": {
-      "a": "Flute",
-      "b": "Veena",
-      "c": "Drum",
-      "d": "Conch"
+      "a": { "en": "Flute", "hi": "बांसुरी" },
+      "b": { "en": "Veena", "hi": "वीणा" },
+      "c": { "en": "Drum", "hi": "ढोल" },
+      "d": { "en": "Conch", "hi": "शंख" }
     },
     "correct": "a"
   },
   {
-    "question": "Who is Krishna's beloved companion associated with divine love in Vrindavan?",
+    "question": {
+      "en": "Who is Krishna's beloved companion associated with divine love in Vrindavan?",
+      "hi": "वृंदावन में दिव्य प्रेम से जुड़ी कृष्ण की प्रिय सखी कौन हैं?"
+    },
     "options": {
-      "a": "Radha",
-      "b": "Rukmini",
-      "c": "Satyabhama",
-      "d": "Jambavati"
+      "a": { "en": "Radha", "hi": "राधा" },
+      "b": { "en": "Rukmini", "hi": "रुक्मिणी" },
+      "c": { "en": "Satyabhama", "hi": "सत्यभामा" },
+      "d": { "en": "Jambavati", "hi": "जाम्बवती" }
     },
     "correct": "a"
   },
   {
-    "question": "Which demoness tried to kill baby Krishna with poisoned breast milk?",
+    "question": {
+      "en": "Which demoness tried to kill baby Krishna with poisoned breast milk?",
+      "hi": "किस राक्षसी ने विष मिले दूध से बालक कृष्ण को मारने का प्रयास किया?"
+    },
     "options": {
-      "a": "Putana",
-      "b": "Trinavarta",
-      "c": "Bakasura",
-      "d": "Aghasura"
+      "a": { "en": "Putana", "hi": "पूतना" },
+      "b": { "en": "Trinavarta", "hi": "त्रिणावर्त" },
+      "c": { "en": "Bakasura", "hi": "बकासुर" },
+      "d": { "en": "Aghasura", "hi": "अघासुर" }
     },
     "correct": "a"
   },
   {
-    "question": "Which serpent did Krishna subdue in the Yamuna river?",
+    "question": {
+      "en": "Which serpent did Krishna subdue in the Yamuna river?",
+      "hi": "यमुना नदी में कृष्ण ने किस नाग को वश में किया था?"
+    },
     "options": {
-      "a": "Kaliya",
-      "b": "Vasuki",
-      "c": "Takshaka",
-      "d": "Shesha"
+      "a": { "en": "Kaliya", "hi": "कालिय" },
+      "b": { "en": "Vasuki", "hi": "वासुकी" },
+      "c": { "en": "Takshaka", "hi": "तक्षक" },
+      "d": { "en": "Shesha", "hi": "शेषनाग" }
     },
     "correct": "a"
   },
   {
-    "question": "Which mountain did Krishna lift to protect villagers?",
+    "question": {
+      "en": "Which mountain did Krishna lift to protect villagers?",
+      "hi": "गाँव वालों की रक्षा के लिए कृष्ण ने कौन-सा पर्वत उठाया था?"
+    },
     "options": {
-      "a": "Govardhan",
-      "b": "Mandara",
-      "c": "Kailash",
-      "d": "Meru"
+      "a": { "en": "Govardhan", "hi": "गोवर्धन" },
+      "b": { "en": "Mandara", "hi": "मंदराचल" },
+      "c": { "en": "Kailash", "hi": "कैलाश" },
+      "d": { "en": "Meru", "hi": "मेरु" }
     },
     "correct": "a"
   },
   {
-    "question": "Which god did Krishna challenge by lifting Govardhan Hill?",
+    "question": {
+      "en": "Which god did Krishna challenge by lifting Govardhan Hill?",
+      "hi": "गोवर्धन पर्वत उठाकर कृष्ण ने किस देवता को चुनौती दी थी?"
+    },
     "options": {
-      "a": "Indra",
-      "b": "Varuna",
-      "c": "Agni",
-      "d": "Vayu"
+      "a": { "en": "Indra", "hi": "इंद्र" },
+      "b": { "en": "Varuna", "hi": "वरुण" },
+      "c": { "en": "Agni", "hi": "अग्नि" },
+      "d": { "en": "Vayu", "hi": "वायु" }
     },
     "correct": "a"
   },
   {
-    "question": "Where did Krishna kill his tyrant uncle Kansa?",
+    "question": {
+      "en": "Where did Krishna kill his tyrant uncle Kansa?",
+      "hi": "कृष्ण ने अपने अत्याचारी मामा कंस का वध कहाँ किया था?"
+    },
     "options": {
-      "a": "Mathura",
-      "b": "Vrindavan",
-      "c": "Dwarka",
-      "d": "Gokul"
+      "a": { "en": "Mathura", "hi": "मथुरा" },
+      "b": { "en": "Vrindavan", "hi": "वृंदावन" },
+      "c": { "en": "Dwarka", "hi": "द्वारका" },
+      "d": { "en": "Gokul", "hi": "गोकुल" }
     },
     "correct": "a"
   },
   {
-    "question": "What is the name of Krishna's conch shell?",
+    "question": {
+      "en": "What is the name of Krishna's conch shell?",
+      "hi": "भगवान कृष्ण के शंख का क्या नाम है?"
+    },
     "options": {
-      "a": "Panchajanya",
-      "b": "Devadatta",
-      "c": "Anantavijaya",
-      "d": "Sughosha"
+      "a": { "en": "Panchajanya", "hi": "पाञ्चजन्य" },
+      "b": { "en": "Devadatta", "hi": "देवदत्त" },
+      "c": { "en": "Anantavijaya", "hi": "अनन्तविजय" },
+      "d": { "en": "Sughosha", "hi": "सुघोष" }
     },
     "correct": "a"
   },
   {
-    "question": "Who lifted Govardhan Hill?",
-    "options": {"a": "Krishna", "b": "Balarama", "c": "Indra", "d": "Shiva"},
-    "correct": "a"
-  },
-[
-  {
-    "question": "In which village was Krishna raised?",
+    "question": {
+      "en": "Who lifted Govardhan Hill?",
+      "hi": "गोवर्धन पर्वत किसने उठाया था?"
+    },
     "options": {
-      "a": "Gokul",
-      "b": "Ayodhya",
-      "c": "Mathura",
-      "d": "Dwarka"
+      "a": { "en": "Krishna", "hi": "कृष्ण" },
+      "b": { "en": "Balarama", "hi": "बलराम" },
+      "c": { "en": "Indra", "hi": "इंद्र" },
+      "d": { "en": "Shiva", "hi": "शिव" }
     },
     "correct": "a"
   },
   {
-    "question": "What is another popular name for Lord Krishna?",
+    "question": {
+      "en": "In which village was Krishna raised?",
+      "hi": "भगवान कृष्ण का पालन-पोषण किस गाँव में हुआ था?"
+    },
     "options": {
-      "a": "Madhava",
-      "b": "Rudra",
-      "c": "Skanda",
-      "d": "Agni"
+      "a": { "en": "Gokul", "hi": "गोकुल" },
+      "b": { "en": "Ayodhya", "hi": "अयोध्या" },
+      "c": { "en": "Mathura", "hi": "मथुरा" },
+      "d": { "en": "Dwarka", "hi": "द्वारका" }
     },
     "correct": "a"
   },
   {
-    "question": "Who carried baby Krishna across the Yamuna River?",
-    "options": {
-      "a": "Nanda",
-      "b": "Vasudeva",
-      "c": "Balarama",
-      "d": "Akrura"
+    "question": {
+      "en": "What is another popular name for Lord Krishna?",
+      "hi": "भगवान कृष्ण का एक अन्य प्रसिद्ध नाम क्या है?"
     },
-    "correct": "b"
-  },
-  {
-    "question": "Which bird is associated with Krishna's crown?",
     "options": {
-      "a": "Peacock",
-      "b": "Parrot",
-      "c": "Swan",
-      "d": "Eagle"
+      "a": { "en": "Madhava", "hi": "माधव" },
+      "b": { "en": "Rudra", "hi": "रुद्र" },
+      "c": { "en": "Skanda", "hi": "स्कन्द" },
+      "d": { "en": "Agni", "hi": "अग्नि" }
     },
     "correct": "a"
   },
-  {
-    "question": "What feather does Krishna wear on his crown?",
-    "options": {
-      "a": "Swan feather",
-      "b": "Peacock feather",
-      "c": "Eagle feather",
-      "d": "Parrot feather"
-    },
-    "correct": "b"
-  },
-  {
-    "question": "Which festival celebrates Krishna's birth?",
-    "options": {
-      "a": "Holi",
-      "b": "Janmashtami",
-      "c": "Diwali",
-      "d": "Navratri"
-    },
-    "correct": "b"
-  },
-  {
-    "question": "What were the cowherd boys who played with Krishna called?",
-    "options": {
-      "a": "Gopas",
-      "b": "Rishis",
-      "c": "Yakshas",
-      "d": "Gandharvas"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "What were the cowherd girls devoted to Krishna called?",
-    "options": {
-      "a": "Apsaras",
-      "b": "Gopis",
-      "c": "Devis",
-      "d": "Naginis"
-    },
-    "correct": "b"
-  },
-  {
-    "question": "Which city did Krishna later establish as his kingdom?",
-    "options": {
-      "a": "Dwarka",
-      "b": "Ayodhya",
-      "c": "Indraprastha",
-      "d": "Kashi"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who was Krishna's principal queen?",
-    "options": {
-      "a": "Radha",
-      "b": "Rukmini",
-      "c": "Draupadi",
-      "d": "Subhadra"
-    },
-    "correct": "b"
-  },
-  {
-    "question": "Who was Krishna's sister?",
-    "options": {
-      "a": "Subhadra",
-      "b": "Draupadi",
-      "c": "Rukmini",
-      "d": "yamuna"
 
-    },
-    "correct": "a"
-  },
+  
   {
-    "question": "Which animal did young Krishna lovingly tend?",
-    "options": {
-      "a": "Horses",
-      "b": "Cows",
-      "c": "Elephants",
-      "d": "Camels"
+    "question": {
+      "en": "Who carried baby Krishna across the Yamuna River?",
+      "hi": "शिशु कृष्ण को यमुना नदी के पार कौन ले गया था?"
     },
-    "correct": "b"
-  },
-  {
-    "question": "Krishna is considered an avatar of which deity?",
     "options": {
-      "a": "Shiva",
-      "b": "Vishnu",
-      "c": "surya",
-      "d": "Indra"
+      "a": { "en": "Nanda", "hi": "नंद" },
+      "b": { "en": "Vasudeva", "hi": "वसुदेव" },
+      "c": { "en": "Balarama", "hi": "बलराम" },
+      "d": { "en": "Akrura", "hi": "अक्रूर" }
     },
     "correct": "b"
   },
   {
-    "question": "What color is Krishna traditionally depicted as?",
+    "question": {
+      "en": "Which bird is associated with Krishna's crown?",
+      "hi": "भगवान कृष्ण के मुकुट से कौन-सा पक्षी जुड़ा हुआ है?"
+    },
     "options": {
-      "a": "Blue",
-      "b": "Golden",
-      "c": "White",
-      "d": "Green"
+      "a": { "en": "Peacock", "hi": "मोर" },
+      "b": { "en": "Parrot", "hi": "तोता" },
+      "c": { "en": "Swan", "hi": "हंस" },
+      "d": { "en": "Eagle", "hi": "गरुड़" }
     },
     "correct": "a"
   },
   {
-    "question": "Who invited Krishna to Mathura on Kansa's behalf?",
-    "options": {
-      "a": "Akrura",
-      "b": "Sudama",
-      "c": "Uddhava",
-      "d": "Daruka"
+    "question": {
+      "en": "What feather does Krishna wear on his crown?",
+      "hi": "भगवान कृष्ण अपने मुकुट में किस पक्षी का पंख धारण करते हैं?"
     },
-    "correct": "a"
-  },
-  {
-    "question": "Which demon attacked Krishna in the form of a whirlwind?",
     "options": {
-      "a": "Trinavarta",
-      "b": "Putana",
-      "c": "Kaliya",
-      "d": "Bakasura"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Which demon came in the form of a crane and was defeated by Krishna?",
-    "options": {
-      "a": "Aghasura",
-      "b": "Bakasura",
-      "c": "Dhenukasura",
-      "d": "Keshi"
+      "a": { "en": "Swan feather", "hi": "हंस का पंख" },
+      "b": { "en": "Peacock feather", "hi": "मोर पंख" },
+      "c": { "en": "Eagle feather", "hi": "गरुड़ का पंख" },
+      "d": { "en": "Parrot feather", "hi": "तोते का पंख" }
     },
     "correct": "b"
   },
   {
-    "question": "Which demon appeared as a horse to attack Krishna?",
-    "options": {
-      "a": "Keshi",
-      "b": "Bakasura",
-      "c": "Trinavarta",
-      "d": "Putana"
+    "question": {
+      "en": "Which festival celebrates Krishna's birth?",
+      "hi": "भगवान कृष्ण के जन्म का उत्सव किस पर्व के रूप में मनाया जाता है?"
     },
-    "correct": "a"
-  },
-  {
-    "question": "Which river is closely associated with Krishna's childhood?",
     "options": {
-      "a": "Ganga",
-      "b": "Yamuna",
-      "c": "Godavari",
-      "d": "Saraswati"
+      "a": { "en": "Holi", "hi": "होली" },
+      "b": { "en": "Janmashtami", "hi": "जन्माष्टमी" },
+      "c": { "en": "Diwali", "hi": "दीपावली" },
+      "d": { "en": "Navratri", "hi": "नवरात्रि" }
     },
     "correct": "b"
   },
   {
-    "question": "Which dance celebrating Krishna's divine love is famous in Vrindavan?",
+    "question": {
+      "en": "What were the cowherd boys who played with Krishna called?",
+      "hi": "कृष्ण के साथ खेलने वाले ग्वालबालों को क्या कहा जाता था?"
+    },
     "options": {
-      "a": "Rasa Lila",
-      "b": "Tandava",
-      "c": "Lasya",
-      "d": "Kathak"
+      "a": { "en": "Gopas", "hi": "गोप" },
+      "b": { "en": "Rishis", "hi": "ऋषि" },
+      "c": { "en": "Yakshas", "hi": "यक्ष" },
+      "d": { "en": "Gandharvas", "hi": "गंधर्व" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "What were the cowherd girls devoted to Krishna called?",
+      "hi": "कृष्ण की भक्त गोप बालिकाओं को क्या कहा जाता था?"
+    },
+    "options": {
+      "a": { "en": "Apsaras", "hi": "अप्सराएँ" },
+      "b": { "en": "Gopis", "hi": "गोपियाँ" },
+      "c": { "en": "Devis", "hi": "देवियाँ" },
+      "d": { "en": "Naginis", "hi": "नागिनियाँ" }
+    },
+    "correct": "b"
+  },
+  {
+    "question": {
+      "en": "Which city did Krishna later establish as his kingdom?",
+      "hi": "भगवान कृष्ण ने बाद में किस नगर को अपनी राजधानी बनाया?"
+    },
+    "options": {
+      "a": { "en": "Dwarka", "hi": "द्वारका" },
+      "b": { "en": "Ayodhya", "hi": "अयोध्या" },
+      "c": { "en": "Indraprastha", "hi": "इन्द्रप्रस्थ" },
+      "d": { "en": "Kashi", "hi": "काशी" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was Krishna's principal queen?",
+      "hi": "भगवान कृष्ण की प्रमुख रानी कौन थीं?"
+    },
+    "options": {
+      "a": { "en": "Radha", "hi": "राधा" },
+      "b": { "en": "Rukmini", "hi": "रुक्मिणी" },
+      "c": { "en": "Draupadi", "hi": "द्रौपदी" },
+      "d": { "en": "Subhadra", "hi": "सुभद्रा" }
+    },
+    "correct": "b"
+  },
+  {
+    "question": {
+      "en": "Who was Krishna's sister?",
+      "hi": "भगवान कृष्ण की बहन कौन थीं?"
+    },
+    "options": {
+      "a": { "en": "Subhadra", "hi": "सुभद्रा" },
+      "b": { "en": "Draupadi", "hi": "द्रौपदी" },
+      "c": { "en": "Rukmini", "hi": "रुक्मिणी" },
+      "d": { "en": "Yamuna", "hi": "यमुना" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which animal did young Krishna lovingly tend?",
+      "hi": "बालक कृष्ण प्रेमपूर्वक किस पशु की देखभाल करते थे?"
+    },
+    "options": {
+      "a": { "en": "Horses", "hi": "घोड़े" },
+      "b": { "en": "Cows", "hi": "गायें" },
+      "c": { "en": "Elephants", "hi": "हाथी" },
+      "d": { "en": "Camels", "hi": "ऊँट" }
+    },
+    "correct": "b"
+  },
+  {
+    "question": {
+      "en": "Krishna is considered an avatar of which deity?",
+      "hi": "भगवान कृष्ण किस देवता के अवतार माने जाते हैं?"
+    },
+    "options": {
+      "a": { "en": "Shiva", "hi": "शिव" },
+      "b": { "en": "Vishnu", "hi": "विष्णु" },
+      "c": { "en": "Surya", "hi": "सूर्य" },
+      "d": { "en": "Indra", "hi": "इंद्र" }
+    },
+    "correct": "b"
+  },
+  {
+    "question": {
+      "en": "What color is Krishna traditionally depicted as?",
+      "hi": "भगवान कृष्ण को परंपरागत रूप से किस रंग का दर्शाया जाता है?"
+    },
+    "options": {
+      "a": { "en": "Blue", "hi": "नीला" },
+      "b": { "en": "Golden", "hi": "स्वर्णिम" },
+      "c": { "en": "White", "hi": "सफेद" },
+      "d": { "en": "Green", "hi": "हरा" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who invited Krishna to Mathura on Kansa's behalf?",
+      "hi": "कंस की ओर से कृष्ण को मथुरा आने का निमंत्रण किसने दिया था?"
+    },
+    "options": {
+      "a": { "en": "Akrura", "hi": "अक्रूर" },
+      "b": { "en": "Sudama", "hi": "सुदामा" },
+      "c": { "en": "Uddhava", "hi": "उद्धव" },
+      "d": { "en": "Daruka", "hi": "दारुक" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which demon attacked Krishna in the form of a whirlwind?",
+      "hi": "कौन-सा राक्षस बवंडर का रूप धारण करके कृष्ण पर आक्रमण करने आया था?"
+    },
+    "options": {
+      "a": { "en": "Trinavarta", "hi": "त्रिणावर्त" },
+      "b": { "en": "Putana", "hi": "पूतना" },
+      "c": { "en": "Kaliya", "hi": "कालिय" },
+      "d": { "en": "Bakasura", "hi": "बकासुर" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which demon came in the form of a crane and was defeated by Krishna?",
+      "hi": "कौन-सा राक्षस बगुले के रूप में आया और कृष्ण द्वारा मारा गया?"
+    },
+    "options": {
+      "a": { "en": "Aghasura", "hi": "अघासुर" },
+      "b": { "en": "Bakasura", "hi": "बकासुर" },
+      "c": { "en": "Dhenukasura", "hi": "धेनुकासुर" },
+      "d": { "en": "Keshi", "hi": "केशी" }
+    },
+    "correct": "b"
+  },
+  {
+    "question": {
+      "en": "Which demon appeared as a horse to attack Krishna?",
+      "hi": "कौन-सा राक्षस घोड़े का रूप धारण करके कृष्ण पर आक्रमण करने आया था?"
+    },
+    "options": {
+      "a": { "en": "Keshi", "hi": "केशी" },
+      "b": { "en": "Bakasura", "hi": "बकासुर" },
+      "c": { "en": "Trinavarta", "hi": "त्रिणावर्त" },
+      "d": { "en": "Putana", "hi": "पूतना" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which river is closely associated with Krishna's childhood?",
+      "hi": "भगवान कृष्ण के बाल्यकाल से कौन-सी नदी विशेष रूप से जुड़ी हुई है?"
+    },
+    "options": {
+      "a": { "en": "Ganga", "hi": "गंगा" },
+      "b": { "en": "Yamuna", "hi": "यमुना" },
+      "c": { "en": "Godavari", "hi": "गोदावरी" },
+      "d": { "en": "Saraswati", "hi": "सरस्वती" }
+    },
+    "correct": "b"
+  },
+  {
+    "question": {
+      "en": "Which dance celebrating Krishna's divine love is famous in Vrindavan?",
+      "hi": "वृंदावन में कृष्ण के दिव्य प्रेम का उत्सव मनाने वाला प्रसिद्ध नृत्य कौन-सा है?"
+    },
+    "options": {
+      "a": { "en": "Rasa Lila", "hi": "रास लीला" },
+      "b": { "en": "Tandava", "hi": "तांडव" },
+      "c": { "en": "Lasya", "hi": "लास्य" },
+      "d": { "en": "Kathak", "hi": "कथक" }
     },
     "correct": "a"
   }
-]
 ]
