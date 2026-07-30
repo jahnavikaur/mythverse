@@ -444,5 +444,257 @@
       "d": { "en": "Soma", "hi": "सोम" }
     },
     "correct": "a"
+  },
+
+
+  {
+    "question": {
+      "en": "Who among the Adityas is regarded as the deity of friendship, harmony, and agreements?",
+      "hi": "आदित्यों में मित्रता, सौहार्द और संधियों के देवता किसे माना जाता है?"
+    },
+    "options": {
+      "a": {
+        "en": "Mitra",
+        "hi": "मित्र"
+      },
+      "b": {
+        "en": "Aryaman",
+        "hi": "अर्यमन"
+      },
+      "c": {
+        "en": "Bhaga",
+        "hi": "भग"
+      },
+      "d": {
+        "en": "Savitr",
+        "hi": "सवितृ"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which Aditya is associated with hospitality, chivalry, and noble conduct?",
+      "hi": "कौन-से आदित्य आतिथ्य, शिष्टाचार और श्रेष्ठ आचरण के देवता माने जाते हैं?"
+    },
+    "options": {
+      "a": {
+        "en": "Aryaman",
+        "hi": "अर्यमन"
+      },
+      "b": {
+        "en": "Bhaga",
+        "hi": "भग"
+      },
+      "c": {
+        "en": "Mitra",
+        "hi": "मित्र"
+      },
+      "d": {
+        "en": "Pushan",
+        "hi": "पूषन"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which Vedic deity is considered the protector of travelers and roads?",
+      "hi": "वैदिक परंपरा में यात्रियों और मार्गों का रक्षक देवता किसे माना जाता है?"
+    },
+    "options": {
+      "a": {
+        "en": "Pushan",
+        "hi": "पूषन"
+      },
+      "b": {
+        "en": "Parjanya",
+        "hi": "पर्जन्य"
+      },
+      "c": {
+        "en": "Mitra",
+        "hi": "मित्र"
+      },
+      "d": {
+        "en": "Dhata",
+        "hi": "धाता"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which deity is praised in the Rigveda as the personification of the sacred Soma drink?",
+      "hi": "ऋग्वेद में पवित्र सोमरस के देवता के रूप में किसकी स्तुति की गई है?"
+    },
+    "options": {
+      "a": {
+        "en": "Soma",
+        "hi": "सोम"
+      },
+      "b": {
+        "en": "Varuna",
+        "hi": "वरुण"
+      },
+      "c": {
+        "en": "Agni",
+        "hi": "अग्नि"
+      },
+      "d": {
+        "en": "Vayu",
+        "hi": "वायु"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which deva is the guardian of the southeast direction among the Ashta Dikpalas?",
+      "hi": "अष्ट दिक्पालों में दक्षिण-पूर्व दिशा के रक्षक देवता कौन हैं?"
+    },
+    "options": {
+      "a": {
+        "en": "Agni",
+        "hi": "अग्नि"
+      },
+      "b": {
+        "en": "Varuna",
+        "hi": "वरुण"
+      },
+      "c": {
+        "en": "Kubera",
+        "hi": "कुबेर"
+      },
+      "d": {
+        "en": "Yama",
+        "hi": "यम"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which deva is the guardian of the northwest direction among the Ashta Dikpalas?",
+      "hi": "अष्ट दिक्पालों में उत्तर-पश्चिम दिशा के रक्षक देवता कौन हैं?"
+    },
+    "options": {
+      "a": {
+        "en": "Vayu",
+        "hi": "वायु"
+      },
+      "b": {
+        "en": "Indra",
+        "hi": "इंद्र"
+      },
+      "c": {
+        "en": "Varuna",
+        "hi": "वरुण"
+      },
+      "d": {
+        "en": "Agni",
+        "hi": "अग्नि"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who is the guardian deity of the northeast direction among the Dikpalas?",
+      "hi": "दिक्पालों में उत्तर-पूर्व दिशा के अधिष्ठाता देवता कौन हैं?"
+    },
+    "options": {
+      "a": {
+        "en": "Ishana",
+        "hi": "ईशान"
+      },
+      "b": {
+        "en": "Kubera",
+        "hi": "कुबेर"
+      },
+      "c": {
+        "en": "Varuna",
+        "hi": "वरुण"
+      },
+      "d": {
+        "en": "Vayu",
+        "hi": "वायु"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "How many Vasus are traditionally mentioned in Hindu scriptures?",
+      "hi": "हिंदू शास्त्रों में परंपरागत रूप से कितने वसुओं का उल्लेख मिलता है?"
+    },
+    "options": {
+      "a": {
+        "en": "Eight",
+        "hi": "आठ"
+      },
+      "b": {
+        "en": "Seven",
+        "hi": "सात"
+      },
+      "c": {
+        "en": "Eleven",
+        "hi": "ग्यारह"
+      },
+      "d": {
+        "en": "Twelve",
+        "hi": "बारह"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which Vasu was born as Bhishma in the Mahabharata due to Sage Vashishtha's curse?",
+      "hi": "ऋषि वशिष्ठ के श्राप के कारण महाभारत में भीष्म के रूप में किस वसु ने जन्म लिया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Dyu",
+        "hi": "द्यु"
+      },
+      "b": {
+        "en": "Dhara",
+        "hi": "धरा"
+      },
+      "c": {
+        "en": "Anila",
+        "hi": "अनिल"
+      },
+      "d": {
+        "en": "Pratyusha",
+        "hi": "प्रत्युष"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "How many Rudras are traditionally mentioned in the Vedas and Puranas?",
+      "hi": "वेदों और पुराणों में परंपरागत रूप से कितने रुद्रों का उल्लेख मिलता है?"
+    },
+    "options": {
+      "a": {
+        "en": "Eleven",
+        "hi": "ग्यारह"
+      },
+      "b": {
+        "en": "Eight",
+        "hi": "आठ"
+      },
+      "c": {
+        "en": "Twelve",
+        "hi": "बारह"
+      },
+      "d": {
+        "en": "Thirty-three",
+        "hi": "तैंतीस"
+      }
+    },
+    "correct": "a"
   }
 ]
