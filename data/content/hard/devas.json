@@ -1,101 +1,251 @@
 [
   {
-    "question": "Which asura did Indra defeat in a famous battle described in the Vedas?",
+    "question": {
+      "en": "Which asura did Indra defeat in a famous battle described in the Vedas?",
+      "hi": "वेदों में वर्णित प्रसिद्ध युद्ध में इंद्र ने किस असुर का वध किया था?"
+    },
     "options": {
-      "a": "Vritra",
-      "b": "Mahishasura",
-      "c": "Bhasmasura",
-      "d": "Hiranyaksha"
+      "a": {
+        "en": "Vritra",
+        "hi": "वृत्र"
+      },
+      "b": {
+        "en": "Mahishasura",
+        "hi": "महिषासुर"
+      },
+      "c": {
+        "en": "Bhasmasura",
+        "hi": "भस्मासुर"
+      },
+      "d": {
+        "en": "Hiranyaksha",
+        "hi": "हिरण्याक्ष"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Whose curse caused Indra's body to be covered in a thousand marks (later eyes)?",
+    "question": {
+      "en": "Whose curse caused Indra's body to be covered in a thousand marks (later eyes)?",
+      "hi": "किस ऋषि के श्राप के कारण इंद्र के शरीर पर हजारों चिह्न (जो बाद में नेत्र बने) प्रकट हुए?"
+    },
     "options": {
-      "a": "Gautama",
-      "b": "Durvasa",
-      "c": "Bhrigu",
-      "d": "Vashishtha"
+      "a": {
+        "en": "Gautama",
+        "hi": "गौतम"
+      },
+      "b": {
+        "en": "Durvasa",
+        "hi": "दुर्वासा"
+      },
+      "c": {
+        "en": "Bhrigu",
+        "hi": "भृगु"
+      },
+      "d": {
+        "en": "Vashishtha",
+        "hi": "वशिष्ठ"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Chandra (the moon god) had an affair with the wife of which of his gurus?",
+    "question": {
+      "en": "Chandra (the moon god) had an affair with the wife of which of his gurus?",
+      "hi": "चंद्रदेव का अपने किस गुरु की पत्नी के साथ संबंध हुआ था?"
+    },
     "options": {
-      "a": "Brihaspati",
-      "b": "Vashishtha",
-      "c": "Shukra",
-      "d": "Vishwamitra"
+      "a": {
+        "en": "Brihaspati",
+        "hi": "बृहस्पति"
+      },
+      "b": {
+        "en": "Vashishtha",
+        "hi": "वशिष्ठ"
+      },
+      "c": {
+        "en": "Shukra",
+        "hi": "शुक्राचार्य"
+      },
+      "d": {
+        "en": "Vishwamitra",
+        "hi": "विश्वामित्र"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "What is the name of Brihaspati's wife, abducted by Chandra?",
+    "question": {
+      "en": "What is the name of Brihaspati's wife, abducted by Chandra?",
+      "hi": "बृहस्पति की उस पत्नी का क्या नाम था जिसे चंद्र ने अपने साथ ले लिया था?"
+    },
     "options": {
-      "a": "Tara",
-      "b": "Rohini",
-      "c": "Anasuya",
-      "d": "Arundhati"
+      "a": {
+        "en": "Tara",
+        "hi": "तारा"
+      },
+      "b": {
+        "en": "Rohini",
+        "hi": "रोहिणी"
+      },
+      "c": {
+        "en": "Anasuya",
+        "hi": "अनसूया"
+      },
+      "d": {
+        "en": "Arundhati",
+        "hi": "अरुंधती"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Which planet-god was born from the union of Chandra and Tara?",
+    "question": {
+      "en": "Which planet-god was born from the union of Chandra and Tara?",
+      "hi": "चंद्र और तारा के संयोग से किस ग्रह देवता का जन्म हुआ?"
+    },
     "options": {
-      "a": "Budha (Mercury)",
-      "b": "Shani (Saturn)",
-      "c": "Mangal (Mars)",
-      "d": "Rahu"
+      "a": {
+        "en": "Budha (Mercury)",
+        "hi": "बुध"
+      },
+      "b": {
+        "en": "Shani (Saturn)",
+        "hi": "शनि"
+      },
+      "c": {
+        "en": "Mangal (Mars)",
+        "hi": "मंगल"
+      },
+      "d": {
+        "en": "Rahu",
+        "hi": "राहु"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "The divine physicians of the gods are known by what name?",
+    "question": {
+      "en": "The divine physicians of the gods are known by what name?",
+      "hi": "देवताओं के दिव्य वैद्य किस नाम से प्रसिद्ध हैं?"
+    },
     "options": {
-      "a": "Ashwini Kumaras",
-      "b": "Maruts",
-      "c": "Vasus",
-      "d": "Rudras"
+      "a": {
+        "en": "Ashwini Kumaras",
+        "hi": "अश्विनी कुमार"
+      },
+      "b": {
+        "en": "Maruts",
+        "hi": "मरुत"
+      },
+      "c": {
+        "en": "Vasus",
+        "hi": "वसु"
+      },
+      "d": {
+        "en": "Rudras",
+        "hi": "रुद्र"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Rahu and Ketu originated from which figure who was beheaded during the churning of the ocean?",
+    "question": {
+      "en": "Rahu and Ketu originated from which figure who was beheaded during the churning of the ocean?",
+      "hi": "समुद्र मंथन के दौरान जिसका सिर काटा गया, उसी से राहु और केतु की उत्पत्ति हुई। वह कौन था?"
+    },
     "options": {
-      "a": "Svarbhanu",
-      "b": "Vritra",
-      "c": "Bali",
-      "d": "Tarakasura"
+      "a": {
+        "en": "Svarbhanu",
+        "hi": "स्वर्भानु"
+      },
+      "b": {
+        "en": "Vritra",
+        "hi": "वृत्र"
+      },
+      "c": {
+        "en": "Bali",
+        "hi": "बलि"
+      },
+      "d": {
+        "en": "Tarakasura",
+        "hi": "तारकासुर"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Shani (Saturn) is the son of Surya and which of his wives?",
+    "question": {
+      "en": "Shani (Saturn) is the son of Surya and which of his wives?",
+      "hi": "शनि देव, सूर्य की किस पत्नी के पुत्र हैं?"
+    },
     "options": {
-      "a": "Chhaya",
-      "b": "Sanjna",
-      "c": "Usha",
-      "d": "Aruna"
+      "a": {
+        "en": "Chhaya",
+        "hi": "छाया"
+      },
+      "b": {
+        "en": "Sanjna",
+        "hi": "संज्ञा"
+      },
+      "c": {
+        "en": "Usha",
+        "hi": "उषा"
+      },
+      "d": {
+        "en": "Aruna",
+        "hi": "अरुणा"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "What is the name of Yama's mount (vahana)?",
+    "question": {
+      "en": "What is the name of Yama's mount (vahana)?",
+      "hi": "यमराज के वाहन का नाम क्या है?"
+    },
     "options": {
-      "a": "Buffalo (Mahisha)",
-      "b": "Elephant",
-      "c": "Bull",
-      "d": "Vulture"
+      "a": {
+        "en": "Buffalo (Mahisha)",
+        "hi": "भैंसा (महिष)"
+      },
+      "b": {
+        "en": "Elephant",
+        "hi": "हाथी"
+      },
+      "c": {
+        "en": "Bull",
+        "hi": "बैल"
+      },
+      "d": {
+        "en": "Vulture",
+        "hi": "गिद्ध"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who is the celestial record-keeper of good and bad deeds in Yama's court?",
+    "question": {
+      "en": "Who is the celestial record-keeper of good and bad deeds in Yama's court?",
+      "hi": "यमराज के दरबार में अच्छे और बुरे कर्मों का लेखा-जोखा रखने वाले देवता कौन हैं?"
+    },
     "options": {
-      "a": "Chitragupta",
-      "b": "Narada",
-      "c": "Vishwakarma",
-      "d": "Brihaspati"
+      "a": {
+        "en": "Chitragupta",
+        "hi": "चित्रगुप्त"
+      },
+      "b": {
+        "en": "Narada",
+        "hi": "नारद"
+      },
+      "c": {
+        "en": "Vishwakarma",
+        "hi": "विश्वकर्मा"
+      },
+      "d": {
+        "en": "Brihaspati",
+        "hi": "बृहस्पति"
+      }
     },
     "correct": "a"
   }
