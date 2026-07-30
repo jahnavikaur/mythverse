@@ -248,5 +248,201 @@
       }
     },
     "correct": "a"
+  },
+
+  {
+    "question": {
+      "en": "Who restored Indra's throne after he lost it to King Bali?",
+      "hi": "जब राजा बलि ने इंद्र का स्वर्ग छीन लिया, तब इंद्र को पुनः सिंहासन किसने दिलाया?"
+    },
+    "options": {
+      "a": { "en": "Vamana", "hi": "वामन" },
+      "b": { "en": "Narasimha", "hi": "नरसिंह" },
+      "c": { "en": "Parashurama", "hi": "परशुराम" },
+      "d": { "en": "Hayagriva", "hi": "हयग्रीव" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which sage accepted Dadhichi's bones to forge Indra's Vajra?",
+      "hi": "इंद्र के वज्र के निर्माण हेतु दधीचि की अस्थियाँ किस देव शिल्पी को दी गईं?"
+    },
+    "options": {
+      "a": { "en": "Vishwakarma", "hi": "विश्वकर्मा" },
+      "b": { "en": "Tvashtr", "hi": "त्वष्टा" },
+      "c": { "en": "Maya", "hi": "मय" },
+      "d": { "en": "Brihaspati", "hi": "बृहस्पति" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who created the demon Vritra through a sacrificial ritual?",
+      "hi": "वृत्रासुर की उत्पत्ति यज्ञ के माध्यम से किसने की थी?"
+    },
+    "options": {
+      "a": { "en": "Tvashtr", "hi": "त्वष्टा" },
+      "b": { "en": "Shukracharya", "hi": "शुक्राचार्य" },
+      "c": { "en": "Bhrigu", "hi": "भृगु" },
+      "d": { "en": "Kashyapa", "hi": "कश्यप" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was the father of the Ashwini Kumaras?",
+      "hi": "अश्विनी कुमारों के पिता कौन थे?"
+    },
+    "options": {
+      "a": { "en": "Surya", "hi": "सूर्य" },
+      "b": { "en": "Indra", "hi": "इंद्र" },
+      "c": { "en": "Varuna", "hi": "वरुण" },
+      "d": { "en": "Agni", "hi": "अग्नि" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which wife of Surya assumed the form of a mare, leading to the birth of the Ashwini Kumaras?",
+      "hi": "सूर्य की किस पत्नी ने घोड़ी का रूप धारण किया, जिससे अश्विनी कुमारों का जन्म हुआ?"
+    },
+    "options": {
+      "a": { "en": "Sanjna", "hi": "संज्ञा" },
+      "b": { "en": "Chhaya", "hi": "छाया" },
+      "c": { "en": "Usha", "hi": "उषा" },
+      "d": { "en": "Prabha", "hi": "प्रभा" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was appointed as the king of heaven when Indra hid after slaying Vritra?",
+      "hi": "वृत्रासुर वध के बाद जब इंद्र छिप गए, तब स्वर्ग का राजा किसे बनाया गया?"
+    },
+    "options": {
+      "a": { "en": "Nahusha", "hi": "नहुष" },
+      "b": { "en": "Pururavas", "hi": "पुरुरवा" },
+      "c": { "en": "Mandhata", "hi": "मांधाता" },
+      "d": { "en": "Harishchandra", "hi": "हरिश्चंद्र" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which sage cursed Nahusha to become a serpent after he insulted the sages?",
+      "hi": "ऋषियों का अपमान करने पर नहुष को सर्प बनने का श्राप किस ऋषि ने दिया?"
+    },
+    "options": {
+      "a": { "en": "Agastya", "hi": "अगस्त्य" },
+      "b": { "en": "Vashishtha", "hi": "वशिष्ठ" },
+      "c": { "en": "Atri", "hi": "अत्रि" },
+      "d": { "en": "Gautama", "hi": "गौतम" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who is the mother of Yama and Yami?",
+      "hi": "यम और यमी की माता कौन हैं?"
+    },
+    "options": {
+      "a": { "en": "Sanjna", "hi": "संज्ञा" },
+      "b": { "en": "Chhaya", "hi": "छाया" },
+      "c": { "en": "Aditi", "hi": "अदिति" },
+      "d": { "en": "Diti", "hi": "दिति" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "How many Adityas are traditionally mentioned in the Puranas?",
+      "hi": "पुराणों में परंपरागत रूप से कितने आदित्यों का उल्लेख मिलता है?"
+    },
+    "options": {
+      "a": { "en": "12", "hi": "12" },
+      "b": { "en": "8", "hi": "8" },
+      "c": { "en": "11", "hi": "11" },
+      "d": { "en": "33", "hi": "33" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who is regarded as the youngest among the twelve Adityas?",
+      "hi": "बारह आदित्यों में सबसे कनिष्ठ किसे माना जाता है?"
+    },
+    "options": {
+      "a": { "en": "Vamana", "hi": "वामन" },
+      "b": { "en": "Mitra", "hi": "मित्र" },
+      "c": { "en": "Aryaman", "hi": "अर्यमन" },
+      "d": { "en": "Bhaga", "hi": "भग" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which deva lost one of his testicles and later received those of a ram?",
+      "hi": "किस देवता ने अपने अंडकोष खो दिए और बाद में मेढ़े के अंडकोष प्राप्त किए?"
+    },
+    "options": {
+      "a": { "en": "Indra", "hi": "इंद्र" },
+      "b": { "en": "Agni", "hi": "अग्नि" },
+      "c": { "en": "Vayu", "hi": "वायु" },
+      "d": { "en": "Kubera", "hi": "कुबेर" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which deva serves as the guardian of the western direction (Paschima Dik)?",
+      "hi": "पश्चिम दिशा के दिक्पाल कौन हैं?"
+    },
+    "options": {
+      "a": { "en": "Varuna", "hi": "वरुण" },
+      "b": { "en": "Kubera", "hi": "कुबेर" },
+      "c": { "en": "Yama", "hi": "यम" },
+      "d": { "en": "Indra", "hi": "इंद्र" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who is the guardian deity of the north direction?",
+      "hi": "उत्तर दिशा के दिक्पाल कौन हैं?"
+    },
+    "options": {
+      "a": { "en": "Kubera", "hi": "कुबेर" },
+      "b": { "en": "Indra", "hi": "इंद्र" },
+      "c": { "en": "Varuna", "hi": "वरुण" },
+      "d": { "en": "Agni", "hi": "अग्नि" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "According to the Rigveda, who is the twin sister of Yama?",
+      "hi": "ऋग्वेद के अनुसार यम की जुड़वां बहन कौन हैं?"
+    },
+    "options": {
+      "a": { "en": "Yami", "hi": "यमी" },
+      "b": { "en": "Yamuna", "hi": "यमुना" },
+      "c": { "en": "Ganga", "hi": "गंगा" },
+      "d": { "en": "Saraswati", "hi": "सरस्वती" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which deva is invoked first in most Vedic yajnas as the carrier of offerings?",
+      "hi": "अधिकांश वैदिक यज्ञों में आहुति पहुँचाने वाले देवता के रूप में सबसे पहले किसका आह्वान किया जाता है?"
+    },
+    "options": {
+      "a": { "en": "Agni", "hi": "अग्नि" },
+      "b": { "en": "Indra", "hi": "इंद्र" },
+      "c": { "en": "Varuna", "hi": "वरुण" },
+      "d": { "en": "Soma", "hi": "सोम" }
+    },
+    "correct": "a"
   }
 ]
