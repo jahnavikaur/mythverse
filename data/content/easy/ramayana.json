@@ -233,182 +233,226 @@
     },
     "correct": "a"
   },
-  
+  {
+    "question": {
+      "en": "Which queen asked for Rama's exile?",
+      "hi": "भगवान राम के वनवास की मांग किस रानी ने की थी?"
+    },
+    "options": {
+      "a": { "en": "Kaikeyi", "hi": "कैकेयी" },
+      "b": { "en": "Kaushalya", "hi": "कौशल्या" },
+      "c": { "en": "Sumitra", "hi": "सुमित्रा" },
+      "d": { "en": "Mandodari", "hi": "मंदोदरी" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was Bharata's mother?",
+      "hi": "भरत की माता कौन थीं?"
+    },
+    "options": {
+      "a": { "en": "Kaikeyi", "hi": "कैकेयी" },
+      "b": { "en": "Kaushalya", "hi": "कौशल्या" },
+      "c": { "en": "Sumitra", "hi": "सुमित्रा" },
+      "d": { "en": "Sita", "hi": "सीता" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was Lakshmana's mother?",
+      "hi": "लक्ष्मण की माता कौन थीं?"
+    },
+    "options": {
+      "a": { "en": "Kaushalya", "hi": "कौशल्या" },
+      "b": { "en": "Kaikeyi", "hi": "कैकेयी" },
+      "c": { "en": "Sumitra", "hi": "सुमित्रा" },
+      "d": { "en": "Sita", "hi": "सीता" }
+    },
+    "correct": "c"
+  },
+  {
+    "question": {
+      "en": "Who ruled Ayodhya while Rama was in exile?",
+      "hi": "भगवान राम के वनवास के दौरान अयोध्या का शासन किसने संभाला?"
+    },
+    "options": {
+      "a": { "en": "Bharata", "hi": "भरत" },
+      "b": { "en": "Lakshmana", "hi": "लक्ष्मण" },
+      "c": { "en": "Shatrughna", "hi": "शत्रुघ्न" },
+      "d": { "en": "Dasharatha", "hi": "दशरथ" }
+    },
+    "correct": "a"
+  },
   {
     "question": {
       "en": "What did Bharata place on the throne to represent Rama?",
-      "hi": "भरत ने राम का प्रतिनिधित्व करने के लिए सिंहासन पर क्या रखा?"
+      "hi": "भरत ने भगवान राम के प्रतीक के रूप में सिंहासन पर क्या रखा?"
     },
     "options": {
-      "a": {
-        "en": "Rama's sandals",
-        "hi": "राम की खड़ाऊँ"
-      },
-      "b": {
-        "en": "Rama's bow",
-        "hi": "राम का धनुष"
-      },
-      "c": {
-        "en": "Rama's crown",
-        "hi": "राम का मुकुट"
-      },
-      "d": {
-        "en": "Rama's ring",
-        "hi": "राम की अंगूठी"
-      }
+      "a": { "en": "Rama's sandals", "hi": "राम की पादुकाएँ" },
+      "b": { "en": "Rama's bow", "hi": "राम का धनुष" },
+      "c": { "en": "Rama's crown", "hi": "राम का मुकुट" },
+      "d": { "en": "Rama's ring", "hi": "राम की अंगूठी" }
     },
     "correct": "a"
   },
   {
     "question": {
       "en": "Who kidnapped Sita?",
-      "hi": "सीता का अपहरण किसने किया?"
+      "hi": "माता सीता का हरण किसने किया?"
     },
     "options": {
-      "a": {
-        "en": "Ravana",
-        "hi": "रावण"
-      },
-      "b": {
-        "en": "Kumbhakarna",
-        "hi": "कुंभकर्ण"
-      },
-      "c": {
-        "en": "Maricha",
-        "hi": "मारीच"
-      },
-      "d": {
-        "en": "Indrajit",
-        "hi": "इंद्रजीत"
-      }
+      "a": { "en": "Ravana", "hi": "रावण" },
+      "b": { "en": "Kumbhakarna", "hi": "कुंभकर्ण" },
+      "c": { "en": "Maricha", "hi": "मारीच" },
+      "d": { "en": "Indrajit", "hi": "इन्द्रजीत" }
     },
     "correct": "a"
   },
   {
     "question": {
       "en": "Which bird tried to stop Ravana from abducting Sita?",
-      "hi": "किस पक्षी ने रावण को सीता का अपहरण करने से रोकने का प्रयास किया?"
+      "hi": "रावण को सीता हरण से रोकने का प्रयास किस पक्षी ने किया?"
     },
     "options": {
-      "a": {
-        "en": "Jatayu",
-        "hi": "जटायु"
-      },
-      "b": {
-        "en": "Garuda",
-        "hi": "गरुड़"
-      },
-      "c": {
-        "en": "Sampati",
-        "hi": "संपाती"
-      },
-      "d": {
-        "en": "Hamsa",
-        "hi": "हंस"
-      }
+      "a": { "en": "Jatayu", "hi": "जटायु" },
+      "b": { "en": "Garuda", "hi": "गरुड़" },
+      "c": { "en": "Sampati", "hi": "सम्पाती" },
+      "d": { "en": "Hamsa", "hi": "हंस" }
     },
     "correct": "a"
   },
   {
     "question": {
       "en": "Who crossed the ocean to search for Sita?",
-      "hi": "सीता की खोज के लिए समुद्र पार कौन गया?"
+      "hi": "माता सीता की खोज में समुद्र किसने पार किया?"
     },
     "options": {
-      "a": {
-        "en": "Hanuman",
-        "hi": "हनुमान"
-      },
-      "b": {
-        "en": "Sugriva",
-        "hi": "सुग्रीव"
-      },
-      "c": {
-        "en": "Angada",
-        "hi": "अंगद"
-      },
-      "d": {
-        "en": "Jambavan",
-        "hi": "जाम्बवन"
-      }
+      "a": { "en": "Hanuman", "hi": "हनुमान" },
+      "b": { "en": "Sugriva", "hi": "सुग्रीव" },
+      "c": { "en": "Angada", "hi": "अंगद" },
+      "d": { "en": "Jambavan", "hi": "जाम्बवान" }
     },
     "correct": "a"
   },
   {
     "question": {
       "en": "What did Hanuman give Sita as proof that he came from Rama?",
-      "hi": "हनुमान ने सीता को राम का संदेशवाहक होने के प्रमाण के रूप में क्या दिया?"
+      "hi": "हनुमान जी ने माता सीता को भगवान राम की ओर से पहचान के रूप में क्या दिया?"
     },
     "options": {
-      "a": {
-        "en": "Rama's ring",
-        "hi": "राम की अंगूठी"
-      },
-      "b": {
-        "en": "A bow",
-        "hi": "धनुष"
-      },
-      "c": {
-        "en": "A crown",
-        "hi": "मुकुट"
-      },
-      "d": {
-        "en": "A necklace",
-        "hi": "हार"
-      }
+      "a": { "en": "Rama's ring", "hi": "राम की अंगूठी" },
+      "b": { "en": "A bow", "hi": "धनुष" },
+      "c": { "en": "A crown", "hi": "मुकुट" },
+      "d": { "en": "A necklace", "hi": "हार" }
     },
     "correct": "a"
   },
   {
     "question": {
       "en": "Who built the bridge to Lanka?",
-      "hi": "लंका तक पुल किसने बनाया?"
+      "hi": "लंका तक सेतु का निर्माण किसने किया?"
     },
     "options": {
-      "a": {
-        "en": "The Vanara army",
-        "hi": "वानर सेना"
-      },
-      "b": {
-        "en": "The Devas",
-        "hi": "देवता"
-      },
-      "c": {
-        "en": "The Pandavas",
-        "hi": "पांडव"
-      },
-      "d": {
-        "en": "The Nagas",
-        "hi": "नाग"
-      }
+      "a": { "en": "The Vanara army", "hi": "वानर सेना" },
+      "b": { "en": "The Devas", "hi": "देवताओं ने" },
+      "c": { "en": "The Pandavas", "hi": "पांडवों ने" },
+      "d": { "en": "The Nagas", "hi": "नागों ने" }
     },
     "correct": "a"
   },
   {
     "question": {
       "en": "What was the bridge to Lanka popularly called?",
-      "hi": "लंका तक बने पुल को लोकप्रिय रूप से क्या कहा जाता था?"
+      "hi": "लंका तक बने सेतु को लोकप्रिय रूप से क्या कहा जाता है?"
     },
     "options": {
-      "a": {
-        "en": "Rama Setu",
-        "hi": "राम सेतु"
-      },
-      "b": {
-        "en": "Indra Setu",
-        "hi": "इंद्र सेतु"
-      },
-      "c": {
-        "en": "Surya Setu",
-        "hi": "सूर्य सेतु"
-      },
-      "d": {
-        "en": "Shiva Setu",
-        "hi": "शिव सेतु"
-      }
+      "a": { "en": "Rama Setu", "hi": "राम सेतु" },
+      "b": { "en": "Indra Setu", "hi": "इन्द्र सेतु" },
+      "c": { "en": "Surya Setu", "hi": "सूर्य सेतु" },
+      "d": { "en": "Shiva Setu", "hi": "शिव सेतु" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was the son of Vali?",
+      "hi": "वालि के पुत्र कौन थे?"
+    },
+    "options": {
+      "a": { "en": "Angada", "hi": "अंगद" },
+      "b": { "en": "Sugriva", "hi": "सुग्रीव" },
+      "c": { "en": "Hanuman", "hi": "हनुमान" },
+      "d": { "en": "Nala", "hi": "नल" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who killed Vali?",
+      "hi": "वालि का वध किसने किया?"
+    },
+    "options": {
+      "a": { "en": "Rama", "hi": "राम" },
+      "b": { "en": "Lakshmana", "hi": "लक्ष्मण" },
+      "c": { "en": "Hanuman", "hi": "हनुमान" },
+      "d": { "en": "Sugriva", "hi": "सुग्रीव" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which festival celebrates Rama's return to Ayodhya?",
+      "hi": "भगवान राम के अयोध्या लौटने की खुशी में कौन-सा त्योहार मनाया जाता है?"
+    },
+    "options": {
+      "a": { "en": "Diwali", "hi": "दीपावली" },
+      "b": { "en": "Holi", "hi": "होली" },
+      "c": { "en": "Dussehra", "hi": "दशहरा" },
+      "d": { "en": "Janmashtami", "hi": "जन्माष्टमी" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was Ravana's giant brother?",
+      "hi": "रावण का विशालकाय भाई कौन था?"
+    },
+    "options": {
+      "a": { "en": "Kumbhakarna", "hi": "कुंभकर्ण" },
+      "b": { "en": "Vibhishana", "hi": "विभीषण" },
+      "c": { "en": "Indrajit", "hi": "इन्द्रजीत" },
+      "d": { "en": "Akampana", "hi": "अकम्पन" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was Ravana's son who fought Rama's army?",
+      "hi": "रावण का कौन-सा पुत्र भगवान राम की सेना से लड़ा?"
+    },
+    "options": {
+      "a": { "en": "Indrajit", "hi": "इन्द्रजीत" },
+      "b": { "en": "Vibhishana", "hi": "विभीषण" },
+      "c": { "en": "Kumbhakarna", "hi": "कुंभकर्ण" },
+      "d": { "en": "Akshayakumara", "hi": "अक्षयकुमार" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who became the king of Lanka after Ravana's defeat?",
+      "hi": "रावण की पराजय के बाद लंका का राजा कौन बना?"
+    },
+    "options": {
+      "a": { "en": "Vibhishana", "hi": "विभीषण" },
+      "b": { "en": "Lakshmana", "hi": "लक्ष्मण" },
+      "c": { "en": "Hanuman", "hi": "हनुमान" },
+      "d": { "en": "Sugriva", "hi": "सुग्रीव" }
     },
     "correct": "a"
   }
-]
 
-  
+]
