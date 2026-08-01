@@ -1,101 +1,251 @@
 [
   {
-    "question": "Who shot the arrow that ultimately killed Krishna?",
+    "question": {
+      "en": "Who shot the arrow that ultimately killed Krishna?",
+      "hi": "भगवान कृष्ण को अंततः किसने बाण मारकर मृत्यु का कारण बनाया?"
+    },
     "options": {
-      "a": "A hunter named Jara",
-      "b": "Ashwatthama",
-      "c": "Duryodhana",
-      "d": "Jarasandha"
+      "a": {
+        "en": "A hunter named Jara",
+        "hi": "जरा नामक शिकारी"
+      },
+      "b": {
+        "en": "Ashwatthama",
+        "hi": "अश्वत्थामा"
+      },
+      "c": {
+        "en": "Duryodhana",
+        "hi": "दुर्योधन"
+      },
+      "d": {
+        "en": "Jarasandha",
+        "hi": "जरासंध"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Where on his body was Krishna fatally struck?",
+    "question": {
+      "en": "Where on his body was Krishna fatally struck?",
+      "hi": "भगवान कृष्ण के शरीर के किस भाग पर घातक बाण लगा था?"
+    },
     "options": {
-      "a": "His foot",
-      "b": "His chest",
-      "c": "His head",
-      "d": "His hand"
+      "a": {
+        "en": "His foot",
+        "hi": "उनके पैर (पाँव) में"
+      },
+      "b": {
+        "en": "His chest",
+        "hi": "उनकी छाती में"
+      },
+      "c": {
+        "en": "His head",
+        "hi": "उनके सिर में"
+      },
+      "d": {
+        "en": "His hand",
+        "hi": "उनके हाथ में"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "At which location did Krishna leave his mortal body?",
+    "question": {
+      "en": "At which location did Krishna leave his mortal body?",
+      "hi": "भगवान कृष्ण ने किस स्थान पर अपना देह त्याग किया?"
+    },
     "options": {
-      "a": "Prabhasa",
-      "b": "Kurukshetra",
-      "c": "Mathura",
-      "d": "Vrindavan"
+      "a": {
+        "en": "Prabhasa",
+        "hi": "प्रभास"
+      },
+      "b": {
+        "en": "Kurukshetra",
+        "hi": "कुरुक्षेत्र"
+      },
+      "c": {
+        "en": "Mathura",
+        "hi": "मथुरा"
+      },
+      "d": {
+        "en": "Vrindavan",
+        "hi": "वृंदावन"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Krishna is traditionally regarded as which numbered avatar of Vishnu?",
+    "question": {
+      "en": "Krishna is traditionally regarded as which numbered avatar of Vishnu?",
+      "hi": "भगवान कृष्ण को परंपरागत रूप से भगवान विष्णु का कौन-सा अवतार माना जाता है?"
+    },
     "options": {
-      "a": "Eighth",
-      "b": "Tenth",
-      "c": "Seventh",
-      "d": "Ninth"
+      "a": {
+        "en": "Eighth",
+        "hi": "आठवाँ"
+      },
+      "b": {
+        "en": "Tenth",
+        "hi": "दसवाँ"
+      },
+      "c": {
+        "en": "Seventh",
+        "hi": "सातवाँ"
+      },
+      "d": {
+        "en": "Ninth",
+        "hi": "नौवाँ"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "What ultimately caused the self-destruction of Krishna's Yadava clan?",
+    "question": {
+      "en": "What ultimately caused the self-destruction of Krishna's Yadava clan?",
+      "hi": "भगवान कृष्ण के यादव वंश के विनाश का मुख्य कारण क्या था?"
+    },
     "options": {
-      "a": "A mutual civil war fueled by a curse and drinking",
-      "b": "A war with the Kauravas",
-      "c": "An invasion by Jarasandha",
-      "d": "A famine"
+      "a": {
+        "en": "A mutual civil war fueled by a curse and drinking",
+        "hi": "श्राप और मद्यपान के कारण हुआ आपसी गृहयुद्ध"
+      },
+      "b": {
+        "en": "A war with the Kauravas",
+        "hi": "कौरवों के साथ युद्ध"
+      },
+      "c": {
+        "en": "An invasion by Jarasandha",
+        "hi": "जरासंध का आक्रमण"
+      },
+      "d": {
+        "en": "A famine",
+        "hi": "अकाल"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "The Yadava clan's destructive weapons grew from powder made from what object, born of a prophecy?",
+    "question": {
+      "en": "The Yadava clan's destructive weapons grew from powder made from what object, born of a prophecy?",
+      "hi": "भविष्यवाणी से उत्पन्न किस वस्तु के चूर्ण से यादवों के विनाशकारी हथियार बने थे?"
+    },
     "options": {
-      "a": "An iron pestle/mace",
-      "b": "A cursed sword",
-      "c": "A poisoned arrow",
-      "d": "A stone idol"
+      "a": {
+        "en": "An iron pestle/mace",
+        "hi": "लोहे का मूसल"
+      },
+      "b": {
+        "en": "A cursed sword",
+        "hi": "श्रापित तलवार"
+      },
+      "c": {
+        "en": "A poisoned arrow",
+        "hi": "विषैला बाण"
+      },
+      "d": {
+        "en": "A stone idol",
+        "hi": "पत्थर की मूर्ति"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "What title, meaning 'charioteer of Arjuna,' is Krishna known by?",
+    "question": {
+      "en": "What title, meaning 'charioteer of Arjuna,' is Krishna known by?",
+      "hi": "अर्जुन के सारथी के अर्थ वाले किस नाम से भगवान कृष्ण प्रसिद्ध हैं?"
+    },
     "options": {
-      "a": "Parthasarathi",
-      "b": "Govinda",
-      "c": "Madhava",
-      "d": "Keshava"
+      "a": {
+        "en": "Parthasarathi",
+        "hi": "पार्थसारथि"
+      },
+      "b": {
+        "en": "Govinda",
+        "hi": "गोविंद"
+      },
+      "c": {
+        "en": "Madhava",
+        "hi": "माधव"
+      },
+      "d": {
+        "en": "Keshava",
+        "hi": "केशव"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "What was Krishna's foster father Nanda's occupation?",
+    "question": {
+      "en": "What was Krishna's foster father Nanda's occupation?",
+      "hi": "भगवान कृष्ण के पालक पिता नंद बाबा का व्यवसाय क्या था?"
+    },
     "options": {
-      "a": "Chief of a cowherd community",
-      "b": "A king",
-      "c": "A priest",
-      "d": "A warrior"
+      "a": {
+        "en": "Chief of a cowherd community",
+        "hi": "ग्वाल समुदाय के मुखिया"
+      },
+      "b": {
+        "en": "A king",
+        "hi": "राजा"
+      },
+      "c": {
+        "en": "A priest",
+        "hi": "पुरोहित"
+      },
+      "d": {
+        "en": "A warrior",
+        "hi": "योद्धा"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "In most classical texts, what is Radha's relationship status with Krishna?",
+    "question": {
+      "en": "In most classical texts, what is Radha's relationship status with Krishna?",
+      "hi": "अधिकांश पारंपरिक ग्रंथों के अनुसार राधा का भगवान कृष्ण से क्या संबंध माना जाता है?"
+    },
     "options": {
-      "a": "His beloved consort, not formally his wife",
-      "b": "His first wife",
-      "c": "His sister",
-      "d": "His guru"
+      "a": {
+        "en": "His beloved consort, not formally his wife",
+        "hi": "उनकी परम प्रिय संगिनी, किंतु औपचारिक पत्नी नहीं"
+      },
+      "b": {
+        "en": "His first wife",
+        "hi": "उनकी पहली पत्नी"
+      },
+      "c": {
+        "en": "His sister",
+        "hi": "उनकी बहन"
+      },
+      "d": {
+        "en": "His guru",
+        "hi": "उनकी गुरु"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who imprisoned Krishna's mother Devaki before his birth?",
+    "question": {
+      "en": "Who imprisoned Krishna's mother Devaki before his birth?",
+      "hi": "भगवान कृष्ण के जन्म से पहले उनकी माता देवकी को किसने कारागार में बंद किया था?"
+    },
     "options": {
-      "a": "Kansa, her own nephew",
-      "b": "Jarasandha",
-      "c": "Shishupala",
-      "d": "Kalayavana"
+      "a": {
+        "en": "Kansa, her own brother",
+        "hi": "कंस, उनका अपना भाई"
+      },
+      "b": {
+        "en": "Jarasandha",
+        "hi": "जरासंध"
+      },
+      "c": {
+        "en": "Shishupala",
+        "hi": "शिशुपाल"
+      },
+      "d": {
+        "en": "Kalayavana",
+        "hi": "कालयवन"
+      }
     },
     "correct": "a"
   }
