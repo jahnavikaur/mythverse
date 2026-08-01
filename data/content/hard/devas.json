@@ -696,5 +696,202 @@
       }
     },
     "correct": "a"
+  },
+
+
+  {
+    "question": {
+      "en": "Who is regarded as the father of the Maruts in most Puranic traditions?",
+      "hi": "अधिकांश पुराणों के अनुसार मरुतों के पिता किसे माना जाता है?"
+    },
+    "options": {
+      "a": { "en": "Rudra", "hi": "रुद्र" },
+      "b": { "en": "Indra", "hi": "इंद्र" },
+      "c": { "en": "Agni", "hi": "अग्नि" },
+      "d": { "en": "Varuna", "hi": "वरुण" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which Vedic deity is primarily associated with divine inspiration before sunrise?",
+      "hi": "सूर्योदय से पूर्व दिव्य प्रेरणा के देवता किसे माना जाता है?"
+    },
+    "options": {
+      "a": { "en": "Savitr", "hi": "सवितृ" },
+      "b": { "en": "Mitra", "hi": "मित्र" },
+      "c": { "en": "Bhaga", "hi": "भग" },
+      "d": { "en": "Pushan", "hi": "पूषन" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "The famous Gayatri Mantra is dedicated to which Vedic deity?",
+      "hi": "प्रसिद्ध गायत्री मंत्र किस वैदिक देवता को समर्पित है?"
+    },
+    "options": {
+      "a": { "en": "Savitr", "hi": "सवितृ" },
+      "b": { "en": "Surya", "hi": "सूर्य" },
+      "c": { "en": "Agni", "hi": "अग्नि" },
+      "d": { "en": "Mitra", "hi": "मित्र" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which Aditya is regarded as the distributor of fortune and prosperity?",
+      "hi": "सौभाग्य और समृद्धि के वितरक आदित्य कौन हैं?"
+    },
+    "options": {
+      "a": { "en": "Bhaga", "hi": "भग" },
+      "b": { "en": "Dhata", "hi": "धाता" },
+      "c": { "en": "Amsa", "hi": "अंश" },
+      "d": { "en": "Aryaman", "hi": "अर्यमन" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which Aditya is regarded as the sustainer and establisher of the universe?",
+      "hi": "सृष्टि के धारक और स्थापित करने वाले आदित्य कौन हैं?"
+    },
+    "options": {
+      "a": { "en": "Dhata", "hi": "धाता" },
+      "b": { "en": "Bhaga", "hi": "भग" },
+      "c": { "en": "Mitra", "hi": "मित्र" },
+      "d": { "en": "Pushan", "hi": "पूषन" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which Aditya represents the divine share or portion allotted to beings?",
+      "hi": "प्राणियों को प्राप्त होने वाले दिव्य भाग का प्रतिनिधित्व करने वाले आदित्य कौन हैं?"
+    },
+    "options": {
+      "a": { "en": "Amsa", "hi": "अंश" },
+      "b": { "en": "Bhaga", "hi": "भग" },
+      "c": { "en": "Savitr", "hi": "सवितृ" },
+      "d": { "en": "Mitra", "hi": "मित्र" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which Vedic deity is invoked as the god of rain clouds and thunder?",
+      "hi": "वर्षा के बादलों और गर्जना के देवता किसे माना जाता है?"
+    },
+    "options": {
+      "a": { "en": "Parjanya", "hi": "पर्जन्य" },
+      "b": { "en": "Indra", "hi": "इंद्र" },
+      "c": { "en": "Varuna", "hi": "वरुण" },
+      "d": { "en": "Vayu", "hi": "वायु" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who is regarded as the divine artisan responsible for fashioning many celestial weapons?",
+      "hi": "अनेक दिव्य अस्त्रों के निर्माण के लिए प्रसिद्ध देव शिल्पी कौन हैं?"
+    },
+    "options": {
+      "a": { "en": "Tvashtr", "hi": "त्वष्टा" },
+      "b": { "en": "Vishwakarma", "hi": "विश्वकर्मा" },
+      "c": { "en": "Brihaspati", "hi": "बृहस्पति" },
+      "d": { "en": "Agni", "hi": "अग्नि" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which group of deities collectively represents the universal gods in the Vedas?",
+      "hi": "वेदों में समस्त देवताओं के सामूहिक रूप को किस नाम से जाना जाता है?"
+    },
+    "options": {
+      "a": { "en": "Vishvedevas", "hi": "विश्वेदेव" },
+      "b": { "en": "Maruts", "hi": "मरुत" },
+      "c": { "en": "Vasus", "hi": "वसु" },
+      "d": { "en": "Rudras", "hi": "रुद्र" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which class of deities is frequently mentioned along with the Vishvedevas in Vedic literature?",
+      "hi": "वैदिक साहित्य में विश्वेदेवों के साथ अक्सर किस देवगण का उल्लेख मिलता है?"
+    },
+    "options": {
+      "a": { "en": "Sadhyas", "hi": "साध्य" },
+      "b": { "en": "Yakshas", "hi": "यक्ष" },
+      "c": { "en": "Gandharvas", "hi": "गंधर्व" },
+      "d": { "en": "Kinnaras", "hi": "किन्नर" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which deity is described in the Rigveda as 'Jatavedas'?",
+      "hi": "ऋग्वेद में 'जातवेदस' किस देवता का विशेषण है?"
+    },
+    "options": {
+      "a": { "en": "Agni", "hi": "अग्नि" },
+      "b": { "en": "Indra", "hi": "इंद्र" },
+      "c": { "en": "Soma", "hi": "सोम" },
+      "d": { "en": "Varuna", "hi": "वरुण" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which Vedic deity is invoked as the witness of truth and moral order alongside Varuna?",
+      "hi": "वरुण के साथ सत्य और ऋत के साक्षी देवता किसे माना जाता है?"
+    },
+    "options": {
+      "a": { "en": "Mitra", "hi": "मित्र" },
+      "b": { "en": "Savitr", "hi": "सवितृ" },
+      "c": { "en": "Bhaga", "hi": "भग" },
+      "d": { "en": "Pushan", "hi": "पूषन" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which deity presides over the sacrificial drink in Vedic rituals?",
+      "hi": "वैदिक यज्ञों में सोमपान के अधिष्ठाता देवता कौन हैं?"
+    },
+    "options": {
+      "a": { "en": "Soma", "hi": "सोम" },
+      "b": { "en": "Agni", "hi": "अग्नि" },
+      "c": { "en": "Indra", "hi": "इंद्र" },
+      "d": { "en": "Varuna", "hi": "वरुण" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who among the Devas is especially praised as the protector of cattle in the Rigveda?",
+      "hi": "ऋग्वेद में गौओं के रक्षक देवता के रूप में किसकी विशेष स्तुति की गई है?"
+    },
+    "options": {
+      "a": { "en": "Pushan", "hi": "पूषन" },
+      "b": { "en": "Mitra", "hi": "मित्र" },
+      "c": { "en": "Bhaga", "hi": "भग" },
+      "d": { "en": "Savitr", "hi": "सवितृ" }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which deity is regarded as the lord of sacred vows and cosmic waters in the Vedas?",
+      "hi": "वेदों में पवित्र व्रतों और ब्रह्मांडीय जल के स्वामी किसे माना जाता है?"
+    },
+    "options": {
+      "a": { "en": "Varuna", "hi": "वरुण" },
+      "b": { "en": "Indra", "hi": "इंद्र" },
+      "c": { "en": "Agni", "hi": "अग्नि" },
+      "d": { "en": "Vayu", "hi": "वायु" }
+    },
+    "correct": "a"
   }
 ]
