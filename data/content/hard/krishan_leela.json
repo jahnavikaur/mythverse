@@ -499,6 +499,258 @@
       }
     },
     "correct": "a"
+  },
+  
+  {
+    "question": {
+      "en": "Which sage's curse caused the twin Arjuna trees to stand in Vraja until Krishna liberated Nalakuvara and Manigriva?",
+      "hi": "किस ऋषि के श्राप के कारण यमल-अर्जुन वृक्षों के रूप में नलकूवर और मणिग्रीव को तब तक रहना पड़ा, जब तक कृष्ण ने उन्हें मुक्त नहीं किया?"
+    },
+    "options": {
+      "a": {
+        "en": "Narada",
+        "hi": "नारद"
+      },
+      "b": {
+        "en": "Durvasa",
+        "hi": "दुर्वासा"
+      },
+      "c": {
+        "en": "Angiras",
+        "hi": "अंगिरा"
+      },
+      "d": {
+        "en": "Vashishtha",
+        "hi": "वशिष्ठ"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "What was the name of the celestial cowherd's cart that Krishna overturned as an infant during the Shakatasura episode?",
+      "hi": "शकटासुर की घटना में बाल कृष्ण ने जिस गाड़ी को पलट दिया था, उसका क्या नाम था?"
+    },
+    "options": {
+      "a": {
+        "en": "Shakata",
+        "hi": "शकट"
+      },
+      "b": {
+        "en": "Nandavahana",
+        "hi": "नंदवाहन"
+      },
+      "c": {
+        "en": "Vrajaratha",
+        "hi": "व्रजरथ"
+      },
+      "d": {
+        "en": "Goparatha",
+        "hi": "गोप रथ"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which demon disguised himself as a whirlwind and carried the infant Krishna high into the sky?",
+      "hi": "किस राक्षस ने बवंडर का रूप धारण करके बाल कृष्ण को आकाश में बहुत ऊँचाई तक उठा लिया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Trinavarta",
+        "hi": "तृणावर्त"
+      },
+      "b": {
+        "en": "Vatsasura",
+        "hi": "वत्सासुर"
+      },
+      "c": {
+        "en": "Aghasura",
+        "hi": "अघासुर"
+      },
+      "d": {
+        "en": "Pralambasura",
+        "hi": "प्रलम्बासुर"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was the fruit seller whom Krishna approached as a child, giving her a handful of grains?",
+      "hi": "वह फल बेचने वाली कौन थी जिसके पास बाल कृष्ण मुट्ठी भर अनाज लेकर फल लेने पहुँचे थे?"
+    },
+    "options": {
+      "a": {
+        "en": "A fruit-selling woman whose name is not given in the Bhagavata Purana",
+        "hi": "एक फल बेचने वाली स्त्री, जिसका नाम भागवत पुराण में नहीं दिया गया है"
+      },
+      "b": {
+        "en": "Kubja",
+        "hi": "कुब्जा"
+      },
+      "c": {
+        "en": "Pootana",
+        "hi": "पूतना"
+      },
+      "d": {
+        "en": "Yashoda",
+        "hi": "यशोदा"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which demon was hiding among the cowherd boys during their forest games and was ultimately killed by Balarama?",
+      "hi": "वन में ग्वालबालों के खेल के दौरान किस राक्षस ने ग्वालबाल का रूप धारण किया था और अंततः बलराम ने उसका वध किया?"
+    },
+    "options": {
+      "a": {
+        "en": "Pralambasura",
+        "hi": "प्रलम्बासुर"
+      },
+      "b": {
+        "en": "Vyomasura",
+        "hi": "व्योमासुर"
+      },
+      "c": {
+        "en": "Vatsasura",
+        "hi": "वत्सासुर"
+      },
+      "d": {
+        "en": "Dhenukasura",
+        "hi": "धेनुकासुर"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which sacred lake did Krishna enter while subduing the serpent Kaliya?",
+      "hi": "कालिय नाग को वश में करते समय कृष्ण ने किस पवित्र सरोवर में प्रवेश किया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Kaliya Lake in the Yamuna",
+        "hi": "यमुना में स्थित कालिय का सरोवर"
+      },
+      "b": {
+        "en": "Manasarovar",
+        "hi": "मानसरोवर"
+      },
+      "c": {
+        "en": "Pushkara Lake",
+        "hi": "पुष्कर सरोवर"
+      },
+      "d": {
+        "en": "Bindu Sarovara",
+        "hi": "बिंदु सरोवर"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which forest was traditionally associated with the killing of Dhenukasura by Balarama?",
+      "hi": "बलराम द्वारा धेनुकासुर के वध से कौन-सा वन विशेष रूप से जुड़ा हुआ है?"
+    },
+    "options": {
+      "a": {
+        "en": "Talavana",
+        "hi": "तालवन"
+      },
+      "b": {
+        "en": "Madhuvana",
+        "hi": "मधुवन"
+      },
+      "c": {
+        "en": "Kamyavana",
+        "hi": "काम्यवन"
+      },
+      "d": {
+        "en": "Bhandiravana",
+        "hi": "भांडीरवन"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which demon attacked Krishna's cowherd companions by taking the form of a gigantic crane?",
+      "hi": "किस राक्षस ने विशाल बगुले का रूप धारण करके कृष्ण और उनके ग्वालबाल साथियों पर आक्रमण किया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Bakasura",
+        "hi": "बकासुर"
+      },
+      "b": {
+        "en": "Aghasura",
+        "hi": "अघासुर"
+      },
+      "c": {
+        "en": "Vatsasura",
+        "hi": "वत्सासुर"
+      },
+      "d": {
+        "en": "Arishtasura",
+        "hi": "अरिष्टासुर"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "During the Brahma-vimohana episode, what did Brahma secretly take away from Krishna's companions?",
+      "hi": "ब्रह्मा-विमोहन लीला में ब्रह्मा ने गुप्त रूप से कृष्ण के किन साथियों को अपने प्रभाव से दूर कर दिया था?"
+    },
+    "options": {
+      "a": {
+        "en": "The cowherd boys and calves",
+        "hi": "ग्वालबाल और बछड़े"
+      },
+      "b": {
+        "en": "The Gopis and cows",
+        "hi": "गोपियाँ और गायें"
+      },
+      "c": {
+        "en": "Balarama and the Gopas",
+        "hi": "बलराम और गोप"
+      },
+      "d": {
+        "en": "Nanda and the elders",
+        "hi": "नंद और वृद्ध गोप"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which form did Krishna assume when Brahma returned after testing him and found that Krishna had manifested as every missing cowherd boy and calf?",
+      "hi": "ब्रह्मा के परीक्षण के बाद लौटने पर कृष्ण ने किस रूप में स्वयं को प्रकट किया था, जब प्रत्येक लापता ग्वालबाल और बछड़े के रूप में वे स्वयं दिखाई दिए?"
+    },
+    "options": {
+      "a": {
+        "en": "Identical forms of every cowherd boy and calf",
+        "hi": "प्रत्येक ग्वालबाल और बछड़े के समान रूप"
+      },
+      "b": {
+        "en": "Only the four-armed Vishnu form",
+        "hi": "केवल चतुर्भुज विष्णु रूप"
+      },
+      "c": {
+        "en": "Only the cosmic form",
+        "hi": "केवल विराट रूप"
+      },
+      "d": {
+        "en": "Only the form of Balarama",
+        "hi": "केवल बलराम का रूप"
+      }
+    },
+    "correct": "a"
   }
+
 
 ] 
