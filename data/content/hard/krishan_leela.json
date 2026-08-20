@@ -248,5 +248,257 @@
       }
     },
     "correct": "a"
+  },
+  
+  {
+    "question": {
+      "en": "Which demon did Krishna defeat by entering its enormous mouth, according to the Bhagavata Purana?",
+      "hi": "भागवत पुराण के अनुसार कृष्ण ने किस राक्षस के विशाल मुँह में प्रवेश करके उसका वध किया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Aghasura",
+        "hi": "अघासुर"
+      },
+      "b": {
+        "en": "Bakasura",
+        "hi": "बकासुर"
+      },
+      "c": {
+        "en": "Pralambasura",
+        "hi": "प्रलम्बासुर"
+      },
+      "d": {
+        "en": "Dhenukasura",
+        "hi": "धेनुकासुर"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which demon assumed the form of a calf to attack Krishna's companions?",
+      "hi": "कृष्ण के साथियों पर आक्रमण करने के लिए किस राक्षस ने बछड़े का रूप धारण किया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Vatsasura",
+        "hi": "वत्सासुर"
+      },
+      "b": {
+        "en": "Keshi",
+        "hi": "केशी"
+      },
+      "c": {
+        "en": "Arishtasura",
+        "hi": "अरिष्टासुर"
+      },
+      "d": {
+        "en": "Vyomasura",
+        "hi": "व्योमासुर"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which demon disguised himself as a cowherd boy and abducted Krishna's friends?",
+      "hi": "किस राक्षस ने ग्वालबाल का रूप धारण करके कृष्ण के मित्रों का अपहरण किया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Vyomasura",
+        "hi": "व्योमासुर"
+      },
+      "b": {
+        "en": "Pralambasura",
+        "hi": "प्रलम्बासुर"
+      },
+      "c": {
+        "en": "Aghasura",
+        "hi": "अघासुर"
+      },
+      "d": {
+        "en": "Vatsasura",
+        "hi": "वत्सासुर"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "What was the name of the serpent whose poisonous waters Krishna purified by dancing upon its hoods?",
+      "hi": "उस सर्प का नाम क्या था जिसके विषैले जल को कृष्ण ने उसके फनों पर नृत्य करके शुद्ध किया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Kaliya",
+        "hi": "कालिय"
+      },
+      "b": {
+        "en": "Takshaka",
+        "hi": "तक्षक"
+      },
+      "c": {
+        "en": "Vasuki",
+        "hi": "वासुकी"
+      },
+      "d": {
+        "en": "Shesha",
+        "hi": "शेष"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which mountain did Krishna lift to protect the residents of Vraja from Indra's storm?",
+      "hi": "इंद्र की वर्षा और तूफान से व्रजवासियों की रक्षा करने के लिए कृष्ण ने कौन-सा पर्वत उठाया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Govardhana",
+        "hi": "गोवर्धन"
+      },
+      "b": {
+        "en": "Govardhanachala",
+        "hi": "गोवर्धनाचल"
+      },
+      "c": {
+        "en": "Mandara",
+        "hi": "मंदर"
+      },
+      "d": {
+        "en": "Meru",
+        "hi": "मेरु"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which celestial being did Krishna release from the curse of becoming a tree by uprooting the twin Arjuna trees?",
+      "hi": "यमल-अर्जुन वृक्षों को उखाड़कर कृष्ण ने किन दिव्य प्राणियों को श्राप से मुक्त किया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Nalakuvara and Manigriva",
+        "hi": "नलकूवर और मणिग्रीव"
+      },
+      "b": {
+        "en": "Nanda and Sunanda",
+        "hi": "नंद और सुनंद"
+      },
+      "c": {
+        "en": "Jaya and Vijaya",
+        "hi": "जय और विजय"
+      },
+      "d": {
+        "en": "Madhu and Kaitabha",
+        "hi": "मधु और कैटभ"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which demon took the form of a gigantic horse and was killed by Krishna?",
+      "hi": "किस राक्षस ने विशाल घोड़े का रूप धारण किया था और कृष्ण ने उसका वध किया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Keshi",
+        "hi": "केशी"
+      },
+      "b": {
+        "en": "Arishtasura",
+        "hi": "अरिष्टासुर"
+      },
+      "c": {
+        "en": "Dhenukasura",
+        "hi": "धेनुकासुर"
+      },
+      "d": {
+        "en": "Bakasura",
+        "hi": "बकासुर"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which demon appeared in the form of a gigantic bull before Krishna?",
+      "hi": "कृष्ण के सामने किस राक्षस ने विशाल बैल का रूप धारण किया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Arishtasura",
+        "hi": "अरिष्टासुर"
+      },
+      "b": {
+        "en": "Keshi",
+        "hi": "केशी"
+      },
+      "c": {
+        "en": "Dhenukasura",
+        "hi": "धेनुकासुर"
+      },
+      "d": {
+        "en": "Vatsasura",
+        "hi": "वत्सासुर"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which Gandharva was freed from the curse of becoming a serpent after Krishna pulled down the tree in which he was trapped?",
+      "hi": "किस गंधर्व को कृष्ण ने उस वृक्ष को गिराकर सर्प योनि के श्राप से मुक्त किया था जिसमें वह फँसा हुआ था?"
+    },
+    "options": {
+      "a": {
+        "en": "Sudarsana",
+        "hi": "सुदर्शन"
+      },
+      "b": {
+        "en": "Tumburu",
+        "hi": "तुम्बुरु"
+      },
+      "c": {
+        "en": "Chitraratha",
+        "hi": "चित्ररथ"
+      },
+      "d": {
+        "en": "Vishvavasu",
+        "hi": "विश्वावसु"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which celestial elephant did Krishna encounter while entering Kamsa's wrestling arena?",
+      "hi": "कंस के मल्लयुद्ध के अखाड़े में प्रवेश करते समय कृष्ण का सामना किस राजसी हाथी से हुआ था?"
+    },
+    "options": {
+      "a": {
+        "en": "Kuvalayapida",
+        "hi": "कुवलयापीड"
+      },
+      "b": {
+        "en": "Airavata",
+        "hi": "ऐरावत"
+      },
+      "c": {
+        "en": "Supratika",
+        "hi": "सुप्रतीक"
+      },
+      "d": {
+        "en": "Pushpavanta",
+        "hi": "पुष्पवंत"
+      }
+    },
+    "correct": "a"
   }
+
 ] 
