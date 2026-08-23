@@ -516,12 +516,12 @@
         "hi": "दुर्वासा"
       },
       "c": {
-        "en": "Angiras",
-        "hi": "अंगिरा"
+         "en": "Vashishtha",
+        "hi": "वशिष्ठ"
       },
       "d": {
-        "en": "Vashishtha",
-        "hi": "वशिष्ठ"
+       "en": "Angiras",
+        "hi": "अंगिरा"
       }
     },
     "correct": "a"
