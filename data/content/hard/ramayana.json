@@ -1,101 +1,131 @@
 [
   {
-    "question": "Ravana obtained his boons and powers primarily from which god?",
+    "question": {
+      "en": "Ravana obtained his boons and powers primarily from which god?",
+      "hi": "रावण ने मुख्य रूप से किस देवता से वरदान और शक्तियाँ प्राप्त की थीं?"
+    },
     "options": {
-      "a": "Brahma",
-      "b": "Vishnu",
-      "c": "Indra",
-      "d": "Surya"
+      "a": { "en": "Brahma", "hi": "ब्रह्मा" },
+      "b": { "en": "Vishnu", "hi": "विष्णु" },
+      "c": { "en": "Indra", "hi": "इन्द्र" },
+      "d": { "en": "Surya", "hi": "सूर्य" }
     },
     "correct": "a"
   },
   {
-    "question": "What is the name of Ravana's flying chariot, taken from Kubera?",
+    "question": {
+      "en": "What is the name of Ravana's flying chariot, taken from Kubera?",
+      "hi": "कुबेर से प्राप्त रावण के उड़ने वाले रथ का नाम क्या था?"
+    },
     "options": {
-      "a": "Pushpaka Vimana",
-      "b": "Garuda Ratha",
-      "c": "Indra Vimana",
-      "d": "Agni Ratha"
+      "a": { "en": "Pushpaka Vimana", "hi": "पुष्पक विमान" },
+      "b": { "en": "Garuda Ratha", "hi": "गरुड़ रथ" },
+      "c": { "en": "Indra Vimana", "hi": "इन्द्र विमान" },
+      "d": { "en": "Agni Ratha", "hi": "अग्नि रथ" }
     },
     "correct": "a"
   },
   {
-    "question": "Who is Ravana's wife?",
+    "question": {
+      "en": "Who is Ravana's wife?",
+      "hi": "रावण की पत्नी कौन थीं?"
+    },
     "options": {
-      "a": "Mandodari",
-      "b": "Surpanakha",
-      "c": "Tataka",
-      "d": "Trijata"
+      "a": { "en": "Mandodari", "hi": "मंदोदरी" },
+      "b": { "en": "Surpanakha", "hi": "शूर्पणखा" },
+      "c": { "en": "Tataka", "hi": "ताड़का" },
+      "d": { "en": "Trijata", "hi": "त्रिजटा" }
     },
     "correct": "a"
   },
   {
-    "question": "Which of Ravana's sons was killed by Hanuman in Lanka?",
+    "question": {
+      "en": "Which of Ravana's sons was killed by Hanuman in Lanka?",
+      "hi": "लंका में रावण के किस पुत्र का वध हनुमान जी ने किया था?"
+    },
     "options": {
-      "a": "Akshaya Kumara",
-      "b": "Indrajit",
-      "c": "Atikaya",
-      "d": "Prahasta"
+      "a": { "en": "Akshaya Kumara", "hi": "अक्षय कुमार" },
+      "b": { "en": "Indrajit", "hi": "इन्द्रजीत" },
+      "c": { "en": "Atikaya", "hi": "अतिकाय" },
+      "d": { "en": "Prahasta", "hi": "प्रहस्त" }
     },
     "correct": "a"
   },
   {
-    "question": "In whose ashram were Sita's sons Luv and Kush born and raised?",
+    "question": {
+      "en": "In whose ashram were Sita's sons Luv and Kush born and raised?",
+      "hi": "सीता के पुत्र लव और कुश का जन्म और पालन-पोषण किसके आश्रम में हुआ था?"
+    },
     "options": {
-      "a": "Valmiki's",
-      "b": "Vashishtha's",
-      "c": "Vishwamitra's",
-      "d": "Agastya's"
+      "a": { "en": "Valmiki's", "hi": "वाल्मीकि के" },
+      "b": { "en": "Vashishtha's", "hi": "वशिष्ठ के" },
+      "c": { "en": "Vishwamitra's", "hi": "विश्वामित्र के" },
+      "d": { "en": "Agastya's", "hi": "अगस्त्य के" }
     },
     "correct": "a"
   },
   {
-    "question": "How did Sita's story conclude according to the Ramayana?",
+    "question": {
+      "en": "How did Sita's story conclude according to the Ramayana?",
+      "hi": "रामायण के अनुसार सीता की कथा का अंत कैसे हुआ?"
+    },
     "options": {
-      "a": "She was taken back into the earth",
-      "b": "She ascended to heaven with Rama",
-      "c": "She returned to her father's kingdom",
-      "d": "She became a hermit"
+      "a": { "en": "She was taken back into the earth", "hi": "वह धरती में समा गईं" },
+      "b": { "en": "She ascended to heaven with Rama", "hi": "वह राम के साथ स्वर्ग चली गईं" },
+      "c": { "en": "She returned to her father's kingdom", "hi": "वह अपने पिता के राज्य में लौट गईं" },
+      "d": { "en": "She became a hermit", "hi": "वह एक तपस्विनी बन गईं" }
     },
     "correct": "a"
   },
   {
-    "question": "Which demoness's mutilation by Lakshmana set off the chain of events leading to Sita's abduction?",
+    "question": {
+      "en": "Which demoness's mutilation by Lakshmana set off the chain of events leading to Sita's abduction?",
+      "hi": "लक्ष्मण द्वारा किस राक्षसी का अपमान और अंग-भंग उन घटनाओं का कारण बना जिनसे सीता हरण हुआ?"
+    },
     "options": {
-      "a": "Surpanakha",
-      "b": "Tataka",
-      "c": "Trijata",
-      "d": "Ayomukhi"
+      "a": { "en": "Surpanakha", "hi": "शूर्पणखा" },
+      "b": { "en": "Tataka", "hi": "ताड़का" },
+      "c": { "en": "Trijata", "hi": "त्रिजटा" },
+      "d": { "en": "Ayomukhi", "hi": "अयोमुखी" }
     },
     "correct": "a"
   },
   {
-    "question": "What was the cause of King Dasharatha's death?",
+    "question": {
+      "en": "What was the cause of King Dasharatha's death?",
+      "hi": "राजा दशरथ की मृत्यु का कारण क्या था?"
+    },
     "options": {
-      "a": "Grief over separation from Rama, tied to a curse",
-      "b": "Battle wounds",
-      "c": "Poisoning",
-      "d": "Old age alone"
+      "a": { "en": "Grief over separation from Rama, tied to a curse", "hi": "राम से वियोग का दुःख, जो एक श्राप से जुड़ा था" },
+      "b": { "en": "Battle wounds", "hi": "युद्ध में लगी चोटें" },
+      "c": { "en": "Poisoning", "hi": "विष दिए जाने से" },
+      "d": { "en": "Old age alone", "hi": "केवल वृद्धावस्था" }
     },
     "correct": "a"
   },
   {
-    "question": "Whose accidental killing by Dasharatha led to the curse that caused his death?",
+    "question": {
+      "en": "Whose accidental killing by Dasharatha led to the curse that caused his death?",
+      "hi": "दशरथ द्वारा अनजाने में किसकी हत्या के कारण उन्हें वह श्राप मिला जिसके कारण उनकी मृत्यु हुई?"
+    },
     "options": {
-      "a": "Shravan Kumar",
-      "b": "Sage Gautama",
-      "c": "Sage Durvasa",
-      "d": "Sage Agastya"
+      "a": { "en": "Shravan Kumar", "hi": "श्रवण कुमार" },
+      "b": { "en": "Sage Gautama", "hi": "ऋषि गौतम" },
+      "c": { "en": "Sage Durvasa", "hi": "ऋषि दुर्वासा" },
+      "d": { "en": "Sage Agastya", "hi": "ऋषि अगस्त्य" }
     },
     "correct": "a"
   },
   {
-    "question": "Which sage gave Rama the divine bow and arrows used to kill Ravana?",
+    "question": {
+      "en": "Which sage gave Rama the divine bow and arrows used to kill Ravana?",
+      "hi": "रावण का वध करने के लिए राम को दिव्य धनुष और बाण किस ऋषि ने दिए थे?"
+    },
     "options": {
-      "a": "Agastya",
-      "b": "Vishwamitra",
-      "c": "Vashishtha",
-      "d": "Narada"
+      "a": { "en": "Agastya", "hi": "अगस्त्य" },
+      "b": { "en": "Vishwamitra", "hi": "विश्वामित्र" },
+      "c": { "en": "Vashishtha", "hi": "वशिष्ठ" },
+      "d": { "en": "Narada", "hi": "नारद" }
     },
     "correct": "a"
   }
