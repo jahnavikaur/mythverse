@@ -1,101 +1,251 @@
 [
   {
-    "question": "Who killed Karna in the war?",
+    "question": {
+      "en": "Who killed Karna in the war?",
+      "hi": "युद्ध में कर्ण का वध किसने किया था?"
+    },
     "options": {
-      "a": "Arjuna",
-      "b": "Bhima",
-      "c": "Yudhishthira",
-      "d": "Nakula"
+      "a": {
+        "en": "Arjuna",
+        "hi": "अर्जुन"
+      },
+      "b": {
+        "en": "Bhima",
+        "hi": "भीम"
+      },
+      "c": {
+        "en": "Yudhishthira",
+        "hi": "युधिष्ठिर"
+      },
+      "d": {
+        "en": "Nakula",
+        "hi": "नकुल"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "What immobilized Karna's chariot during his fatal battle?",
+    "question": {
+      "en": "What immobilized Karna's chariot during his fatal battle?",
+      "hi": "कर्ण के अंतिम युद्ध के दौरान उसके रथ को किस कारण से रोका गया था?"
+    },
     "options": {
-      "a": "Its wheel got stuck in the ground",
-      "b": "It was struck by lightning",
-      "c": "The horses fled",
-      "d": "It caught fire"
+      "a": {
+        "en": "Its wheel got stuck in the ground",
+        "hi": "उसका पहिया धरती में फँस गया था"
+      },
+      "b": {
+        "en": "It was struck by lightning",
+        "hi": "उस पर बिजली गिर गई थी"
+      },
+      "c": {
+        "en": "The horses fled",
+        "hi": "घोड़े भाग गए थे"
+      },
+      "d": {
+        "en": "It caught fire",
+        "hi": "उसमें आग लग गई थी"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who was responsible for the death of Jayadratha, avenging Abhimanyu?",
+    "question": {
+      "en": "Who was responsible for the death of Jayadratha, avenging Abhimanyu?",
+      "hi": "अभिमन्यु की मृत्यु का बदला लेते हुए जयद्रथ का वध किसने किया था?"
+    },
     "options": {
-      "a": "Arjuna",
-      "b": "Bhima",
-      "c": "Yudhishthira",
-      "d": "Krishna"
+      "a": {
+        "en": "Arjuna",
+        "hi": "अर्जुन"
+      },
+      "b": {
+        "en": "Bhima",
+        "hi": "भीम"
+      },
+      "c": {
+        "en": "Yudhishthira",
+        "hi": "युधिष्ठिर"
+      },
+      "d": {
+        "en": "Krishna",
+        "hi": "कृष्ण"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Bhishma chose to die only at an auspicious time due to a boon granting him control over what?",
+    "question": {
+      "en": "Bhishma chose to die only at an auspicious time due to a boon granting him control over what?",
+      "hi": "भीष्म ने एक शुभ समय पर ही मृत्यु को चुना क्योंकि उन्हें किस चीज़ पर नियंत्रण का वरदान प्राप्त था?"
+    },
     "options": {
-      "a": "The timing of his own death",
-      "b": "Invincibility in battle",
-      "c": "Immortality",
-      "d": "Control over weather"
+      "a": {
+        "en": "The timing of his own death",
+        "hi": "अपनी मृत्यु के समय पर"
+      },
+      "b": {
+        "en": "Invincibility in battle",
+        "hi": "युद्ध में अजेयता पर"
+      },
+      "c": {
+        "en": "Immortality",
+        "hi": "अमरत्व पर"
+      },
+      "d": {
+        "en": "Control over weather",
+        "hi": "मौसम पर नियंत्रण"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Amba, who sought revenge against Bhishma, was reborn as which warrior?",
+    "question": {
+      "en": "Amba, who sought revenge against Bhishma, was reborn as which warrior?",
+      "hi": "भीष्म से बदला लेने की इच्छा रखने वाली अंबा का पुनर्जन्म किस योद्धा के रूप में हुआ था?"
+    },
     "options": {
-      "a": "Shikhandi",
-      "b": "Ashwatthama",
-      "c": "Dhrishtadyumna",
-      "d": "Yuyutsu"
+      "a": {
+        "en": "Shikhandi",
+        "hi": "शिखंडी"
+      },
+      "b": {
+        "en": "Ashwatthama",
+        "hi": "अश्वत्थामा"
+      },
+      "c": {
+        "en": "Dhrishtadyumna",
+        "hi": "धृष्टद्युम्न"
+      },
+      "d": {
+        "en": "Yuyutsu",
+        "hi": "युयुत्सु"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Why did Bhishma refuse to fight Shikhandi directly?",
+    "question": {
+      "en": "Why did Bhishma refuse to fight Shikhandi directly?",
+      "hi": "भीष्म ने शिखंडी से सीधे युद्ध करने से इनकार क्यों किया?"
+    },
     "options": {
-      "a": "Shikhandi was born female",
-      "b": "Shikhandi was unarmed",
-      "c": "Shikhandi was his student",
-      "d": "Shikhandi was too young"
+      "a": {
+        "en": "Shikhandi was born female",
+        "hi": "शिखंडी का जन्म स्त्री के रूप में हुआ था"
+      },
+      "b": {
+        "en": "Shikhandi was unarmed",
+        "hi": "शिखंडी निहत्था था"
+      },
+      "c": {
+        "en": "Shikhandi was his student",
+        "hi": "शिखंडी उनका शिष्य था"
+      },
+      "d": {
+        "en": "Shikhandi was too young",
+        "hi": "शिखंडी बहुत छोटा था"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "What special gem did Ashwatthama have on his forehead?",
+    "question": {
+      "en": "What special gem did Ashwatthama have on his forehead?",
+      "hi": "अश्वत्थामा के माथे पर कौन-सी विशेष मणि थी?"
+    },
     "options": {
-      "a": "A mani granting protection",
-      "b": "A ruby of invisibility",
-      "c": "A diamond of strength",
-      "d": "A sapphire of foresight"
+      "a": {
+        "en": "A mani granting protection",
+        "hi": "एक मणि जो सुरक्षा प्रदान करती थी"
+      },
+      "b": {
+        "en": "A ruby of invisibility",
+        "hi": "अदृश्यता प्रदान करने वाली माणिक मणि"
+      },
+      "c": {
+        "en": "A diamond of strength",
+        "hi": "शक्ति प्रदान करने वाला हीरा"
+      },
+      "d": {
+        "en": "A sapphire of foresight",
+        "hi": "भविष्य देखने वाली नीलम मणि"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who narrated the Mahabharata aloud while Ganesha wrote it down?",
+    "question": {
+      "en": "Who narrated the Mahabharata aloud while Ganesha wrote it down?",
+      "hi": "जब गणेश महाभारत लिख रहे थे, तब उसे बोलकर किसने सुनाया था?"
+    },
     "options": {
-      "a": "Vyasa",
-      "b": "Vaishampayana",
-      "c": "Sanjaya",
-      "d": "Suta"
+      "a": {
+        "en": "Vyasa",
+        "hi": "व्यास"
+      },
+      "b": {
+        "en": "Vaishampayana",
+        "hi": "वैशंपायन"
+      },
+      "c": {
+        "en": "Sanjaya",
+        "hi": "संजय"
+      },
+      "d": {
+        "en": "Suta",
+        "hi": "सूत"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Why did Gandhari keep herself blindfolded throughout her life?",
+    "question": {
+      "en": "Why did Gandhari keep herself blindfolded throughout her life?",
+      "hi": "गांधारी ने जीवन भर अपनी आँखों पर पट्टी क्यों बाँधकर रखी?"
+    },
     "options": {
-      "a": "In solidarity with her blind husband Dhritarashtra",
-      "b": "As penance for a past sin",
-      "c": "To avoid seeing the war",
-      "d": "On her father's orders"
+      "a": {
+        "en": "In solidarity with her blind husband Dhritarashtra",
+        "hi": "अपने नेत्रहीन पति धृतराष्ट्र के प्रति एकजुटता दिखाने के लिए"
+      },
+      "b": {
+        "en": "As penance for a past sin",
+        "hi": "पिछले पाप के प्रायश्चित के रूप में"
+      },
+      "c": {
+        "en": "To avoid seeing the war",
+        "hi": "युद्ध को देखने से बचने के लिए"
+      },
+      "d": {
+        "en": "On her father's orders",
+        "hi": "अपने पिता के आदेश पर"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "What did Gandhari curse Krishna with, blaming him for the war's devastation?",
+    "question": {
+      "en": "What did Gandhari curse Krishna with, blaming him for the war's devastation?",
+      "hi": "युद्ध की विनाशलीला के लिए कृष्ण को दोषी ठहराते हुए गांधारी ने उन्हें क्या श्राप दिया था?"
+    },
     "options": {
-      "a": "The destruction of his own Yadava clan",
-      "b": "Eternal exile",
-      "c": "Loss of his memory",
-      "d": "Blindness"
+      "a": {
+        "en": "The destruction of his own Yadava clan",
+        "hi": "उनके अपने यादव वंश के विनाश का"
+      },
+      "b": {
+        "en": "Eternal exile",
+        "hi": "अनन्त वनवास का"
+      },
+      "c": {
+        "en": "Loss of his memory",
+        "hi": "स्मृति खोने का"
+      },
+      "d": {
+        "en": "Blindness",
+        "hi": "अंधेपन का"
+      }
     },
     "correct": "a"
   }
