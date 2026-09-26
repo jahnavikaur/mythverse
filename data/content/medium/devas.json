@@ -1,354 +1,877 @@
 [
   {
-    "question": "Vayu is considered the divine father of which two figures in different epics?",
+    "question": {
+      "en": "Vayu is considered the divine father of which two figures in different epics?",
+      "hi": "वायु को अलग-अलग महाकाव्यों में किन दो पात्रों का दिव्य पिता माना जाता है?"
+    },
     "options": {
-      "a": "Hanuman and Bhima",
-      "b": "Rama and Krishna",
-      "c": "Karna and Arjuna",
-      "d": "Indra and Agni"
+      "a": {
+        "en": "Hanuman and Bhima",
+        "hi": "हनुमान और भीम"
+      },
+      "b": {
+        "en": "Rama and Krishna",
+        "hi": "राम और कृष्ण"
+      },
+      "c": {
+        "en": "Karna and Arjuna",
+        "hi": "कर्ण और अर्जुन"
+      },
+      "d": {
+        "en": "Indra and Agni",
+        "hi": "इन्द्र और अग्नि"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who is Indra's guru?",
+    "question": {
+      "en": "Who is Indra's guru?",
+      "hi": "इन्द्र के गुरु कौन हैं?"
+    },
     "options": {
-      "a": "Brihaspati",
-      "b": "Shukracharya",
-      "c": "Vashishtha",
-      "d": "Vishwamitra"
+      "a": {
+        "en": "Brihaspati",
+        "hi": "बृहस्पति"
+      },
+      "b": {
+        "en": "Shukracharya",
+        "hi": "शुक्राचार्य"
+      },
+      "c": {
+        "en": "Vashishtha",
+        "hi": "वशिष्ठ"
+      },
+      "d": {
+        "en": "Vishwamitra",
+        "hi": "विश्वामित्र"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "What is the name of the mountain used to churn the ocean of milk?",
+    "question": {
+      "en": "What is the name of the mountain used to churn the ocean of milk?",
+      "hi": "क्षीर सागर का मंथन करने के लिए किस पर्वत का उपयोग किया गया था?"
+    },
     "options": {
-      "a": "Govardhan",
-      "b": "Mandara",
-      "c": "Kailash",
-      "d": "Meru"
+      "a": {
+        "en": "Govardhan",
+        "hi": "गोवर्धन"
+      },
+      "b": {
+        "en": "Mandara",
+        "hi": "मंदर"
+      },
+      "c": {
+        "en": "Kailash",
+        "hi": "कैलाश"
+      },
+      "d": {
+        "en": "Meru",
+        "hi": "मेरु"
+      }
     },
     "correct": "b"
   },
   {
-    "question": "What was used as the rope to churn the ocean of milk?",
+    "question": {
+      "en": "What was used as the rope to churn the ocean of milk?",
+      "hi": "क्षीर सागर का मंथन करने के लिए रस्सी के रूप में किसका उपयोग किया गया था?"
+    },
     "options": {
-      "a": "Shesha Naga",
-      "b": "Vasuki",
-      "c": "Kaliya",
-      "d": "Takshaka"
+      "a": {
+        "en": "Shesha Naga",
+        "hi": "शेषनाग"
+      },
+      "b": {
+        "en": "Vasuki",
+        "hi": "वासुकी"
+      },
+      "c": {
+        "en": "Kaliya",
+        "hi": "कालिया"
+      },
+      "d": {
+        "en": "Takshaka",
+        "hi": "तक्षक"
+      }
     },
     "correct": "b"
   },
   {
-    "question": "Which avatar of Vishnu supported the churning mountain on its back?",
+    "question": {
+      "en": "Which avatar of Vishnu supported the churning mountain on its back?",
+      "hi": "विष्णु के किस अवतार ने अपनी पीठ पर मंथन पर्वत को सहारा दिया था?"
+    },
     "options": {
-      "a": "Varaha",
-      "b": "Kurma",
-      "c": "Matsya",
-      "d": "Narasimha"
+      "a": {
+        "en": "Varaha",
+        "hi": "वराह"
+      },
+      "b": {
+        "en": "Kurma",
+        "hi": "कूर्म"
+      },
+      "c": {
+        "en": "Matsya",
+        "hi": "मत्स्य"
+      },
+      "d": {
+        "en": "Narasimha",
+        "hi": "नरसिंह"
+      }
     },
     "correct": "b"
   },
   {
-    "question": "Kamadhenu, the wish-fulfilling cow, belonged to which sage?",
+    "question": {
+      "en": "Kamadhenu, the wish-fulfilling cow, belonged to which sage?",
+      "hi": "कामधेनु, इच्छा पूरी करने वाली गाय, किस ऋषि की थी?"
+    },
     "options": {
-      "a": "Vashishtha",
-      "b": "Vishwamitra",
-      "c": "Durvasa",
-      "d": "Agastya"
+      "a": {
+        "en": "Vashishtha",
+        "hi": "वशिष्ठ"
+      },
+      "b": {
+        "en": "Vishwamitra",
+        "hi": "विश्वामित्र"
+      },
+      "c": {
+        "en": "Durvasa",
+        "hi": "दुर्वासा"
+      },
+      "d": {
+        "en": "Agastya",
+        "hi": "अगस्त्य"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who is the celestial architect of the gods?",
+    "question": {
+      "en": "Who is the celestial architect of the gods?",
+      "hi": "देवताओं के दिव्य वास्तुकार कौन हैं?"
+    },
     "options": {
-      "a": "Vishwakarma",
-      "b": "Vishwamitra",
-      "c": "Kubera",
-      "d": "Brihaspati"
+      "a": {
+        "en": "Vishwakarma",
+        "hi": "विश्वकर्मा"
+      },
+      "b": {
+        "en": "Vishwamitra",
+        "hi": "विश्वामित्र"
+      },
+      "c": {
+        "en": "Kubera",
+        "hi": "कुबेर"
+      },
+      "d": {
+        "en": "Brihaspati",
+        "hi": "बृहस्पति"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Aditi is the mother of which group of gods?",
+    "question": {
+      "en": "Aditi is the mother of which group of gods?",
+      "hi": "अदिति किस देव समूह की माता हैं?"
+    },
     "options": {
-      "a": "Adityas",
-      "b": "Daityas",
-      "c": "Rakshasas",
-      "d": "Nagas"
+      "a": {
+        "en": "Adityas",
+        "hi": "आदित्य"
+      },
+      "b": {
+        "en": "Daityas",
+        "hi": "दैत्य"
+      },
+      "c": {
+        "en": "Rakshasas",
+        "hi": "राक्षस"
+      },
+      "d": {
+        "en": "Nagas",
+        "hi": "नाग"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who is the common father of both the Devas and the Asuras?",
+    "question": {
+      "en": "Who is the common father of both the Devas and the Asuras?",
+      "hi": "देवताओं और असुरों दोनों के सामान्य पिता कौन हैं?"
+    },
     "options": {
-      "a": "Kashyapa",
-      "b": "Daksha",
-      "c": "Brahma",
-      "d": "Vishwakarma"
+      "a": {
+        "en": "Kashyapa",
+        "hi": "कश्यप"
+      },
+      "b": {
+        "en": "Daksha",
+        "hi": "दक्ष"
+      },
+      "c": {
+        "en": "Brahma",
+        "hi": "ब्रह्मा"
+      },
+      "d": {
+        "en": "Vishwakarma",
+        "hi": "विश्वकर्मा"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "What is the name of Indra's charioteer?",
+    "question": {
+      "en": "What is the name of Indra's charioteer?",
+      "hi": "इन्द्र के सारथी का नाम क्या है?"
+    },
     "options": {
-      "a": "Matali",
-      "b": "Daruka",
-      "c": "Aruna",
-      "d": "Sumantra"
+      "a": {
+        "en": "Matali",
+        "hi": "मातलि"
+      },
+      "b": {
+        "en": "Daruka",
+        "hi": "दारुक"
+      },
+      "c": {
+        "en": "Aruna",
+        "hi": "अरुण"
+      },
+      "d": {
+        "en": "Sumantra",
+        "hi": "सुमंत्र"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who is Surya's charioteer?",
+    "question": {
+      "en": "Who is Surya's charioteer?",
+      "hi": "सूर्य के सारथी कौन हैं?"
+    },
     "options": {
-      "a": "Matali",
-      "b": "Aruna",
-      "c": "Daruka",
-      "d": "Garuda"
+      "a": {
+        "en": "Matali",
+        "hi": "मातलि"
+      },
+      "b": {
+        "en": "Aruna",
+        "hi": "अरुण"
+      },
+      "c": {
+        "en": "Daruka",
+        "hi": "दारुक"
+      },
+      "d": {
+        "en": "Garuda",
+        "hi": "गरुड़"
+      }
     },
     "correct": "b"
   },
   {
-    "question": "How many horses pull Surya's chariot?",
+    "question": {
+      "en": "How many horses pull Surya's chariot?",
+      "hi": "सूर्य के रथ को कितने घोड़े खींचते हैं?"
+    },
     "options": {
-      "a": "Five",
-      "b": "Seven",
-      "c": "Nine",
-      "d": "Two"
+      "a": {
+        "en": "Five",
+        "hi": "पाँच"
+      },
+      "b": {
+        "en": "Seven",
+        "hi": "सात"
+      },
+      "c": {
+        "en": "Nine",
+        "hi": "नौ"
+      },
+      "d": {
+        "en": "Two",
+        "hi": "दो"
+      }
     },
     "correct": "b"
   },
   {
-    "question": "Kubera is the half-brother of which demon king?",
+    "question": {
+      "en": "Kubera is the half-brother of which demon king?",
+      "hi": "कुबेर किस राक्षस राजा के सौतेले भाई हैं?"
+    },
     "options": {
-      "a": "Ravana",
-      "b": "Hiranyakashipu",
-      "c": "Vritra",
-      "d": "Mahishasura"
+      "a": {
+        "en": "Ravana",
+        "hi": "रावण"
+      },
+      "b": {
+        "en": "Hiranyakashipu",
+        "hi": "हिरण्यकशिपु"
+      },
+      "c": {
+        "en": "Vritra",
+        "hi": "वृत्र"
+      },
+      "d": {
+        "en": "Mahishasura",
+        "hi": "महिषासुर"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "What is Varuna's weapon called?",
+    "question": {
+      "en": "What is Varuna's weapon called?",
+      "hi": "वरुण के अस्त्र का नाम क्या है?"
+    },
     "options": {
-      "a": "Varunastra",
-      "b": "Varunapasha",
-      "c": "Jalachakra",
-      "d": "Naga Pasha"
+      "a": {
+        "en": "Varunastra",
+        "hi": "वरुणास्त्र"
+      },
+      "b": {
+        "en": "Varunapasha",
+        "hi": "वरुणपाश"
+      },
+      "c": {
+        "en": "Jalachakra",
+        "hi": "जलचक्र"
+      },
+      "d": {
+        "en": "Naga Pasha",
+        "hi": "नागपाश"
+      }
     },
     "correct": "b"
   },
   {
-    "question": "Who is regarded as the messenger sage who travels between the three worlds?",
-    "options": {
-      "a": "Narada",
-      "b":"Durvasa",
-      "c": "Agastya" ,
-      "d": "Vishwamitra"
+    "question": {
+      "en": "Who is regarded as the messenger sage who travels between the three worlds?",
+      "hi": "तीनों लोकों के बीच यात्रा करने वाले दूत ऋषि के रूप में किसे माना जाता है?"
     },
-    "correct": "a"
-  },
-  [
-  {
-    "question": "Who is the guru of the Asuras?",
     "options": {
-      "a": "Brihaspati",
-      "b": "Shukracharya",
-      "c": "Narada",
-      "d": "Vashishtha"
-    },
-    "correct": "b"
-  },
-  {
-    "question": "Which celestial horse emerged during the Samudra Manthan?",
-    "options": {
-      "a": "Airavata",
-      "b": "Uchhaishravas",
-      "c": "Hayagriva",
-      "d": "Kanthaka"
-    },
-    "correct": "b"
-  },
-  {
-    "question": "Which celestial elephant emerged during the Samudra Manthan?",
-    "options": {
-      "a": "Airavata",
-      "b": "Gajendra",
-      "c": "Supratika",
-      "d": "Abhramu"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Which goddess emerged from the Samudra Manthan and chose Vishnu as her consort?",
-    "options": {
-      "a": "Parvati",
-      "b": "Lakshmi",
-      "c": "Saraswati",
-      "d": "Ganga"
-    },
-    "correct": "b"
-  },
-  {
-    "question": "Who drank the deadly Halahala poison during the Samudra Manthan?",
-    "options": {
-      "a": "Vishnu",
-      "b": "Shiva",
-      "c": "Brahma",
-      "d": "Indra"
-    },
-    "correct": "b"
-  },
-  {
-    "question": "After drinking Halahala poison, Shiva came to be known by which name?",
-    "options": {
-      "a": "Pashupati",
-      "b": "Neelkantha",
-      "c": "Mahadeva",
-      "d": "Rudra"
-    },
-    "correct": "b"
-  },
-  {
-    "question": "Who assumed the Mohini avatar to distribute Amrita?",
-    "options": {
-      "a": "Shiva",
-      "b": "Vishnu",
-      "c": "Brahma",
-      "d": "Indra"
-    },
-    "correct": "b"
-  },
-  {
-    "question": "Who tried to secretly drink Amrita and was beheaded by Vishnu?",
-    "options": {
-      "a": "Mahabali",
-      "b": "Rahu",
-      "c": "Ketu",
-      "d": "Vritra"
-    },
-    "correct": "b"
-  },
-  {
-    "question": "Which deity carries the Veena named Mahati?",
-    "options": {
-      "a": "Narada",
-      "b": "Brihaspati",
-      "c": "Agni",
-      "d": "Kubera"
+      "a": {
+        "en": "Narada",
+        "hi": "नारद"
+      },
+      "b": {
+        "en": "Durvasa",
+        "hi": "दुर्वासा"
+      },
+      "c": {
+        "en": "Agastya",
+        "hi": "अगस्त्य"
+      },
+      "d": {
+        "en": "Vishwamitra",
+        "hi": "विश्वामित्र"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Kubera is the ruler of which direction?",
-    "options": {
-      "a": "North",
-      "b": "South",
-      "c": "East",
-      "d": "West"
+    "question": {
+      "en": "Who is the guru of the Asuras?",
+      "hi": "असुरों के गुरु कौन हैं?"
     },
-    "correct": "a"
-  },
-  {
-    "question": "Which direction is guarded by Indra as a Dikpala?",
     "options": {
-      "a": "East",
-      "b": "North",
-      "c": "West",
-      "d": "South"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Which deity is traditionally regarded as the lord of the oceans?",
-    "options": {
-      "a": "Varuna",
-      "b": "Agni",
-      "c": "Vayu",
-      "d": "Surya"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Which celestial tree emerged during the Samudra Manthan?",
-    "options": {
-      "a": "Kalpavriksha",
-      "b": "Ashvattha",
-      "c": "Bilva",
-      "d": "Kadamba"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who is the divine physician of the Devas?",
-    "options": {
-      "a": "Dhanvantari",
-      "b": "Ashwini Kumaras",
-      "c": "Brihaspati",
-      "d": "Narada"
+      "a": {
+        "en": "Brihaspati",
+        "hi": "बृहस्पति"
+      },
+      "b": {
+        "en": "Shukracharya",
+        "hi": "शुक्राचार्य"
+      },
+      "c": {
+        "en": "Narada",
+        "hi": "नारद"
+      },
+      "d": {
+        "en": "Vashishtha",
+        "hi": "वशिष्ठ"
+      }
     },
     "correct": "b"
   },
   {
-    "question": "Who emerged from the Samudra Manthan carrying the pot of Amrita?",
-    "options": {
-      "a": "Dhanvantari",
-      "b": "Indra",
-      "c": "Kubera",
-      "d": "Agni"
+    "question": {
+      "en": "Which celestial horse emerged during the Samudra Manthan?",
+      "hi": "समुद्र मंथन के दौरान कौन-सा दिव्य घोड़ा प्रकट हुआ था?"
     },
-    "correct": "a"
-  },
-  {
-    "question": "Which pair of twin gods are known as the Ashwini Kumaras?",
     "options": {
-      "a": "Divine physicians",
-      "b": "Guardians of wealth",
-      "c": "Gods of rain",
-      "d": "Lords of fire"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "What is the heavenly abode of Lord Vishnu called?",
-    "options": {
-      "a": "Kailasa",
-      "b": "Vaikuntha",
-      "c": "Amaravati",
-      "d": "Brahmaloka"
+      "a": {
+        "en": "Airavata",
+        "hi": "ऐरावत"
+      },
+      "b": {
+        "en": "Uchhaishravas",
+        "hi": "उच्चैःश्रवा"
+      },
+      "c": {
+        "en": "Hayagriva",
+        "hi": "हयग्रीव"
+      },
+      "d": {
+        "en": "Kanthaka",
+        "hi": "कंथक"
+      }
     },
     "correct": "b"
   },
   {
-    "question": "What is the heavenly abode of Lord Shiva called?",
+    "question": {
+      "en": "Which celestial elephant emerged during the Samudra Manthan?",
+      "hi": "समुद्र मंथन के दौरान कौन-सा दिव्य हाथी प्रकट हुआ था?"
+    },
     "options": {
-      "a": "Meru",
-      "b": "Vaikuntha",
-      "c": "Kailasa",
-      "d": "Amaravati"
+      "a": {
+        "en": "Airavata",
+        "hi": "ऐरावत"
+      },
+      "b": {
+        "en": "Gajendra",
+        "hi": "गजेन्द्र"
+      },
+      "c": {
+        "en": "Supratika",
+        "hi": "सुप्रतीक"
+      },
+      "d": {
+        "en": "Abhramu",
+        "hi": "अभ्रमु"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which goddess emerged from the Samudra Manthan and chose Vishnu as her consort?",
+      "hi": "समुद्र मंथन से कौन-सी देवी प्रकट हुईं और उन्होंने विष्णु को अपना पति चुना?"
+    },
+    "options": {
+      "a": {
+        "en": "Parvati",
+        "hi": "पार्वती"
+      },
+      "b": {
+        "en": "Lakshmi",
+        "hi": "लक्ष्मी"
+      },
+      "c": {
+        "en": "Saraswati",
+        "hi": "सरस्वती"
+      },
+      "d": {
+        "en": "Ganga",
+        "hi": "गंगा"
+      }
+    },
+    "correct": "b"
+  },
+  {
+    "question": {
+      "en": "Who drank the deadly Halahala poison during the Samudra Manthan?",
+      "hi": "समुद्र मंथन के दौरान घातक हलाहल विष किसने पिया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Vishnu",
+        "hi": "विष्णु"
+      },
+      "b": {
+        "en": "Shiva",
+        "hi": "शिव"
+      },
+      "c": {
+        "en": "Brahma",
+        "hi": "ब्रह्मा"
+      },
+      "d": {
+        "en": "Indra",
+        "hi": "इन्द्र"
+      }
+    },
+    "correct": "b"
+  },
+  {
+    "question": {
+      "en": "After drinking Halahala poison, Shiva came to be known by which name?",
+      "hi": "हलाहल विष पीने के बाद शिव किस नाम से प्रसिद्ध हुए?"
+    },
+    "options": {
+      "a": {
+        "en": "Pashupati",
+        "hi": "पशुपति"
+      },
+      "b": {
+        "en": "Neelkantha",
+        "hi": "नीलकंठ"
+      },
+      "c": {
+        "en": "Mahadeva",
+        "hi": "महादेव"
+      },
+      "d": {
+        "en": "Rudra",
+        "hi": "रुद्र"
+      }
+    },
+    "correct": "b"
+  },
+  {
+    "question": {
+      "en": "Who assumed the Mohini avatar to distribute Amrita?",
+      "hi": "अमृत का वितरण करने के लिए मोहिनी अवतार किसने धारण किया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Shiva",
+        "hi": "शिव"
+      },
+      "b": {
+        "en": "Vishnu",
+        "hi": "विष्णु"
+      },
+      "c": {
+        "en": "Brahma",
+        "hi": "ब्रह्मा"
+      },
+      "d": {
+        "en": "Indra",
+        "hi": "इन्द्र"
+      }
+    },
+    "correct": "b"
+  },
+  {
+    "question": {
+      "en": "Who tried to secretly drink Amrita and was beheaded by Vishnu?",
+      "hi": "अमृत को गुप्त रूप से पीने का प्रयास किसने किया था और विष्णु ने उसका सिर काट दिया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Mahabali",
+        "hi": "महाबली"
+      },
+      "b": {
+        "en": "Rahu",
+        "hi": "राहु"
+      },
+      "c": {
+        "en": "Ketu",
+        "hi": "केतु"
+      },
+      "d": {
+        "en": "Vritra",
+        "hi": "वृत्र"
+      }
+    },
+    "correct": "b"
+  },
+  {
+    "question": {
+      "en": "Which deity carries the Veena named Mahati?",
+      "hi": "महती नामक वीणा कौन-से देवता धारण करते हैं?"
+    },
+    "options": {
+      "a": {
+        "en": "Narada",
+        "hi": "नारद"
+      },
+      "b": {
+        "en": "Brihaspati",
+        "hi": "बृहस्पति"
+      },
+      "c": {
+        "en": "Agni",
+        "hi": "अग्नि"
+      },
+      "d": {
+        "en": "Kubera",
+        "hi": "कुबेर"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Kubera is the ruler of which direction?",
+      "hi": "कुबेर किस दिशा के अधिपति हैं?"
+    },
+    "options": {
+      "a": {
+        "en": "North",
+        "hi": "उत्तर"
+      },
+      "b": {
+        "en": "South",
+        "hi": "दक्षिण"
+      },
+      "c": {
+        "en": "East",
+        "hi": "पूर्व"
+      },
+      "d": {
+        "en": "West",
+        "hi": "पश्चिम"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which direction is guarded by Indra as a Dikpala?",
+      "hi": "दिक्पाल के रूप में इन्द्र किस दिशा की रक्षा करते हैं?"
+    },
+    "options": {
+      "a": {
+        "en": "East",
+        "hi": "पूर्व"
+      },
+      "b": {
+        "en": "North",
+        "hi": "उत्तर"
+      },
+      "c": {
+        "en": "West",
+        "hi": "पश्चिम"
+      },
+      "d": {
+        "en": "South",
+        "hi": "दक्षिण"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which deity is traditionally regarded as the lord of the oceans?",
+      "hi": "परंपरागत रूप से किस देवता को समुद्रों का स्वामी माना जाता है?"
+    },
+    "options": {
+      "a": {
+        "en": "Varuna",
+        "hi": "वरुण"
+      },
+      "b": {
+        "en": "Agni",
+        "hi": "अग्नि"
+      },
+      "c": {
+        "en": "Vayu",
+        "hi": "वायु"
+      },
+      "d": {
+        "en": "Surya",
+        "hi": "सूर्य"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which celestial tree emerged during the Samudra Manthan?",
+      "hi": "समुद्र मंथन के दौरान कौन-सा दिव्य वृक्ष प्रकट हुआ था?"
+    },
+    "options": {
+      "a": {
+        "en": "Kalpavriksha",
+        "hi": "कल्पवृक्ष"
+      },
+      "b": {
+        "en": "Ashvattha",
+        "hi": "अश्वत्थ"
+      },
+      "c": {
+        "en": "Bilva",
+        "hi": "बिल्व"
+      },
+      "d": {
+        "en": "Kadamba",
+        "hi": "कदंब"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who is the divine physician of the Devas?",
+      "hi": "देवताओं के दिव्य वैद्य कौन हैं?"
+    },
+    "options": {
+      "a": {
+        "en": "Dhanvantari",
+        "hi": "धन्वंतरि"
+      },
+      "b": {
+        "en": "Ashwini Kumaras",
+        "hi": "अश्विनी कुमार"
+      },
+      "c": {
+        "en": "Brihaspati",
+        "hi": "बृहस्पति"
+      },
+      "d": {
+        "en": "Narada",
+        "hi": "नारद"
+      }
+    },
+    "correct": "b"
+  },
+  {
+    "question": {
+      "en": "Who emerged from the Samudra Manthan carrying the pot of Amrita?",
+      "hi": "समुद्र मंथन से अमृत का कलश लेकर कौन प्रकट हुए थे?"
+    },
+    "options": {
+      "a": {
+        "en": "Dhanvantari",
+        "hi": "धन्वंतरि"
+      },
+      "b": {
+        "en": "Indra",
+        "hi": "इन्द्र"
+      },
+      "c": {
+        "en": "Kubera",
+        "hi": "कुबेर"
+      },
+      "d": {
+        "en": "Agni",
+        "hi": "अग्नि"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which pair of twin gods are known as the Ashwini Kumaras?",
+      "hi": "अश्विनी कुमार किस जुड़वाँ देवताओं की जोड़ी को कहा जाता है?"
+    },
+    "options": {
+      "a": {
+        "en": "Divine physicians",
+        "hi": "दिव्य वैद्य"
+      },
+      "b": {
+        "en": "Guardians of wealth",
+        "hi": "धन के रक्षक"
+      },
+      "c": {
+        "en": "Gods of rain",
+        "hi": "वर्षा के देवता"
+      },
+      "d": {
+        "en": "Lords of fire",
+        "hi": "अग्नि के देवता"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "What is the heavenly abode of Lord Vishnu called?",
+      "hi": "भगवान विष्णु के स्वर्गीय धाम को क्या कहा जाता है?"
+    },
+    "options": {
+      "a": {
+        "en": "Kailasa",
+        "hi": "कैलास"
+      },
+      "b": {
+        "en": "Vaikuntha",
+        "hi": "वैकुंठ"
+      },
+      "c": {
+        "en": "Amaravati",
+        "hi": "अमरावती"
+      },
+      "d": {
+        "en": "Brahmaloka",
+        "hi": "ब्रह्मलोक"
+      }
+    },
+    "correct": "b"
+  },
+  {
+    "question": {
+      "en": "What is the heavenly abode of Lord Shiva called?",
+      "hi": "भगवान शिव के स्वर्गीय धाम को क्या कहा जाता है?"
+    },
+    "options": {
+      "a": {
+        "en": "Meru",
+        "hi": "मेरु"
+      },
+      "b": {
+        "en": "Vaikuntha",
+        "hi": "वैकुंठ"
+      },
+      "c": {
+        "en": "Kailasa",
+        "hi": "कैलास"
+      },
+      "d": {
+        "en": "Amaravati",
+        "hi": "अमरावती"
+      }
     },
     "correct": "c"
   },
   {
-    "question": "Which goddess is worshipped as the river that descended from heaven to Earth?",
+    "question": {
+      "en": "Which goddess is worshipped as the river that descended from heaven to Earth?",
+      "hi": "स्वर्ग से पृथ्वी पर अवतरित हुई नदी के रूप में किस देवी की पूजा की जाती है?"
+    },
     "options": {
-      "a": "Yamuna",
-      "b": "Godavari",
-      "c": "Ganga",
-      "d": "Saraswati"
+      "a": {
+        "en": "Yamuna",
+        "hi": "यमुना"
+      },
+      "b": {
+        "en": "Godavari",
+        "hi": "गोदावरी"
+      },
+      "c": {
+        "en": "Ganga",
+        "hi": "गंगा"
+      },
+      "d": {
+        "en": "Saraswati",
+        "hi": "सरस्वती"
+      }
     },
     "correct": "c"
   },
   {
-    "question": "Who is traditionally regarded as the lord of the planets (Navagrahas)?",
+    "question": {
+      "en": "Who is traditionally regarded as the lord of the planets (Navagrahas)?",
+      "hi": "परंपरागत रूप से ग्रहों (नवग्रहों) के स्वामी के रूप में किसे माना जाता है?"
+    },
     "options": {
-      "a": "Surya",
-      "b": "Chandra",
-      "c": "Shani",
-      "d": "Brihaspati"
+      "a": {
+        "en": "Surya",
+        "hi": "सूर्य"
+      },
+      "b": {
+        "en": "Chandra",
+        "hi": "चंद्र"
+      },
+      "c": {
+        "en": "Shani",
+        "hi": "शनि"
+      },
+      "d": {
+        "en": "Brihaspati",
+        "hi": "बृहस्पति"
+      }
     },
     "correct": "a"
   }
-]
 ]
