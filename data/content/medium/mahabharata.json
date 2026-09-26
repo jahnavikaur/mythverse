@@ -1,356 +1,877 @@
 [
   {
-    "question": "Who was the common guru of the Pandavas and Kauravas in warfare?",
+    "question": {
+      "en": "Who is Krishna's sister, later married to Arjuna?",
+      "hi": "कृष्ण की बहन कौन थीं, जिनका बाद में अर्जुन से विवाह हुआ?"
+    },
     "options": {
-      "a": "Drona",
-      "b": "Kripa",
-      "c": "Vyasa",
-      "d": "Vidura"
+      "a": {
+        "en": "Subhadra",
+        "hi": "सुभद्रा"
+      },
+      "b": {
+        "en": "Ekanamsha",
+        "hi": "एकानंशा"
+      },
+      "c": {
+        "en": "Draupadi",
+        "hi": "द्रौपदी"
+      },
+      "d": {
+        "en": "Rohini",
+        "hi": "रोहिणी"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who were Abhimanyu's parents?",
+    "question": {
+      "en": "What was Krishna's capital city as an adult king?",
+      "hi": "वयस्क राजा के रूप में कृष्ण की राजधानी कौन-सी नगरी थी?"
+    },
     "options": {
-      "a": "Arjuna and Subhadra",
-      "b": "Bhima and Hidimbi",
-      "c": "Yudhishthira and Draupadi",
-      "d": "Nakula and Draupadi"
+      "a": {
+        "en": "Dwarka",
+        "hi": "द्वारका"
+      },
+      "b": {
+        "en": "Mathura",
+        "hi": "मथुरा"
+      },
+      "c": {
+        "en": "Vrindavan",
+        "hi": "वृंदावन"
+      },
+      "d": {
+        "en": "Indraprastha",
+        "hi": "इंद्रप्रस्थ"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "What was the name of the Pandavas' capital city?",
+    "question": {
+      "en": "Who is Balarama's mother?",
+      "hi": "बलराम की माता कौन थीं?"
+    },
     "options": {
-      "a": "Indraprastha",
-      "b": "Hastinapur",
-      "c": "Mathura",
-      "d": "Dwarka"
+      "a": {
+        "en": "Rohini",
+        "hi": "रोहिणी"
+      },
+      "b": {
+        "en": "Devaki",
+        "hi": "देवकी"
+      },
+      "c": {
+        "en": "Yashoda",
+        "hi": "यशोदा"
+      },
+      "d": {
+        "en": "Revati",
+        "hi": "रेवती"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "What game led to the Pandavas' exile?",
+    "question": {
+      "en": "What is the divine dance Krishna performed with the gopis called?",
+      "hi": "कृष्ण ने गोपियों के साथ जो दिव्य नृत्य किया, उसे क्या कहा जाता है?"
+    },
     "options": {
-      "a": "A game of dice",
-      "b": "A wrestling match",
-      "c": "An archery contest",
-      "d": "A chariot race"
+      "a": {
+        "en": "Raas Leela",
+        "hi": "रास लीला"
+      },
+      "b": {
+        "en": "Garba",
+        "hi": "गरबा"
+      },
+      "c": {
+        "en": "Tandava",
+        "hi": "तांडव"
+      },
+      "d": {
+        "en": "Lavani",
+        "hi": "लावणी"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who was Shakuni in relation to the Kauravas?",
+    "question": {
+      "en": "Which whirlwind demon did the child Krishna defeat?",
+      "hi": "बाल कृष्ण ने किस बवंडर रूपी राक्षस का वध किया था?"
+    },
     "options": {
-      "a": "Maternal uncle",
-      "b": "Paternal uncle",
-      "c": "Brother-in-law",
-      "d": "Guru"
+      "a": {
+        "en": "Trinavarta",
+        "hi": "तृणावर्त"
+      },
+      "b": {
+        "en": "Bakasura",
+        "hi": "बकासुर"
+      },
+      "c": {
+        "en": "Aghasura",
+        "hi": "अघासुर"
+      },
+      "d": {
+        "en": "Putana",
+        "hi": "पूतना"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "For how many years total were the Pandavas exiled (forest exile plus incognito year)?",
+    "question": {
+      "en": "Which crane-formed demon did Krishna kill in Vrindavan?",
+      "hi": "वृंदावन में कृष्ण ने बगुले के रूप वाले किस राक्षस का वध किया था?"
+    },
     "options": {
-      "a": "13",
-      "b": "10",
-      "c": "18",
-      "d": "5"
+      "a": {
+        "en": "Bakasura",
+        "hi": "बकासुर"
+      },
+      "b": {
+        "en": "Trinavarta",
+        "hi": "तृणावर्त"
+      },
+      "c": {
+        "en": "Aghasura",
+        "hi": "अघासुर"
+      },
+      "d": {
+        "en": "Kesi",
+        "hi": "केशी"
+      }
     },
     "correct": "a"
   },
   {
-   
-  "question": "In which kingdom did the Pandavas spend their year of incognito exile?",
-  "options": {
-    "a": "Matsya",
-    "b": "Panchala",
-    "c": "Kosala",
-    "d": "Anga"
-  },
-  "correct": "a"
-
-  },
-  {
-    "question": "Who was Bhima's son with the demoness Hidimbi?",
+    "question": {
+      "en": "Who is Krishna's son who was said to have died and been reborn?",
+      "hi": "कृष्ण के किस पुत्र के बारे में कहा जाता है कि उनकी मृत्यु के बाद उनका पुनर्जन्म हुआ?"
+    },
     "options": {
-      "a": "Ghatotkacha",
-      "b": "Iravan",
-      "c": "Barbarika",
-      "d": "Sarvaga"
+      "a": {
+        "en": "Pradyumna",
+        "hi": "प्रद्युम्न"
+      },
+      "b": {
+        "en": "Samba",
+        "hi": "सांब"
+      },
+      "c": {
+        "en": "Charudeshna",
+        "hi": "चारुदेष्ण"
+      },
+      "d": {
+        "en": "Sudhanwa",
+        "hi": "सुधन्वा"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who killed Ghatotkacha in the war?",
+    "question": {
+      "en": "What is the name of Krishna's charioteer?",
+      "hi": "कृष्ण के सारथी का नाम क्या था?"
+    },
     "options": {
-      "a": "Karna",
-      "b": "Drona",
-      "c": "Bhishma",
-      "d": "Ashwatthama"
+      "a": {
+        "en": "Daruka",
+        "hi": "दारुक"
+      },
+      "b": {
+        "en": "Matali",
+        "hi": "मातलि"
+      },
+      "c": {
+        "en": "Aruna",
+        "hi": "अरुण"
+      },
+      "d": {
+        "en": "Sumantra",
+        "hi": "सुमंत्र"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Which kingdom did Karna rule as its king?",
+    "question": {
+      "en": "Which demon king did Krishna kill to free 16,000 captive women?",
+      "hi": "16,000 बंदी महिलाओं को मुक्त कराने के लिए कृष्ण ने किस राक्षस राजा का वध किया था?"
+    },
     "options": {
-      "a": "Anga",
-      "b": "Panchala",
-      "c": "Matsya",
-      "d": "Kosala"
+      "a": {
+        "en": "Narakasura",
+        "hi": "नरकासुर"
+      },
+      "b": {
+        "en": "Kans",
+        "hi": "कंस"
+      },
+      "c": {
+        "en": "Shishupala",
+        "hi": "शिशुपाल"
+      },
+      "d": {
+        "en": "Jarasandha",
+        "hi": "जरासंध"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who made Karna the king of Anga?",
+    "question": {
+      "en": "Krishna and Jambavan fought over which famous gem?",
+      "hi": "कृष्ण और जाम्बवान के बीच किस प्रसिद्ध मणि को लेकर युद्ध हुआ था?"
+    },
     "options": {
-      "a": "Duryodhana",
-      "b": "Bhishma",
-      "c": "Dhritarashtra",
-      "d": "Drona"
+      "a": {
+        "en": "Syamantaka",
+        "hi": "स्यमंतक"
+      },
+      "b": {
+        "en": "Kaustubha",
+        "hi": "कौस्तुभ"
+      },
+      "c": {
+        "en": "Chintamani",
+        "hi": "चिंतामणि"
+      },
+      "d": {
+        "en": "Koh-i-noor",
+        "hi": "कोह-ए-नूर"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Which student cut off his own thumb as guru dakshina for Drona?",
+    "question": {
+      "en": "Whom did Krishna marry after his conflict with Jambavan over the gem?",
+      "hi": "मणि को लेकर जाम्बवान के साथ संघर्ष के बाद कृष्ण ने किससे विवाह किया?"
+    },
     "options": {
-      "a": "Ekalavya",
-      "b": "Arjuna",
-      "c": "Ashwatthama",
-      "d": "Karna"
+      "a": {
+        "en": "Jambavati",
+        "hi": "जाम्बवती"
+      },
+      "b": {
+        "en": "Rukmini",
+        "hi": "रुक्मिणी"
+      },
+      "c": {
+        "en": "Satyabhama",
+        "hi": "सत्यभामा"
+      },
+      "d": {
+        "en": "Kalindi",
+        "hi": "कालिंदी"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Ekalavya practiced archery before a clay idol of whom?",
+    "question": {
+      "en": "What humble gift did Sudama bring Krishna when he visited as an adult?",
+      "hi": "सुदामा जब बड़े होने पर कृष्ण से मिलने गए, तो उनके लिए कौन-सा साधारण उपहार लाए?"
+    },
     "options": {
-      "a": "Drona",
-      "b": "Kripa",
-      "c": "Bhishma",
-      "d": "Parashurama"
+      "a": {
+        "en": "Flattened rice (poha)",
+        "hi": "चूड़ा (पोहा)"
+      },
+      "b": {
+        "en": "Fruits",
+        "hi": "फल"
+      },
+      "c": {
+        "en": "Sweets",
+        "hi": "मिठाइयाँ"
+      },
+      "d": {
+        "en": "Flowers",
+        "hi": "फूल"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who was Krishna's sister, married to Arjuna?",
+    "question": {
+      "en": "How did Krishna obtain his wife Rukmini?",
+      "hi": "कृष्ण ने अपनी पत्नी रुक्मिणी को कैसे प्राप्त किया?"
+    },
     "options": {
-      "a": "Subhadra",
-      "b": "Draupadi",
-      "c": "Uttaraa",
-      "d": "Kunti"
+      "a": {
+        "en": "He abducted her at her own request to escape an unwanted marriage",
+        "hi": "अनचाहे विवाह से बचने के लिए उनके अनुरोध पर कृष्ण उन्हें अपने साथ ले गए"
+      },
+      "b": {
+        "en": "Her father arranged the marriage",
+        "hi": "उनके पिता ने विवाह तय किया"
+      },
+      "c": {
+        "en": "He won her in an archery contest",
+        "hi": "उन्होंने तीरंदाजी प्रतियोगिता जीतकर उन्हें प्राप्त किया"
+      },
+      "d": {
+        "en": "She was given to him by Indra",
+        "hi": "इन्द्र ने उन्हें कृष्ण को सौंप दिया"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Which Pandava married Ulupi, a Naga princess?",
-    "options": {
-      "a": "Arjuna",
-      "b": "Bhima",
-      "c": "Yudhishthira",
-      "d": "Nakula"
+    "question": {
+      "en": "Which serpent-demon did baby Krishna kill by swallowing a wildfire (in some versions) or by other means in Vrindavan?",
+      "hi": "वृंदावन में बाल कृष्ण ने किस सर्प-राक्षस का वध किया, जिसे कुछ कथाओं में जंगल की आग निगलने या अन्य माध्यमों से मारा गया बताया गया है?"
     },
-    "correct": "a"
-  },
-  [
-  {
-    "question": "Who was the commander-in-chief of the Kaurava army at the beginning of the Kurukshetra war?",
     "options": {
-      "a": "Bhishma",
-      "b": "Drona",
-      "c": "Karna",
-      "d": "Shalya"
-    },
-    "correct": "a"
-  },
-  {
-    "question": "Who became the commander of the Kaurava army after Bhishma fell?",
-    "options": {
-      "a": "Drona",
-      "b": "Karna",
-      "c": "Shalya",
-      "d": "Ashwatthama"
+      "a": {
+        "en": "Aghasura",
+        "hi": "अघासुर"
+      },
+      "b": {
+        "en": "Kaliya",
+        "hi": "कालिया"
+      },
+      "c": {
+        "en": "Vasuki",
+        "hi": "वासुकी"
+      },
+      "d": {
+        "en": "Kesi",
+        "hi": "केशी"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who was the commander-in-chief of the Pandava army?",
+    "question": {
+      "en": "Which horse-demon did Krishna kill by ripping open its mouth?",
+      "hi": "कृष्ण ने किस घोड़े के रूप वाले राक्षस का मुँह फाड़कर वध किया था?"
+    },
     "options": {
-      "a": "Dhrishtadyumna",
-      "b": "Bhima",
-      "c": "Arjuna",
-      "d": "Satyaki"
+      "a": {
+        "en": "Kesi",
+        "hi": "केशी"
+      },
+      "b": {
+        "en": "Bakasura",
+        "hi": "बकासुर"
+      },
+      "c": {
+        "en": "Aghasura",
+        "hi": "अघासुर"
+      },
+      "d": {
+        "en": "Trinavarta",
+        "hi": "तृणावर्त"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who was born from the sacrificial fire to kill Drona?",
+    "question": {
+      "en": "Who advised Kansa that Devaki's eighth son would be his destroyer?",
+      "hi": "कंस को किसने बताया था कि देवकी का आठवाँ पुत्र उसका वध करेगा?"
+    },
     "options": {
-      "a": "Dhrishtadyumna",
-      "b": "Shikhandi",
-      "c": "Abhimanyu",
-      "d": "Satyaki"
+      "a": {
+        "en": "Narada",
+        "hi": "नारद"
+      },
+      "b": {
+        "en": "Vyasa",
+        "hi": "व्यास"
+      },
+      "c": {
+        "en": "Akrura",
+        "hi": "अक्रूर"
+      },
+      "d": {
+        "en": "Vashishtha",
+        "hi": "वशिष्ठ"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who was Draupadi's brother?",
+    "question": {
+      "en": "Which demon attacked Krishna in the form of a calf?",
+      "hi": "किस राक्षस ने बछड़े का रूप धारण करके कृष्ण पर हमला किया था?"
+    },
     "options": {
-      "a": "Dhrishtadyumna",
-      "b": "Shikhandi",
-      "c": "Drupada",
-      "d": "Virata"
+      "a": {
+        "en": "Vatsasura",
+        "hi": "वत्सासुर"
+      },
+      "b": {
+        "en": "Bakasura",
+        "hi": "बकासुर"
+      },
+      "c": {
+        "en": "Kesi",
+        "hi": "केशी"
+      },
+      "d": {
+        "en": "Aghasura",
+        "hi": "अघासुर"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who was the king of Panchala and father of Draupadi?",
+    "question": {
+      "en": "Which demon took the form of a donkey and lived in the Talavana forest?",
+      "hi": "किस राक्षस ने गधे का रूप धारण किया था और तालवन वन में रहता था?"
+    },
     "options": {
-      "a": "Drupada",
-      "b": "Virata",
-      "c": "Shalya",
-      "d": "Dhritarashtra"
+      "a": {
+        "en": "Dhenukasura",
+        "hi": "धेनुकासुर"
+      },
+      "b": {
+        "en": "Bakasura",
+        "hi": "बकासुर"
+      },
+      "c": {
+        "en": "Pralambasura",
+        "hi": "प्रलंबासुर"
+      },
+      "d": {
+        "en": "Kesi",
+        "hi": "केशी"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who defeated Bhishma with the help of Shikhandi?",
+    "question": {
+      "en": "Who killed the demon Dhenukasura?",
+      "hi": "धेनुकासुर का वध किसने किया था?"
+    },
     "options": {
-      "a": "Arjuna",
-      "b": "Bhima",
-      "c": "Yudhishthira",
-      "d": "Satyaki"
+      "a": {
+        "en": "Balarama",
+        "hi": "बलराम"
+      },
+      "b": {
+        "en": "Krishna",
+        "hi": "कृष्ण"
+      },
+      "c": {
+        "en": "Hanuman",
+        "hi": "हनुमान"
+      },
+      "d": {
+        "en": "Arjuna",
+        "hi": "अर्जुन"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who was the father of Bhishma?",
+    "question": {
+      "en": "Which demon disguised himself as a cowherd boy before attacking Krishna and Balarama?",
+      "hi": "कृष्ण और बलराम पर हमला करने से पहले किस राक्षस ने ग्वाले के बालक का रूप धारण किया था?"
+    },
     "options": {
-      "a": "Shantanu",
-      "b": "Pandu",
-      "c": "Vyasa",
-      "d": "Dhritarashtra"
+      "a": {
+        "en": "Pralambasura",
+        "hi": "प्रलंबासुर"
+      },
+      "b": {
+        "en": "Aghasura",
+        "hi": "अघासुर"
+      },
+      "c": {
+        "en": "Bakasura",
+        "hi": "बकासुर"
+      },
+      "d": {
+        "en": "Kesi",
+        "hi": "केशी"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who was Bhishma's mother?",
+    "question": {
+      "en": "Who killed Pralambasura?",
+      "hi": "प्रलंबासुर का वध किसने किया था?"
+    },
     "options": {
-      "a": "Ganga",
-      "b": "Satyavati",
-      "c": "Kunti",
-      "d": "Ambika"
+      "a": {
+        "en": "Balarama",
+        "hi": "बलराम"
+      },
+      "b": {
+        "en": "Krishna",
+        "hi": "कृष्ण"
+      },
+      "c": {
+        "en": "Nanda",
+        "hi": "नंद"
+      },
+      "d": {
+        "en": "Sudama",
+        "hi": "सुदामा"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "What terrible vow earned Devavrata the name 'Bhishma'?",
+    "question": {
+      "en": "Which Yadava was sent by Kansa to bring Krishna and Balarama to Mathura?",
+      "hi": "कंस ने कृष्ण और बलराम को मथुरा लाने के लिए किस यादव को भेजा था?"
+    },
     "options": {
-      "a": "Lifelong celibacy",
-      "b": "Silence for life",
-      "c": "Never using weapons",
-      "d": "Living in exile"
+      "a": {
+        "en": "Akrura",
+        "hi": "अक्रूर"
+      },
+      "b": {
+        "en": "Uddhava",
+        "hi": "उद्धव"
+      },
+      "c": {
+        "en": "Daruka",
+        "hi": "दारुक"
+      },
+      "d": {
+        "en": "Satyaki",
+        "hi": "सात्यकि"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who was the mother of Karna?",
+    "question": {
+      "en": "Who was the wrestler that Krishna defeated in Kansa's arena?",
+      "hi": "कंस के अखाड़े में कृष्ण ने किस पहलवान को पराजित किया था?"
+    },
     "options": {
-      "a": "Kunti",
-      "b": "Gandhari",
-      "c": "Madri",
-      "d": "Satyavati"
+      "a": {
+        "en": "Chanura",
+        "hi": "चाणूर"
+      },
+      "b": {
+        "en": "Mushtika",
+        "hi": "मुष्टिक"
+      },
+      "c": {
+        "en": "Kuta",
+        "hi": "कूट"
+      },
+      "d": {
+        "en": "Shala",
+        "hi": "शाल"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "From whom did Karna learn the use of divine weapons?",
+    "question": {
+      "en": "Which wrestler was defeated by Balarama in Kansa's arena?",
+      "hi": "कंस के अखाड़े में बलराम ने किस पहलवान को पराजित किया था?"
+    },
     "options": {
-      "a": "Parashurama",
-      "b": "Drona",
-      "c": "Kripa",
-      "d": "Bhishma"
+      "a": {
+        "en": "Mushtika",
+        "hi": "मुष्टिक"
+      },
+      "b": {
+        "en": "Chanura",
+        "hi": "चाणूर"
+      },
+      "c": {
+        "en": "Kuta",
+        "hi": "कूट"
+      },
+      "d": {
+        "en": "Toshala",
+        "hi": "तोषल"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who cursed Karna that he would forget the use of the Brahmastra when he needed it most?",
+    "question": {
+      "en": "After killing Kansa, whom did Krishna restore to the throne of Mathura?",
+      "hi": "कंस का वध करने के बाद कृष्ण ने मथुरा के सिंहासन पर किसे पुनः स्थापित किया?"
+    },
     "options": {
-      "a": "Parashurama",
-      "b": "Krishna",
-      "c": "Indra",
-      "d": "Vyasa"
+      "a": {
+        "en": "Ugrasena",
+        "hi": "उग्रसेन"
+      },
+      "b": {
+        "en": "Vasudeva",
+        "hi": "वसुदेव"
+      },
+      "c": {
+        "en": "Akrura",
+        "hi": "अक्रूर"
+      },
+      "d": {
+        "en": "Balarama",
+        "hi": "बलराम"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Which Pandava was famous for his skill with horses?",
+    "question": {
+      "en": "Who was the father of Kansa?",
+      "hi": "कंस के पिता कौन थे?"
+    },
     "options": {
-      "a": "Nakula",
-      "b": "Sahadeva",
-      "c": "Bhima",
-      "d": "Arjuna"
+      "a": {
+        "en": "Ugrasena",
+        "hi": "उग्रसेन"
+      },
+      "b": {
+        "en": "Vasudeva",
+        "hi": "वसुदेव"
+      },
+      "c": {
+        "en": "Shurasena",
+        "hi": "शूरसेन"
+      },
+      "d": {
+        "en": "Akrura",
+        "hi": "अक्रूर"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Which Pandava was renowned for his wisdom and knowledge of astrology?",
+    "question": {
+      "en": "Who repeatedly attacked Mathura after Kansa's death?",
+      "hi": "कंस की मृत्यु के बाद मथुरा पर बार-बार किसने आक्रमण किया?"
+    },
     "options": {
-      "a": "Sahadeva",
-      "b": "Nakula",
-      "c": "Bhima",
-      "d": "Arjuna"
+      "a": {
+        "en": "Jarasandha",
+        "hi": "जरासंध"
+      },
+      "b": {
+        "en": "Shishupala",
+        "hi": "शिशुपाल"
+      },
+      "c": {
+        "en": "Narakasura",
+        "hi": "नरकासुर"
+      },
+      "d": {
+        "en": "Paundraka",
+        "hi": "पौण्ड्रक"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who killed Drona during the Kurukshetra war?",
+    "question": {
+      "en": "Why did Krishna establish the city of Dwarka?",
+      "hi": "कृष्ण ने द्वारका नगरी की स्थापना क्यों की?"
+    },
     "options": {
-      "a": "Dhrishtadyumna",
-      "b": "Arjuna",
-      "c": "Bhima",
-      "d": "Satyaki"
+      "a": {
+        "en": "To protect the Yadavas from repeated attacks",
+        "hi": "यादवों को बार-बार होने वाले आक्रमणों से बचाने के लिए"
+      },
+      "b": {
+        "en": "To perform a yajna",
+        "hi": "यज्ञ करने के लिए"
+      },
+      "c": {
+        "en": "To meet the Pandavas",
+        "hi": "पांडवों से मिलने के लिए"
+      },
+      "d": {
+        "en": "To conquer Lanka",
+        "hi": "लंका पर विजय प्राप्त करने के लिए"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who killed Karna in the Kurukshetra war?",
+    "question": {
+      "en": "Who built the city of Dwarka according to tradition?",
+      "hi": "परंपरा के अनुसार द्वारका नगरी का निर्माण किसने किया था?"
+    },
     "options": {
-      "a": "Arjuna",
-      "b": "Bhima",
-      "c": "Yudhishthira",
-      "d": "Satyaki"
+      "a": {
+        "en": "Vishwakarma",
+        "hi": "विश्वकर्मा"
+      },
+      "b": {
+        "en": "Maya",
+        "hi": "मय"
+      },
+      "c": {
+        "en": "Kubera",
+        "hi": "कुबेर"
+      },
+      "d": {
+        "en": "Narada",
+        "hi": "नारद"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who became the final commander of the Kaurava army after Karna's death?",
+    "question": {
+      "en": "Which jewel is traditionally worn by Lord Krishna on his chest?",
+      "hi": "परंपरागत रूप से भगवान कृष्ण अपने वक्ष पर कौन-सी मणि धारण करते हैं?"
+    },
     "options": {
-      "a": "Shalya",
-      "b": "Ashwatthama",
-      "c": "Kripa",
-      "d": "Shakuni"
+      "a": {
+        "en": "Kaustubha",
+        "hi": "कौस्तुभ"
+      },
+      "b": {
+        "en": "Syamantaka",
+        "hi": "स्यमंतक"
+      },
+      "c": {
+        "en": "Chintamani",
+        "hi": "चिंतामणि"
+      },
+      "d": {
+        "en": "Nagamani",
+        "hi": "नागमणि"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who was the sole surviving grandson of the Pandavas after the war?",
+    "question": {
+      "en": "Which queen of Krishna was the daughter of King Satrajit?",
+      "hi": "कृष्ण की कौन-सी रानी राजा सत्राजित की पुत्री थीं?"
+    },
     "options": {
-      "a": "Parikshit",
-      "b": "Janamejaya",
-      "c": "Abhimanyu",
-      "d": "Iravan"
+      "a": {
+        "en": "Satyabhama",
+        "hi": "सत्यभामा"
+      },
+      "b": {
+        "en": "Rukmini",
+        "hi": "रुक्मिणी"
+      },
+      "c": {
+        "en": "Jambavati",
+        "hi": "जाम्बवती"
+      },
+      "d": {
+        "en": "Kalindi",
+        "hi": "कालिंदी"
+      }
     },
     "correct": "a"
   },
   {
-    "question": "Who saved the unborn Parikshit from Ashwatthama's Brahmastra?",
+    "question": {
+      "en": "Who served as Krishna's close friend and wise counselor in Dwarka?",
+      "hi": "द्वारका में कृष्ण के घनिष्ठ मित्र और बुद्धिमान सलाहकार के रूप में कौन सेवा करते थे?"
+    },
     "options": {
-      "a": "Krishna",
-      "b": "Vyasa",
-      "c": "Arjuna",
-      "d": "Bhima"
+      "a": {
+        "en": "Uddhava",
+        "hi": "उद्धव"
+      },
+      "b": {
+        "en": "Akrura",
+        "hi": "अक्रूर"
+      },
+      "c": {
+        "en": "Satyaki",
+        "hi": "सात्यकि"
+      },
+      "d": {
+        "en": "Daruka",
+        "hi": "दारुक"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which king was defeated by Krishna after falsely claiming to be Lord Vasudeva?",
+      "hi": "भगवान वासुदेव होने का झूठा दावा करने वाले किस राजा को कृष्ण ने पराजित किया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Paundraka",
+        "hi": "पौण्ड्रक"
+      },
+      "b": {
+        "en": "Jarasandha",
+        "hi": "जरासंध"
+      },
+      "c": {
+        "en": "Shishupala",
+        "hi": "शिशुपाल"
+      },
+      "d": {
+        "en": "Narakasura",
+        "hi": "नरकासुर"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was Krishna's grandson who later became king of Dwarka?",
+      "hi": "कृष्ण के किस पौत्र ने बाद में द्वारका के राजा के रूप में शासन किया?"
+    },
+    "options": {
+      "a": {
+        "en": "Aniruddha",
+        "hi": "अनिरुद्ध"
+      },
+      "b": {
+        "en": "Parikshit",
+        "hi": "परीक्षित"
+      },
+      "c": {
+        "en": "Abhimanyu",
+        "hi": "अभिमन्यु"
+      },
+      "d": {
+        "en": "Samba",
+        "hi": "सांब"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which festival commemorates Krishna's victory over Narakasura in many parts of India?",
+      "hi": "भारत के कई हिस्सों में कौन-सा त्योहार कृष्ण की नरकासुर पर विजय की स्मृति में मनाया जाता है?"
+    },
+    "options": {
+      "a": {
+        "en": "Naraka Chaturdashi",
+        "hi": "नरक चतुर्दशी"
+      },
+      "b": {
+        "en": "Janmashtami",
+        "hi": "जन्माष्टमी"
+      },
+      "c": {
+        "en": "Holi",
+        "hi": "होली"
+      },
+      "d": {
+        "en": "Govardhan Puja",
+        "hi": "गोवर्धन पूजा"
+      }
     },
     "correct": "a"
   }
-]
 ]
