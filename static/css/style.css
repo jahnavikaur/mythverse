@@ -49,10 +49,6 @@ body{
 .nav a{ color:var(--ivory-dim); text-decoration:none; }
 .nav a:hover{ color:var(--gold-bright); }
 .lang-toggle{
-  position:fixed;
-  top:16px;
-  right:16px;
-  z-index:50;
   display:flex;
   align-items:center;
   gap:4px;
