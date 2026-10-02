@@ -17,7 +17,22 @@ TIERS = [
     (0.5, "Yodha", "A warrior's knowledge — solid, with room to grow."),
     (0.0, "Shishya", "A student's beginning. Every sage started here."),
 ]
+def get_current_language():
+    """The language chosen via the EN / हि toggle (stored in the session)."""
+    language = session.get("lang", DEFAULT_LANGUAGE)
+    return language if language in SUPPORTED_LANGUAGES else DEFAULT_LANGUAGE
 
+
+@app.context_processor
+def inject_translation_helpers():
+    """Make translate(), domain_label() and difficulty_label() available in every template."""
+    language = get_current_language()
+    return {
+        "current_language": language,
+        "translate": lambda key, **values: translate(key, language, **values),
+        "domain_label": lambda name: translate("domain_" + name, language, default=name),
+        "difficulty_label": lambda level: translate("difficulty_" + level, language, default=level.capitalize()),
+    }
 
 def tier_for(score, total):
     pct = (score / total) if total else 0
