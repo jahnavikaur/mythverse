@@ -221,3 +221,40 @@ select option{ background:var(--night-deep); color:var(--ivory); }
 .lb-name{ flex:1; font-size:14px; font-weight:600; }
 .lb-score{ font-family:'Cinzel'; font-weight:600; color:var(--gold-bright); font-size:14px; }
 .lb-empty{ text-align:center; color:var(--ivory-dim); font-size:13.5px; padding:20px 0; }
+/* ---- Mythological motifs ---- */
+
+/* Temple skyline, fixed along the bottom of every page, behind everything. */
+.temple-skyline{
+  position:fixed; left:0; right:0; bottom:0; height:min(18vh, 130px);
+  color:var(--gold); opacity:0.12; pointer-events:none; z-index:-1;
+}
+.temple-skyline svg{ width:100%; height:100%; display:block; }
+
+/* Per-category line-art motif, shown in the corner of the quiz card. */
+.myth-motif{
+  position:absolute; top:14px; right:14px; width:100px; height:100px;
+  color:var(--gold); opacity:0.16; pointer-events:none; z-index:-1;
+}
+.myth-motif svg{ width:100%; height:100%; display:block; }
+
+.motif-mahabharata svg{ animation:myth-spin 50s linear infinite; }
+
+@media (prefers-reduced-motion: no-preference){
+  .myth-motif:not(.motif-mahabharata){ animation:myth-float 7s ease-in-out infinite; }
+  .myth-flame{ animation:myth-flicker 2.4s ease-in-out infinite; transform-origin:center bottom; }
+  .myth-flame-2{ animation-delay:0.6s; animation-duration:2.8s; }
+  .myth-flame-3{ animation-delay:1.1s; animation-duration:2.1s; }
+}
+
+@keyframes myth-float{
+  0%,100%{ transform:translateY(0); }
+  50%{ transform:translateY(-6px); }
+}
+@keyframes myth-spin{
+  from{ transform:rotate(0deg); }
+  to{ transform:rotate(360deg); }
+}
+@keyframes myth-flicker{
+  0%,100%{ opacity:0.9; transform:scaleY(1); }
+  50%{ opacity:0.5; transform:scaleY(0.82); }
+}
