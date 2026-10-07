@@ -125,6 +125,16 @@ CATEGORY_SLUGS = {
 
 def category_slug(category):
     return CATEGORY_SLUGS.get(category, "devas")
+def t(key, language=DEFAULT_LANGUAGE, default=None, **format_values):
+    return translate(key, language, default, **format_values)
+
+
+def translate_category(category, language=DEFAULT_LANGUAGE):
+    return translate(f"domain_{category}", language, default=category)
+
+
+def translate_difficulty(difficulty, language=DEFAULT_LANGUAGE):
+    return translate(f"difficulty_{difficulty.lower()}", language, default=difficulty)
 
 def translate(key, language=DEFAULT_LANGUAGE, default=None, **format_values):
     """Return the text for `key` in `language`.
