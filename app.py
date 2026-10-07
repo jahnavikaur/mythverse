@@ -6,7 +6,8 @@ from flask import Flask, render_template, request, redirect, url_for, session, j
 from config import SECRET_KEY, QUESTIONS_PER_ROUND
 from database import get_db, init_db
 from auth import hash_password, verify_password
-from translations import translate, SUPPORTED_LANGUAGES, DEFAULT_LANGUAGE
+# change this import line:
+from translations import t, translate_category, translate_difficulty, category_slug
 app = Flask(__name__)
 app.secret_key = SECRET_KEY
 
