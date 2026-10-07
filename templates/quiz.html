@@ -10,6 +10,10 @@
   </div>
   <div class="score-pill">Score <b>{{ score }}</b></div>
 </div>
+{% set motif = cs(question['category']) %}
+<div class="myth-motif motif-{{ motif }}" aria-hidden="true">
+  {% include 'motifs/' + motif + '.svg' %}
+</div>
 
 <div class="category-tag">{{ question['category'] }}</div>
 <div class="question">{{ question['question'] }}</div>
