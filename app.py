@@ -6,41 +6,47 @@ from flask import Flask, render_template, request, redirect, url_for, session, j
 from config import SECRET_KEY, QUESTIONS_PER_ROUND
 from database import get_db, init_db
 from auth import hash_password, verify_password
-# change this import line:
 from translations import t, translate_category, translate_difficulty, category_slug
+
 app = Flask(__name__)
 app.secret_key = SECRET_KEY
 
-# Score-based titles, checked top to bottom against percentage correct.
-TIERS = [
-    (0.9, "Avatar", "A rare, near-perfect command of the epics."),
-    (0.7, "Maharishi", "A great sage's grasp of the old stories."),
-    (0.5, "Yodha", "A warrior's knowledge — solid, with room to grow."),
-    (0.0, "Shishya", "A student's beginning. Every sage started here."),
-]
-def get_current_language():
-    """The language chosen via the EN / हि toggle (stored in the session)."""
-    language = session.get("lang", DEFAULT_LANGUAGE)
-    return language if language in SUPPORTED_LANGUAGES else DEFAULT_LANGUAGE
+
+def current_lang():
+    return session.get("lang", "en")
 
 
 @app.context_processor
-def inject_translation_helpers():
-    """Make translate(), domain_label() and difficulty_label() available in every template."""
-    language = get_current_language()
+def inject_translations():
+    """Makes t(), tc(), td() and lang available in every template without
+    having to pass them in explicitly from each route."""
+    lang = current_lang()
     return {
-        "current_language": language,
-        "translate": lambda key, **values: translate(key, language, **values),
-        "domain_label": lambda name: translate("domain_" + name, language, default=name),
-        "difficulty_label": lambda level: translate("difficulty_" + level, language, default=level.capitalize()),
+        "t": lambda key: t(key, lang),
+        "tc": lambda category: translate_category(category, lang),
+        "td": lambda difficulty: translate_difficulty(difficulty, lang),
+        "cs": category_slug,
+        "lang": lang,
     }
 
-def tier_for(score, total):
+
+# Score-based titles, checked top to bottom against percentage correct.
+# Keys, not English strings — the actual text is looked up per-language
+# in tier_for() via translations.py.
+TIERS = [
+    (0.9, "tier_avatar_title", "tier_avatar_desc"),
+    (0.7, "tier_maharishi_title", "tier_maharishi_desc"),
+    (0.5, "tier_yodha_title", "tier_yodha_desc"),
+    (0.0, "tier_shishya_title", "tier_shishya_desc"),
+]
+
+
+def tier_for(score, total, lang):
     pct = (score / total) if total else 0
-    for threshold, title, desc in TIERS:
+    for threshold, title_key, desc_key in TIERS:
         if pct >= threshold:
-            return title, desc
-    return TIERS[-1][1], TIERS[-1][2]
+            return t(title_key, lang), t(desc_key, lang)
+    return t(TIERS[-1][1], lang), t(TIERS[-1][2], lang)
 
 
 def localize_question(row, lang):
@@ -96,7 +102,7 @@ def setup():
     conn.close()
 
     if not counts:
-        flash("No questions available yet. Import some questions first.")
+        flash(t("flash_no_questions_import", current_lang()))
         return render_template("setup.html", categories=[], difficulty_order=[], counts={})
 
     categories = sorted({r["category"] for r in counts})
@@ -109,7 +115,7 @@ def setup():
         difficulty = request.form.get("difficulty")
 
         if (category, difficulty) not in count_map:
-            flash("Please pick a valid domain and difficulty combination.")
+            flash(t("flash_invalid_setup", current_lang()))
             return redirect(url_for("setup"))
 
         # Starting a new round — clear any in-progress quiz state.
@@ -130,14 +136,14 @@ def register():
     password = request.form.get("password", "")
 
     if not username or not password:
-        flash("Enter both a username and password.")
+        flash(t("flash_need_both", current_lang()))
         return redirect(url_for("home"))
 
     conn = get_db()
     existing = conn.execute("SELECT id FROM users WHERE username = ?", (username,)).fetchone()
     if existing:
         conn.close()
-        flash("That username is already taken.")
+        flash(t("flash_username_taken", current_lang()))
         return redirect(url_for("home"))
 
     conn.execute(
@@ -146,7 +152,7 @@ def register():
     )
     conn.commit()
     conn.close()
-    flash("Account created — log in below.")
+    flash(t("flash_account_created", current_lang()))
     return redirect(url_for("home"))
 
 
@@ -164,7 +170,7 @@ def login():
         session["username"] = user["username"]
         return redirect(url_for("play"))
 
-    flash("Invalid username or password.")
+    flash(t("flash_invalid_login", current_lang()))
     return redirect(url_for("home"))
 
 
@@ -283,7 +289,7 @@ def result():
         conn.close()
         session["quiz_saved"] = True
 
-    title, desc = tier_for(score, total) if total else ("", "")
+    title, desc = tier_for(score, total, current_lang()) if total else ("", "")
     return render_template("result.html", score=score, total=total, title=title, desc=desc)
 
 
