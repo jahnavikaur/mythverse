@@ -114,7 +114,17 @@ UI_TEXT = {
     "tierdesc_Shishya":   {"en": "A student's beginning. Every sage started here.",
                            "hi": "एक शिष्य की शुरुआत। हर ऋषि ने यहीं से आरंभ किया था।"},
 }
+CATEGORY_SLUGS = {
+    "Devas": "devas",
+    "Ramayana": "ramayana",
+    "Mahabharata": "mahabharata",
+    "Krishna Leela": "krishna-leela",
+    "Krishan Leela": "krishna-leela",
+}
 
+
+def category_slug(category):
+    return CATEGORY_SLUGS.get(category, "devas")
 
 def translate(key, language=DEFAULT_LANGUAGE, default=None, **format_values):
     """Return the text for `key` in `language`.
