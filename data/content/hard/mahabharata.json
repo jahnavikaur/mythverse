@@ -748,5 +748,256 @@
       }
     },
     "correct": "a"
+  },
+  
+  {
+    "question": {
+      "en": "Who was the mother of Vidura?",
+      "hi": "विदुर की माता कौन थीं?"
+    },
+    "options": {
+      "a": {
+        "en": "A maidservant of the royal household",
+        "hi": "राजमहल की एक दासी"
+      },
+      "b": {
+        "en": "Ambika",
+        "hi": "अंबिका"
+      },
+      "c": {
+        "en": "Ambalika",
+        "hi": "अंबालिका"
+      },
+      "d": {
+        "en": "Satyavati",
+        "hi": "सत्यवती"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was the mother of Dhritarashtra's son Yuyutsu?",
+      "hi": "धृतराष्ट्र के पुत्र युयुत्सु की माता कौन थीं?"
+    },
+    "options": {
+      "a": {
+        "en": "A Vaishya woman",
+        "hi": "एक वैश्य स्त्री"
+      },
+      "b": {
+        "en": "Gandhari",
+        "hi": "गांधारी"
+      },
+      "c": {
+        "en": "Kunti",
+        "hi": "कुंती"
+      },
+      "d": {
+        "en": "Madri",
+        "hi": "माद्री"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which sage gave Kunti the mantra that allowed her to invoke gods and have children?",
+      "hi": "कुंती को वह मंत्र किस ऋषि ने दिया था जिससे वे देवताओं का आह्वान करके संतान प्राप्त कर सकती थीं?"
+    },
+    "options": {
+      "a": {
+        "en": "Durvasa",
+        "hi": "दुर्वासा"
+      },
+      "b": {
+        "en": "Vashishtha",
+        "hi": "वशिष्ठ"
+      },
+      "c": {
+        "en": "Parashara",
+        "hi": "पराशर"
+      },
+      "d": {
+        "en": "Bharadwaja",
+        "hi": "भरद्वाज"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which god was invoked by Kunti to give birth to Yudhishthira?",
+      "hi": "युधिष्ठिर को जन्म देने के लिए कुंती ने किस देवता का आह्वान किया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Dharma",
+        "hi": "धर्मदेव"
+      },
+      "b": {
+        "en": "Vayu",
+        "hi": "वायुदेव"
+      },
+      "c": {
+        "en": "Indra",
+        "hi": "इंद्रदेव"
+      },
+      "d": {
+        "en": "Surya",
+        "hi": "सूर्यदेव"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was the father of Jarasandha, the powerful king of Magadha?",
+      "hi": "मगध के शक्तिशाली राजा जरासंध के पिता कौन थे?"
+    },
+    "options": {
+      "a": {
+        "en": "King Brihadratha",
+        "hi": "राजा बृहद्रथ"
+      },
+      "b": {
+        "en": "King Shishupala",
+        "hi": "राजा शिशुपाल"
+      },
+      "c": {
+        "en": "King Drupada",
+        "hi": "राजा द्रुपद"
+      },
+      "d": {
+        "en": "King Shantanu",
+        "hi": "राजा शांतनु"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who killed Jarasandha in a wrestling match arranged by Krishna?",
+      "hi": "कृष्ण द्वारा आयोजित मल्लयुद्ध में जरासंध का वध किसने किया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Bhima",
+        "hi": "भीम"
+      },
+      "b": {
+        "en": "Arjuna",
+        "hi": "अर्जुन"
+      },
+      "c": {
+        "en": "Krishna",
+        "hi": "कृष्ण"
+      },
+      "d": {
+        "en": "Balarama",
+        "hi": "बलराम"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which king did Krishna kill during Yudhishthira's Rajasuya sacrifice after he insulted Krishna?",
+      "hi": "युधिष्ठिर के राजसूय यज्ञ में कृष्ण का अपमान करने के बाद किस राजा का वध कृष्ण ने किया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Shishupala",
+        "hi": "शिशुपाल"
+      },
+      "b": {
+        "en": "Jarasandha",
+        "hi": "जरासंध"
+      },
+      "c": {
+        "en": "Dantavakra",
+        "hi": "दंतवक्र"
+      },
+      "d": {
+        "en": "Paundraka",
+        "hi": "पौंड्रक"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was the charioteer of Krishna during the Kurukshetra war?",
+      "hi": "कुरुक्षेत्र युद्ध में कृष्ण के रथ के सारथी कौन थे?"
+    },
+    "options": {
+      "a": {
+        "en": "Daruka",
+        "hi": "दारुक"
+      },
+      "b": {
+        "en": "Sanjaya",
+        "hi": "संजय"
+      },
+      "c": {
+        "en": "Matali",
+        "hi": "मातलि"
+      },
+      "d": {
+        "en": "Kripa",
+        "hi": "कृपाचार्य"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which Pandava ruled Hastinapura after the Kurukshetra war?",
+      "hi": "कुरुक्षेत्र युद्ध के बाद हस्तिनापुर पर किस पांडव ने शासन किया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Yudhishthira",
+        "hi": "युधिष्ठिर"
+      },
+      "b": {
+        "en": "Bhima",
+        "hi": "भीम"
+      },
+      "c": {
+        "en": "Arjuna",
+        "hi": "अर्जुन"
+      },
+      "d": {
+        "en": "Nakula",
+        "hi": "नकुल"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who succeeded Parikshit as king of the Kuru kingdom?",
+      "hi": "परीक्षित के बाद कुरु राज्य का राजा कौन बना?"
+    },
+    "options": {
+      "a": {
+        "en": "Janamejaya",
+        "hi": "जनमेजय"
+      },
+      "b": {
+        "en": "Abhimanyu",
+        "hi": "अभिमन्यु"
+      },
+      "c": {
+        "en": "Yudhishthira",
+        "hi": "युधिष्ठिर"
+      },
+      "d": {
+        "en": "Dhrishtadyumna",
+        "hi": "धृष्टद्युम्न"
+      }
+    },
+    "correct": "a"
   }
 ]
