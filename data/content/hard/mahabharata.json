@@ -498,5 +498,255 @@
       }
     },
     "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who killed Shakuni during the Kurukshetra war?",
+      "hi": "कुरुक्षेत्र युद्ध में शकुनि का वध किसने किया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Sahadeva",
+        "hi": "सहदेव"
+      },
+      "b": {
+        "en": "Nakula",
+        "hi": "नकुल"
+      },
+      "c": {
+        "en": "Bhima",
+        "hi": "भीम"
+      },
+      "d": {
+        "en": "Arjuna",
+        "hi": "अर्जुन"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who killed Dushasana during the Kurukshetra war?",
+      "hi": "कुरुक्षेत्र युद्ध में दुःशासन का वध किसने किया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Bhima",
+        "hi": "भीम"
+      },
+      "b": {
+        "en": "Arjuna",
+        "hi": "अर्जुन"
+      },
+      "c": {
+        "en": "Sahadeva",
+        "hi": "सहदेव"
+      },
+      "d": {
+        "en": "Satyaki",
+        "hi": "सात्यकि"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which Kaurava brother openly opposed the humiliation of Draupadi in the royal assembly?",
+      "hi": "राजसभा में द्रौपदी के अपमान का खुले तौर पर विरोध किस कौरव भाई ने किया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Vikarna",
+        "hi": "विकर्ण"
+      },
+      "b": {
+        "en": "Dushasana",
+        "hi": "दुःशासन"
+      },
+      "c": {
+        "en": "Chitrasena",
+        "hi": "चित्रसेन"
+      },
+      "d": {
+        "en": "Durmukha",
+        "hi": "दुर्मुख"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was the son of Arjuna and the Naga princess Ulupi?",
+      "hi": "अर्जुन और नाग कन्या उलूपी के पुत्र कौन थे?"
+    },
+    "options": {
+      "a": {
+        "en": "Iravan",
+        "hi": "इरावान"
+      },
+      "b": {
+        "en": "Abhimanyu",
+        "hi": "अभिमन्यु"
+      },
+      "c": {
+        "en": "Ghatotkacha",
+        "hi": "घटोत्कच"
+      },
+      "d": {
+        "en": "Parikshit",
+        "hi": "परीक्षित"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who killed Abhimanyu inside the Chakravyuha?",
+      "hi": "चक्रव्यूह के भीतर अभिमन्यु का वध किसने किया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Several Kaurava warriors attacked him together",
+        "hi": "कई कौरव योद्धाओं ने मिलकर उस पर हमला किया"
+      },
+      "b": {
+        "en": "Drona alone",
+        "hi": "केवल द्रोणाचार्य ने"
+      },
+      "c": {
+        "en": "Karna alone",
+        "hi": "केवल कर्ण ने"
+      },
+      "d": {
+        "en": "Ashwatthama alone",
+        "hi": "केवल अश्वत्थामा ने"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which warrior served as Karna's charioteer during his final battle with Arjuna?",
+      "hi": "अर्जुन के साथ अंतिम युद्ध के दौरान कर्ण का सारथी कौन था?"
+    },
+    "options": {
+      "a": {
+        "en": "Shalya",
+        "hi": "शल्य"
+      },
+      "b": {
+        "en": "Kripa",
+        "hi": "कृपाचार्य"
+      },
+      "c": {
+        "en": "Drona",
+        "hi": "द्रोणाचार्य"
+      },
+      "d": {
+        "en": "Sanjaya",
+        "hi": "संजय"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which warrior killed Shalya, the final commander of the Kaurava army?",
+      "hi": "कौरव सेना के अंतिम सेनापति शल्य का वध किस योद्धा ने किया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Yudhishthira",
+        "hi": "युधिष्ठिर"
+      },
+      "b": {
+        "en": "Bhima",
+        "hi": "भीम"
+      },
+      "c": {
+        "en": "Arjuna",
+        "hi": "अर्जुन"
+      },
+      "d": {
+        "en": "Sahadeva",
+        "hi": "सहदेव"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who killed Bhurishrava during the Kurukshetra war?",
+      "hi": "कुरुक्षेत्र युद्ध में भूरिश्रवा का वध किसने किया था?"
+    },
+    "options": {
+      "a": {
+        "en": "Satyaki",
+        "hi": "सात्यकि"
+      },
+      "b": {
+        "en": "Arjuna",
+        "hi": "अर्जुन"
+      },
+      "c": {
+        "en": "Bhima",
+        "hi": "भीम"
+      },
+      "d": {
+        "en": "Dhrishtadyumna",
+        "hi": "धृष्टद्युम्न"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was the son of Dronacharya and Kripi?",
+      "hi": "द्रोणाचार्य और कृपी के पुत्र कौन थे?"
+    },
+    "options": {
+      "a": {
+        "en": "Ashwatthama",
+        "hi": "अश्वत्थामा"
+      },
+      "b": {
+        "en": "Kripacharya",
+        "hi": "कृपाचार्य"
+      },
+      "c": {
+        "en": "Satyaki",
+        "hi": "सात्यकि"
+      },
+      "d": {
+        "en": "Yuyutsu",
+        "hi": "युयुत्सु"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which weapon did Ashwatthama release toward the womb of Uttaraa to destroy the unborn Parikshit?",
+      "hi": "अजन्मे परीक्षित को नष्ट करने के लिए अश्वत्थामा ने उत्तरा के गर्भ की ओर कौन-सा अस्त्र छोड़ा था?"
+    },
+    "options": {
+      "a": {
+        "en": "Brahmastra",
+        "hi": "ब्रह्मास्त्र"
+      },
+      "b": {
+        "en": "Pashupatastra",
+        "hi": "पाशुपतास्त्र"
+      },
+      "c": {
+        "en": "Vajra",
+        "hi": "वज्र"
+      },
+      "d": {
+        "en": "Agneyastra",
+        "hi": "आग्नेयास्त्र"
+      }
+    },
+    "correct": "a"
   }
 ]
