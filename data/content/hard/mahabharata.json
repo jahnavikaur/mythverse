@@ -248,5 +248,255 @@
       }
     },
     "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was the father of Abhimanyu's wife, Uttaraa?",
+      "hi": "अभिमन्यु की पत्नी उत्तरा के पिता कौन थे?"
+    },
+    "options": {
+      "a": {
+        "en": "King Virata",
+        "hi": "राजा विराट"
+      },
+      "b": {
+        "en": "King Drupada",
+        "hi": "राजा द्रुपद"
+      },
+      "c": {
+        "en": "King Shalya",
+        "hi": "राजा शल्य"
+      },
+      "d": {
+        "en": "King Drupada's son",
+        "hi": "राजा द्रुपद के पुत्र"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which divine weapon did Arjuna receive from Lord Shiva after defeating him in combat disguised as a hunter?",
+      "hi": "शिकारी के वेश में आए भगवान शिव को युद्ध में प्रसन्न करने के बाद अर्जुन को कौन-सा दिव्य अस्त्र मिला था?"
+    },
+    "options": {
+      "a": {
+        "en": "Pashupatastra",
+        "hi": "पाशुपतास्त्र"
+      },
+      "b": {
+        "en": "Brahmastra",
+        "hi": "ब्रह्मास्त्र"
+      },
+      "c": {
+        "en": "Narayanastra",
+        "hi": "नारायणास्त्र"
+      },
+      "d": {
+        "en": "Agneyastra",
+        "hi": "आग्नेयास्त्र"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "What was the name of Arjuna's bow?",
+      "hi": "अर्जुन के धनुष का नाम क्या था?"
+    },
+    "options": {
+      "a": {
+        "en": "Gandiva",
+        "hi": "गांडीव"
+      },
+      "b": {
+        "en": "Pinaka",
+        "hi": "पिनाक"
+      },
+      "c": {
+        "en": "Sharanga",
+        "hi": "शारंग"
+      },
+      "d": {
+        "en": "Vijaya",
+        "hi": "विजय"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was the father of Ganga's son Devavrata, later known as Bhishma?",
+      "hi": "गंगा के पुत्र देवव्रत, जिन्हें बाद में भीष्म कहा गया, के पिता कौन थे?"
+    },
+    "options": {
+      "a": {
+        "en": "King Shantanu",
+        "hi": "राजा शांतनु"
+      },
+      "b": {
+        "en": "King Vichitravirya",
+        "hi": "राजा विचित्रवीर्य"
+      },
+      "c": {
+        "en": "King Pandu",
+        "hi": "राजा पांडु"
+      },
+      "d": {
+        "en": "Sage Parashara",
+        "hi": "महर्षि पराशर"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was the biological father of Dhritarashtra?",
+      "hi": "धृतराष्ट्र के जैविक पिता कौन थे?"
+    },
+    "options": {
+      "a": {
+        "en": "Sage Vyasa",
+        "hi": "महर्षि वेदव्यास"
+      },
+      "b": {
+        "en": "King Shantanu",
+        "hi": "राजा शांतनु"
+      },
+      "c": {
+        "en": "King Pandu",
+        "hi": "राजा पांडु"
+      },
+      "d": {
+        "en": "Vidura",
+        "hi": "विदुर"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which celestial weapon did Arjuna use to kill Jayadratha?",
+      "hi": "जयद्रथ का वध करने के लिए अर्जुन ने किस दिव्य अस्त्र का प्रयोग किया था?"
+    },
+    "options": {
+      "a": {
+        "en": "An arrow released from Gandiva",
+        "hi": "गांडीव से छोड़ा गया एक बाण"
+      },
+      "b": {
+        "en": "Pashupatastra",
+        "hi": "पाशुपतास्त्र"
+      },
+      "c": {
+        "en": "Narayanastra",
+        "hi": "नारायणास्त्र"
+      },
+      "d": {
+        "en": "Vajra",
+        "hi": "वज्र"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was the mother of the Kauravas?",
+      "hi": "कौरवों की माता कौन थीं?"
+    },
+    "options": {
+      "a": {
+        "en": "Gandhari",
+        "hi": "गांधारी"
+      },
+      "b": {
+        "en": "Kunti",
+        "hi": "कुंती"
+      },
+      "c": {
+        "en": "Madri",
+        "hi": "माद्री"
+      },
+      "d": {
+        "en": "Satyavati",
+        "hi": "सत्यवती"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was the eldest son of Dhritarashtra?",
+      "hi": "धृतराष्ट्र के सबसे बड़े पुत्र कौन थे?"
+    },
+    "options": {
+      "a": {
+        "en": "Duryodhana",
+        "hi": "दुर्योधन"
+      },
+      "b": {
+        "en": "Dushasana",
+        "hi": "दुःशासन"
+      },
+      "c": {
+        "en": "Vikarna",
+        "hi": "विकर्ण"
+      },
+      "d": {
+        "en": "Yuyutsu",
+        "hi": "युयुत्सु"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Which Pandava was the son of the Ashwini Kumaras?",
+      "hi": "कौन-से पांडव अश्विनी कुमारों के पुत्र थे?"
+    },
+    "options": {
+      "a": {
+        "en": "Nakula and Sahadeva",
+        "hi": "नकुल और सहदेव"
+      },
+      "b": {
+        "en": "Yudhishthira and Bhima",
+        "hi": "युधिष्ठिर और भीम"
+      },
+      "c": {
+        "en": "Arjuna and Bhima",
+        "hi": "अर्जुन और भीम"
+      },
+      "d": {
+        "en": "Yudhishthira and Arjuna",
+        "hi": "युधिष्ठिर और अर्जुन"
+      }
+    },
+    "correct": "a"
+  },
+  {
+    "question": {
+      "en": "Who was the king of Madra and the maternal uncle of Nakula and Sahadeva?",
+      "hi": "मद्र देश के राजा और नकुल-सहदेव के मामा कौन थे?"
+    },
+    "options": {
+      "a": {
+        "en": "Shalya",
+        "hi": "शल्य"
+      },
+      "b": {
+        "en": "Drupada",
+        "hi": "द्रुपद"
+      },
+      "c": {
+        "en": "Virata",
+        "hi": "विराट"
+      },
+      "d": {
+        "en": "Shakuni",
+        "hi": "शकुनि"
+      }
+    },
+    "correct": "a"
   }
 ]
