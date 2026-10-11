@@ -6,12 +6,14 @@
     },
     "options": {
       "a": {
-        "en": "Vritra",
-        "hi": "वृत्र"
+         "en": "Mahishasura",
+        "hi": "महिषासुर"
+       
       },
       "b": {
-        "en": "Mahishasura",
-        "hi": "महिषासुर"
+         "en": "Vritra",
+        "hi": "वृत्र"
+       
       },
       "c": {
         "en": "Bhasmasura",
