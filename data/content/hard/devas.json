@@ -33,12 +33,14 @@
     },
     "options": {
       "a": {
-        "en": "Gautama",
-        "hi": "गौतम"
+         "en": "Durvasa",
+        "hi": "दुर्वासा"
+        
       },
       "b": {
-        "en": "Durvasa",
-        "hi": "दुर्वासा"
+        "en": "Gautama",
+        "hi": "गौतम"
+       
       },
       "c": {
         "en": "Bhrigu",
